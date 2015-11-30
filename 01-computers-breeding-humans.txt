@@ -1,23 +1,21 @@
-Are Computers already breeding super humans?
-
-(https://www.youtube.com/watch?v=SqEo107j-uw&t=37m24s
-Sam Altman – machine learning algorithms matching people on dating sites who go on to have children – in effect, machines are breeding people)
+[ Inspiration: https://www.youtube.com/watch?v=SqEo107j-uw&t=37m24s
+Sam Altman – machine learning algorithms matching people on dating sites who go on to have children – in effect, machines are breeding people ]
 
 If popular science fiction is any indication, people are pretty sure that some future super computer intelligence is going to spend it’s free time breeding humans.  Whether they’re doing it so they can use us as an endless source of battery power - Matrix-style - or as a solution to their own electronic infertility - like in Battlestar Galactica - we know they’ll be spending their 1’s and 0’s figuring out our birds and bees.
 
 But what if the future is now?  What if computers are already breeding humans?
 
-(intro)
+[intro]
 
 Computer Assisted Dating goes all the way back to 1965.
 
-[Operation Match (http://www.theguardian.com/lifeandstyle/2014/feb/09/match-eharmony-algorithm-internet-dating).  ]
-
 Jeff Tarr, a Harvard grad, was fed up with the limited dating pool his social circle offered.  On the hunch that other people were similarly suffering, he sent out ‘ideal date’ questionnaires to students across Boston.  Each questionnaire was transferred to a punch card, the punch card was fed into the computer and out popped a list of 6 people (complete with contact info) that were sure to be your ideal date. He called this Operation Match.
+
+[http://www.theguardian.com/lifeandstyle/2014/feb/09/match-eharmony-algorithm-internet-dating]
 
 Obviously, computer dating isn’t just for nerdy Harvard students anymore. But you might be surprised to hear just how mainstream computer dating has become.
 
-STATS ALERT! <put on glasses> 22% of 18-24 year olds have used an online dating app. 35% of recent marriages were from relationships that started online (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3690854/). Online dating itself is a $1.7 billion dollar per year industry.
+STATS ALERT! [put on glasses] 22% of 18-24 year olds have used an online dating app. 35% of recent marriages were from relationships that started online [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3690854/]. Online dating itself is a $1.7 billion dollar per year industry.
 
 The level of machine matchmaking involvement varies depending on the platform. eHarmony rates your closeness in 6 areas based on 200 questions. Tinder decides who you see based on data points matching–things like careers, education, and interests–as well as technical information like how many times someone swipes to accept a notice from people with specific interests. Xbox Live matches people up based on the games they want to play and their skill level. What, you don’t think that fits? I guess you didn’t realize that only 50% of those online marriages were from online dating sites. That’s right, people are meeting each other through e-mail, Facebook and even playing online games. But the stats aren’t in yet for the number of WoWbabies out there yet, but if you meet a kid named Azeroth, you know what happened.
 
@@ -32,14 +30,13 @@ Back in the day, early Netflix built a reputation around recommending movies to 
 In 2007, they offered a 1 million dollar prize to the man, woman, child or team who dared teach those Netflix computers to tighten up those suggestions. That prize was claimed by Gavin Potter. He programmed computers to learn from a combination of past behavior and group filtering to make ever better recommendations. The group filtering is cool. That’s the thing they’re most well known for now. It’s saying I don’t know you, but I know you like this movie and this movie and this movie, and people who liked this liked that.
 
 It’s kind of funny that Netflix was putting more money and effort into its algorithms for movie suggestions than a lot of dating sites. That didn’t escape the notice of said online dating sites. After winning his sweet million-dollar prize, Mr Gavin Potter was approached by dating sites in the UK asking him to improve their results as well. How about that? Movies and a date, brought to you by the same lines of code!
-
-http://www.theguardian.com/lifeandstyle/2014/feb/09/match-eharmony-algorithm-internet-dating
+[http://www.theguardian.com/lifeandstyle/2014/feb/09/match-eharmony-algorithm-internet-dating]
 
 Machines aren’t just giving us romance in bulk. They’re also upping one geek’s game in a customized way. This guy built his own tinder automator with a facial recognition algorithm known as Eigenfaces. It learned which faces he preferred and then started “swiping right” automatically for him if photos of new women were similar enough to his previous likes.
-http://crockpotveggies.com/2015/02/09/automating-tinder-with-eigenfaces.html
+[http://crockpotveggies.com/2015/02/09/automating-tinder-with-eigenfaces.html]
 
 If you want that kind of automation in your life, you can check out his opensource code.
-https://github.com/crockpotveggies/tinderbox
+[https://github.com/crockpotveggies/tinderbox]
 
 So you see that machines are indeed choosing who we get to know and why. But it goes deeper. Computers aren’t just picking people for you to see. They’re also shaping how you see and experience potential romantic partners.
 
