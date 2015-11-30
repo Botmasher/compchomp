@@ -1,3 +1,5 @@
+HOW QUAKE TRICKED COMPUTERS INTO FAKING REAL-WORLD LIGHTING
+
 When we take a game and open up its code guts, sometimes we find out the game we think we’re playing is actually playing tricks on us. Here’s my favorite example - a game that hacked together the illusion of a fully lit world.
 
 [intro]

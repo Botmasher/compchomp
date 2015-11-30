@@ -1,3 +1,5 @@
+HOW COMPUTERS FAILED AT TRANSLATING RUSSIAN
+
 It’s the late 1940’s. The high-octane events of World War II, the victories and the devastation, have faded into a very different kind of war. The Cold War. The US and the USSR are really giving each other the eye. The standoff is intense. Perfect timing for nerdy researchers to start predicting that they’re just years away from these random new things called “computers” being able to translate on their own! Yeah, that caught the Superpowers’ attention. Hopes ran high, with everyone so sure that with just a bit more work, in would go Russian and out would pop English. But that’s not what happened. Things got ugly.
 
 [intro]
