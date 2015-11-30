@@ -1,0 +1,39 @@
+When we take a game and open up its code guts, sometimes we find out the game we think we’re playing is actually playing tricks on us. Here’s my favorite example - a game that hacked together the illusion of a fully lit world.
+
+(intro)
+
+I play shooters. I’m that voice on the other end that guys start heckling if I say one word. But it’s all good. I’m not pretending to fit in. For this girl the biggest WTF moment didn’t happen the last time I got called a ??? by a teenage boy. I’m a programmer, and my biggest WTF’s are when I find out the length game code goes to cheat us into believing our games are doing something our machines really can’t handle. Silent Hill used fog to cover up technical limitations of displaying a full town onscreen at once. Fuse copied data to get enough space for its memory-hungry cinematics. It also reminded us that Insomniac does so much better with pointy-eared space mongoose-thing shooters. But that’s another story. For me, these computer language tricks are like magic. And do you want to see the coolest of these tricks, the biggest one that made the developers themselves go WTF? Let’s do this. C’mon!
+
+In the 90’s, 3D gaming was fancy, new, barely charted territory. Sexy stuff. (Josh, do I really have to say “sexy”? I don’t want to say “sexy”.) Now beefcakes and bullets and bees and bubbles were moving in the X, Y and Z direction. In game programming, that meant wrapping your mind around a vector with 3 components.
+
+But you know what else was moving around these 3D worlds? Light. Light with its rays doing the vector thing, too.
+
+And that would be just a curiosity if you were looking at a nice rendered 3D image like this. But in games, we’re literally updating those vectors every frame, let’s say 30 frames per second. That’s a lot of thinking for your computer to do.
+
+If you’re back in the 90s but you really want to push the limits and make your world look real, that’s 30 frames per second of looking at every light source and calculating every angle that light bounces and reflects around your world. No big deal, because even before the decade when the prince was still fresh, math already had an equation for that. It’s called the inverse square root. But don’t jump up out of your seats and cheer, because that equation is expensive. Computer expensive, meaning it didn’t cost stacks of cayush - it cost stacks of time. And unless you’re a lagbot, time is something we don’t have a lot of between game updates.
+
+So now we’re stuck in the 90’s with a ton of light calculation - actually it was rather heavy. Hahaaa! Yeah, and you’re stuck with computers that can’t even handle that. What do you do? Huh?
+
+Coders are problem solvers. You know, in some jobs you wake up and you’re like, ok I need to do this and this and this today. No. For us, it’s more like I have no idea how to do this today. Time to figure it out!
+
+So John Carmack and his team at id software were facing this very same problem while working on Quake 3 Arena. Carmack? Yeah, the Wolfenstein guy, the Doom guy, the Quake guy. Look, I don’t have a super high nerd quotient and my shooter of choice is the kind with claptraps and slot machines, and even I know who this guy is.
+
+The actual calculation to come up with the inverse square root was too expensive. So they needed an alternative, cuz they weren’t going to give up the lighting effects they wanted. That was NOT an option.
+
+One alternative they thought of was Newton’s method, which is pretty good at refining a guess and getting a close approximation, however that generally takes like 5 or 6 rounds of refining that guess. 5 or 6 rounds of guessing and refining the angle of every light beam hitting every object every frame. That wasn’t gonna work. So they had to get shifty with their code. Bear with me here. The way a floating point number is stored. Wait, wait, wait. Let me back this truck up. There’s a thing called a floating point number. Which, if you’re not a programmer, honestly, even if you are, looks like a regular number with some decimal stuff. And for light and angles and movement, we need those more precise decimal numbers. When you’re writing it into your code, a float looks like you’d expect. The way the computer was storing it was a bit different. (? Hahaha. Bits. You might understand why I keep chuckling to myself in a moment.)
+
+So you’ve got a beam of light heading straight towards the shiny metal barrel of your sweet rocket launcher. And when that light hits that barrel, your computer has to figure out where all those beams are going before that Update function finishes running and it has to do this 30 times per second. We only have time for one guess - a really, really good one so you only have to run Newton’s method once.
+
+Look at this code. This is how they did it. You don’t get it? Nobody does! We’ll walk through it. Just a bit.
+
+Back to the floating point number. That’s stored as a number times ten to some power. What they’re trying to avoid doing is division or multiplication because that’s expensive. Well, talking the inverse square root is the same as dividing the power the number is raised to by negative two. But how do you do that without dividing or multiplying?
+
+Remember that the number’s stored funny. And it’s that funny way of storing the number that gave up the solution. Obviously this is a computer, and, whenever you start looking low enough, you’ll see that computers store stuff in bits. And these bits represent that number in two chunks - its mantissa and its exponent. If you take those bits and you shift them one spot to the right, that’s actually the exact same thing as dividing both of those chunks by two. This isn’t wholesome everyday code, and look! They knew it! Evil bit-level hacking indeed. But this bit of evil helped vanquish that costly foe - division - speeding the whole thing up. Wait, but we need to divide by NEGATIVE two! So, what? Multiply this by negative one? WRONG! I just told you - multiplication is expensive! See, Josh! I told you this Quake math stuff would never work. I’m losing them!
+
+Here’s the thing. Let’s go back to the maths. You know what is very similar to multiplying your number by negative one? Subtracting it from zero. It’s actually the same darn thing. But wait, your bit shift ended up messing with the mantissa, too. So one last hack - pull a magic number out of thin air that returns things to normal and just leaves you with a changed exponent. Don’t look at me. I don’t know how it works. But don’t feel bad. They didn’t know how it worked either! This is really the original comment in the source code. WTF indeed, John Carmack.
+
+Look what we did. We replaced an expensive division and multiplication with a bit shift and a subtraction. Much cheaper. Much more 90’s. Now there’s an extremely close initial guess and with one round of Newton’s method they were good to go!
+
+You wouldn’t want to launch a satellite into space with this, but it was accurate enough to light a whole game arena without lagging your clunky 90’s PC behemoth.
+
+So if you’re a gamer, maybe step back to appreciate the hard work coders do to deceive you and keep your game world running awesome. If you’re a coder, maybe keep some dirty tricks up your sleeve for the next time you need to pull off the impossible. Just don’t tell on me for telling you. And whoever you are, get out there and code! Chomp!

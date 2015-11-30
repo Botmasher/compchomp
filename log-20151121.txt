@@ -1,0 +1,375 @@
+PROJECT PITCH
+
+Provide a 5-10 sentence overview of your concept(s) for your video/series. *
+
+I love coding - computer programming changed my life! I want to show everyone how code touches our lives everyday. How self driving cars decide who lives and who dies in an accident; whether AI is already breeding super humans; how 90s game developers tricked computers into lighting a whole video game world even though computers were too slow to do it; why female developers are disappearing in the pack. NativLang is offering me the chance to take some of my topics and host a series for their audience of language lovers and linguistics buffs. I want to show and tell how linguistics gets coded in fascinating ways. How do web translators automatically know the difference between English and Dutch? Are computer languages real languages? Why isn’t the name of your favorite dessert a good password? How one woman learned to talk to machines before they could hear us. They’re gonna love it!
+
+
+Does your video concept include any characters in STEM-related roles? (Science, Technology, Engineering and Math) - If so, you may be eligible for additional production resources in line with Google’s broader mission to depict inspiring characters in these fields. *
+
+YES! I’m Jessica, the host, and I’m a programmer. I went from loving computers but thinking I missed the chance to build a career around them to becoming a real working developer. I’m even about to speak at a conference in Australia about building diverse tech teams. As this series progresses, the cool people who make our world as automated as it is today (like Ada Lovelace!) are fair game for our animations, image play or short skits.
+
+
+Project Collaborators - Who do you plan to work with? What directors, writers, producers, etc. will you put on your team for this shoot? *
+
+Women aren’t working in STEM fields, but seeing examples of other women doing something scary or challenging helps us conceive of it as something we can do. Right now, while there are some strong female creators making videos on YouTube, the majority of science and technology creators are men. This series is an opportunity to show a female developer front-and-center to inspire girls on two fronts - (1) girls can get creative about STEM fields on YouTube and (2) girls can have careers in science and technology. My plan is to use the series on NativLang as a springboard to launch my own channel with exactly that passion and those goals.
+
+Jessica is the lungs and face, bringing the ideas and the zeal that this world is made of code. Josh is a fellow coder, and an animator and composer from NativLang. Jason is a CTO and coding maniac, acting as script consultant, problem solver and fact checker extraordinaire. I’m looking for hands and brains to make this series a real, polished production.
+
+
+PHONE CONVERSATION WITH YOUTUBE
+
+Overview
+I want to make videos about coding, showing everyone how code touches our lives everyday. This series will take a fun look at the things we love and use, open them up and explore the code they’re made of.
+
+NativLang is offering me a chance to test this idea with their audience of 10k fans of linguistics and human language. So, with that in mind, I have a short list of coding topics relevant to their audience.
+
+Examples
+0. Are computer languages real languages?
+1. Han unicode, encoding complex characters and language standards.
+2. Passwords
+3. Translators - how they identify language
+4. IBM Watson - computers answering questions in natural language
+5. Ada Lovelace - figured out how to talk to computers before there were computers to talk to.
+
+Goals
+- interface with NativLang’s language-loving audience, fitting with the voice and tone of NativLang
+- Tailor content to meet the interests of people with a passion for linguistics
+	- e.g. computational linguistics will fascinate them, but Dykstra pathfinding will be less relevant
+- springboard for creating a wider array of programming-focused content, starting my own channel
+
+Focus
+- people have an idea of what programming is and who does it
+- code changed my life; I love it; affects all of us everyday
+- highlight how code impacts life
+- provide a different voice, a female voice, the voice of someone unsure she could switch careers but passionate about code for years
+
+Difference / USP
+- Existing high-engagement channels cover:
+	- the science of tech: SciShow and SciShow Space
+	- reviews: hardware, software, games and gadgets channels
+	- the maker phenomenon
+	- tutorials: the biggest format when it comes to programming on YouTube
+	- topical but academic (for insiders): computerphile
+- Existing high-engagement channels exploring other topics in a fun way (for outsiders):
+	- VSauce, Extra Credits, CrashCourse
+	- nothing of this caliber and in this niche yet exists for computation and coding
+- I think there’s a gap, or intersection, where coding doesn’t yet have a place on YouTube:
+	- engaging explanations that make intuitive sense
+	- my voice as a working woman developer
+	- fitting art and animation done by NativLang
+
+Format
+- host to camera
+- currently drafting along the lines of a “birth of digital age” aesthetic, 1940’s
+- final edit will use of graphics, animations and “image play” tied to the aesthetic, including sound effects and music
+- we also have idea of integrating short skits/segments between early programmers and host, but this is becoming hard to fit into scripts without it feeling forced
+- majority of filming focused on getting face time with host, setting up angles and lighting for animation/compositing, capturing very clean audio
+- clean backgrounds that can integrate animation style
+- right now preferring nice set or matte bg to green screen to streamline our post-production pipeline
+
+
+
+SCRIPT IDEAS
+
+0. ARE PROGRAMMING LANGUAGES REAL LANGUAGES?
+- intro question. You talk to each other. But to comps?
+- students, classes count instead of foreign language. This could even be relevant hook: But are these langs?
+- differences between code and nat lang. Including terminology.
+- Brain differences/similarities in processing lang
+- sandwich-making (or our cookie baking) metaphor
+- what is a language
+- talking to machines
+- introduces rest of series
+
+?0.5 EXPANDING THE COOKIE BAKING METAPHOR
+
+1. HAN UNICODE
+- Japan protesting the way Chinese characters are organized on computers. Why?
+- When writing went digital, it had to find a way to be calculated. That’s what a computer does. It counts.
+- The counts here are bits. Pieces of information. Do this by encoding characters.
+- Encoding in ASCII by binary integers. Walk through how works.
+- Extending characters, and the ISO standard
+- And then Unicode, to move beyond those limits.
+- Unicode’s aim. Various character sets. All the languages and writing systems. Including ancient ones.
+ How to do this for Chinese characters? 
+- Complexity of Chinese. Worth getting into why so complex, but Josh and I already started thinking through that in Thoth’s Pill (wink nudge)
+- Multiple countries using Chinese characters throughout history at core of their writing systems leading to different standards and forms.
+- Unihan organizes these by putting them together, seeing variants of a character in different countries and periods as surface forms of the same grapheme.
+- Problems. Logistic. Nationalistic/linguistic identity.
+- How resolved? But what about exact technical details? What are Unicode chars?
+- Computers can’t solve border disputes and decide linguistic identity for us.
+	- Bringing us together after threads of history take us in different directions.
+	- But maybe the linguistic conflicts that stem from those need info from language to resolve and encoding has to respond to linguistic facts
+
+2. PASSWORDS
+- I love cookies. But while they’re definitely the world’s best dessert, they make a terrible password.
+- Passwords started out as a linguistic way to determine who had special access to an area, and who should be kept out. But passwords are hardly words anymore. Why is that?
+- Entropy. Guessability. Hacking. Dictionary, brute force…
+- Computer strings, literals, and what a formal language is - legal symbols. But computers still need humans to come up with these passwords. And we rely on our more intuitive human language to come up with words and phrases that mean something for us, maybe getting really clever and substituting numbers for vowels, but more often than not being exactly as clever as the next guy and patting ourselves on the back for it (top passwords list, incl “monkey”).
+- Old password let you go up to secret door and say word once, wouldn’t sit there spamming door until got right one.
+- But now that can send any string want, it’s even more important for those strings to be harder to guess. And harder to guess doesn’t mean more clever human words. It means more entropic computer words.
+- Length, character set
+- Before you think it’s time we move on from our old linguistic idea of passwords and pick up this computational one, think a bit more about the kind of things computers can check before letting you in. What if it checked for a skill instead - how you do what you do. Like speaking English. Or typing. Along with biometrics, these are other ways get back to a more human scale. Maybe one day passwords will be human-style words again.
+
+3. TRANSLATORS
+- Type just a few words into your favorite online translator, and it will guess the language like magic. Sometimes it does it when I just type one word. Or even just a character. How does it do that?
+- You might think it knows a bunch of languages, like it’s a language specialist that studied a bunch of grammar books and paid really good attention in robot language class, or plugged into the AI matrix and just downloaded all the linguistic “know how”, then just had to fill in some strange words here and there that it was missing (“what is TACO?”).
+- Peel back the cover and look inside - that’s not what’s going on. It’s not a language master per se. It’s really a stats master.
+- Thinking like someone who can’t break the rules versus thinking with probabilities. Statistics, word frequencies. Likelihood. It pairs texts in a language with a translation of that text, looking for matches that it can abstract and apply in new situations.
+- knows some languages better than others as a result. Not all pairs equal. That’s why choosing language pairs.
+- Needs and actively requests human help. Checking that it’s giving the right output hard. Guessing pragmatics harder.
+- Examples and News:
+	- Silly examples. Popular ones - Google Translate Sings, or Google Translate reads whatever.
+	- DigitalInspiration created spreadsheet with scripts to translate chat in real time
+	- BUT phone app now allows for texting between different languages
+- Knee jerk reaction and butt of jokes was that Google Translate sucks, right? It’s all ungrammatical and stuff. But what that’s missing is (à la CGP Grey) that it doesn’t need perfection, it needs to work well enough. And as it learns, it gets better.
+- How would you code pragmatics? How would you improve? Do you think computer translation is about to replace humans?
+- Might teach us a bit about language learning - not memorizing rules and then practicing but finding patterns while learning in real time?
+
+4. IBM WATSON
+- Ask a stupid question, get a stupid answer?
+- Unlike Translate last week, this isn’t comparing texts to find a pattern. It’s not trying to learn how you speak to be able to imitate you, to replace humans. Watson is seeking to consider a question you ask, consider it, and come up with its own answer.
+- Team and implementation focused on the things/tasks humans do more than doing a task regardless of the way humans would do it. In this way, it is seeking to understand, or, if you’re cynical, “simulate understanding”.
+- The core of this is still Natural Language Processing. Like a champ in that field should, notices that simplistic ways of understanding language didn’t cut it. It uses memory and huge, complex associations to make best guesses at answers to questions.
+- A word on Jeopardy performance. Maybe this should be the intro?
+- Watson and nurses
+- Treating language as mode of communication, so not just important understand in own right, but must also understand to accomplish a task. Measurable goals. Not just against speakers and their intuitions, like general public feels about translation software bar. But what it can do with language.
+- Leads to Searle, Chinese Room and Turing test. Are linguistic tests linked to how our minds work, and is there something irreplaceable about us that makes these machines fundamentally incapable of thinking?
+	- true, fluent language use linked to consciousness
+	- machines (in strong AI) can eventually think because thinking is essentially computation, so all aspects of braining language must be, too
+	- but this attempt to refute it claims that we can imagine non-thinking AI that could fool us into thinking it can think
+	- but is this what we’re all doing anyhow, just going through the motions of thinking, and not “being thinkers”? this is where language and computers intertwine and lead us down a philosophical rabbit hole, fast
+- Watson won’t convince the doubters, but it has already introduced a generation of us to what it will be like to have language-proficient computer brains around helping each and every one of us out in the future.
+- But what do you think? Will we be talking to machines just as much as humans? Will we know the difference? And will they be speaking just like us, or understanding us in a way that complement us?
+
+5. ADA LOVELACE (.humans)
+
+6. HOW COMPUTERS FAILED AT TRANSLATING RUSSIAN - BIRTH OF AI
+
+7. PREDICTING THE FUTURE OF LANGUAGE
+
+8. INTRO TO NLP
+
+9. SELF-DRIVING CAR (.stuffs / code in action / made of code)
+	- How do they work
+	- How does a car decide who lives and dies
+	Mpella’s extra ideas 11/26/2015
+	- point out the fact you’re on the explosive equivalent of 6 sticks of dynamite speeding down the street, and no one thinks twice, but add in computer and it’s crazy
+	- lose cultural touch points: won’t make sense adolescent men rev engines and race at stoplight
+	- millions of people no longer have to take away keys from aging parents (img with “you need to give me the keys pop pop!”)
+
+10. IS AI ALREADY BREEDING PEOPLE?
+	- machine learning algorithms match people on dating sites (e.g. Tinder), those people have kids….
+
+11. 90S GAME DEVELOPERS TRICKED COMPUTERS INTO LIGHTING A WHOLE GAME WORLD EVEN THOUGH COMPUTERS WERE TOO SLOW TO DO IT
+
+12. THE DISAPPEARING FEMALE DEVELOPER (.updates)
+	- show code, tell what it does! It’s not that hard!
+	- women stats, but it doesn’t have to be this way!
+	- mention on this channel do vids about self-driving cars, code behind video games, etc., but why all of this cause code changed life, it could for other women, too
+
+13. TOP 10 DECEPTIVE TACTICS USED BY GAME MAKERS - HOW DEVELOPERS TRICKED THE MASSES!
+http://www.gamasutra.com/view/feature/194772/dirty_game_development_tricks.php
+
+14. STAR WARS AND CODE - DROIDS? STAR WARS COMPUTERS? HYPERDRIVE? JAMMERS?
+	- How were they so advanced so long ago? Is this stuff universal or particular?
+	- How much of this tech do we have all this tech now, unlike before?
+	- Why everyone seems to be more computer literate, able to just open droid head
+
+. Nintendo Iwata Balloon Fight mvmt calculations so useful used in mario water lvls
+
+
+QUAKE’S CODE TRICKED COMPUTERS INTO FAKING REAL-WORLD LIGHTING
+
+// lighting is underrated
+/ In games and animations, characters and movement and even environments grab our attention. But you know what misses out on all that love, even though it’s there in every scene, in every crazy gun battle and every touching moment? The unsung hero of our visual Light. Look at that light. Just look at it bounce off and reflect with all its shiny.
+
+/ People hack games, but what happens when a game hacks us?
+
+When we take a game and open up its code guts, sometimes we find out the game we think we’re playing is actually playing tricks on us. Here’s my favorite example - a game that hacked together the illusion of a fully lit world.
+
+(intro)
+
+I play shooters. I’m that voice on the other end that guys start heckling if I say one word. But it’s all good. I’m not pretending to fit in. For this girl the biggest WTF moment didn’t happen the last time I got called a ??? by a teenage boy. I’m a programmer, and my biggest WTF’s are when I find out the length game code goes to cheat us into believing our games are doing something our machines really can’t handle. Silent Hill used fog to cover up technical limitations of displaying a full town onscreen at once. Fuse copied data to get enough space for its memory-hungry cinematics. It also reminded us that Insomniac does so much better with pointy-eared space mongoose-thing shooters. But that’s another story. For me, these computer language tricks are like magic. And do you want to see the coolest of these tricks, the biggest one that made the developers themselves go WTF? Let’s do this. C’mon!
+
+In the 90’s, 3D gaming was fancy, new, barely charted territory. Sexy stuff. (Josh, do I really have to say “sexy”? I don’t want to say “sexy”.) Now beefcakes and bullets and bees and bubbles were moving in the X, Y and Z direction. In game programming, that meant wrapping your mind around a vector with 3 components.
+
+But you know what else was moving around these 3D worlds? Light. Light with its rays doing the vector thing, too.
+
+And that would be just a curiosity if you were looking at a nice rendered 3D image like this. But in games, we’re literally updating those vectors every frame, let’s say 30 frames per second. That’s a lot of thinking for your computer to do.
+
+If you’re back in the 90s but you really want to push the limits and make your world look real, that’s 30 frames per second of looking at every light source and calculating every angle that light bounces and reflects around your world. No big deal, because even before the decade when the prince was still fresh, math already had an equation for that. It’s called the inverse square root. But don’t jump up out of your seats and cheer, because that equation is expensive. Computer expensive, meaning it didn’t cost stacks of cayush - it cost stacks of time. And unless you’re a lagbot, time is something we don’t have a lot of between game updates.
+
+So now we’re stuck in the 90’s with a ton of light calculation - actually it was rather heavy. Hahaaa! Yeah, and you’re stuck with computers that can’t even handle that. What do you do? Huh?
+
+Coders are problem solvers. You know, in some jobs you wake up and you’re like, ok I need to do this and this and this today. No. For us, it’s more like I have no idea how to do this today. Time to figure it out!
+
+So John Carmack and his team at id software were facing this very same problem while working on Quake 3 Arena. Carmack? Yeah, the Wolfenstein guy, the Doom guy, the Quake guy. Look, I don’t have a super high nerd quotient and my shooter of choice is the kind with claptraps and slot machines, and even I know who this guy is.
+
+The actual calculation to come up with the inverse square root was too expensive. So they needed an alternative, cuz they weren’t going to give up the lighting effects they wanted. That was NOT an option.
+
+One alternative they thought of was Newton’s method, which is pretty good at refining a guess and getting a close approximation, however that generally takes like 5 or 6 rounds of refining that guess. 5 or 6 rounds of guessing and refining the angle of every light beam hitting every object every frame. That wasn’t gonna work. So they had to get shifty with their code. Bear with me here. The way a floating point number is stored. Wait, wait, wait. Let me back this truck up. There’s a thing called a floating point number. Which, if you’re not a programmer, honestly, even if you are, looks like a regular number with some decimal stuff. And for light and angles and movement, we need those more precise decimal numbers. When you’re writing it into your code, a float looks like you’d expect. The way the computer was storing it was a bit different. (? Hahaha. Bits. You might understand why I keep chuckling to myself in a moment.)
+
+So you’ve got a beam of light heading straight towards the shiny metal barrel of your sweet rocket launcher. And when that light hits that barrel, your computer has to figure out where all those beams are going before that Update function finishes running and it has to do this 30 times per second. We only have time for one guess - a really, really good one so you only have to run Newton’s method once.
+
+Look at this code. This is how they did it. You don’t get it? Nobody does! We’ll walk through it. Just a bit.
+
+Back to the floating point number. That’s stored as a number times ten to some power. What they’re trying to avoid doing is division or multiplication because that’s expensive. Well, talking the inverse square root is the same as dividing the power the number is raised to by negative two. But how do you do that without dividing or multiplying?
+
+Remember that the number’s stored funny. And it’s that funny way of storing the number that gave up the solution. Obviously this is a computer, and, whenever you start looking low enough, you’ll see that computers store stuff in bits. And these bits represent that number in two chunks - its mantissa and its exponent. If you take those bits and you shift them one spot to the right, that’s actually the exact same thing as dividing both of those chunks by two. This isn’t wholesome everyday code, and look! They knew it! Evil bit-level hacking indeed. But this bit of evil helped vanquish that costly foe - division - speeding the whole thing up. Wait, but we need to divide by NEGATIVE two! So, what? Multiply this by negative one? WRONG! I just told you - multiplication is expensive! See, Josh! I told you this Quake math stuff would never work. I’m losing them!
+
+Here’s the thing. Let’s go back to the maths. You know what is very similar to multiplying your number by negative one? Subtracting it from zero. It’s actually the same darn thing. But wait, your bit shift ended up messing with the mantissa, too. So one last hack - pull a magic number out of thin air that returns things to normal and just leaves you with a changed exponent. Don’t look at me. I don’t know how it works. But don’t feel bad. They didn’t know how it worked either! This is really the original comment in the source code. WTF indeed, John Carmack.
+
+Look what we did. We replaced an expensive division and multiplication with a bit shift and a subtraction. Much cheaper. Much more 90’s. Now there’s an extremely close initial guess and with one round of Newton’s method they were good to go!
+
+You wouldn’t want to launch a satellite into space with this, but it was accurate enough to light a whole game arena without lagging your clunky 90’s PC behemoth.
+
+So if you’re a gamer, maybe step back to appreciate the hard work coders do to deceive you and keep your game world running awesome. If you’re a coder, maybe keep some dirty tricks up your sleeve for the next time you need to pull off the impossible. Just don’t tell on me for telling you. And whoever you are, get out there and code! Chomp!
+
+
+
+HOW COMPUTERS FAILED AT TRANSLATING RUSSIAN - BIRTH OF AI
+
+It’s the late 1940’s. The high-octane events of World War II, the victories and the devastation, have faded into a very different kind of war. The Cold War. The US and the USSR are really giving each other the eye. The standoff is intense. Perfect timing for nerdy researchers to start predicting that they’re just years away from these random new things called “computers” being able to translate on their own! Yeah, that caught the Superpowers’ attention. Hopes ran high, with everyone so sure that with just a bit more work, in would go Russian and out would pop English. But that’s not what happened. Things got ugly.
+
+(intro)
+
+By 1948, computers were a thing. Sure, they were a big, room-sized thing, and you had to feed strips with little holes in them to make them do what you asked line-by-line. But still, they were a thing! (The German Z2 and Z3, the Colossus, the US Army’s ENIAC. And, crucially, the Baby, the first computer where you didn’t have to rewire the thing to run a different program (MSSEM 1948).) The power of these big machines to solve seemingly anything was tantalizing.
+
+Among the people who couldn’t ignore that power was one Mr Warren Weaver. After a couple years of nagging suspicion that somehow, someday, computers should be able to translate human language, he sat down and wrote out five ways to make it happen. And between then and 1950, things started rolling. UCLA and Georgetown started cracking the problem open, and in 1951 MIT gave Yehoshua Bar Hillel the position of full-time professional Machine Translation man, the first in the business. They start having conferences, they start picking up steam. But machine translation isn’t the hot thing yet.
+
+It really took off in 1954, when IBM and Georgetown University produced the “first public demo” of Machine Translation. 49 whole Russian sentences. The crowd went wild! MT was the next big thing.
+
+How did they do it? Fairly simply, actually. The IBM Georgetown test used a basic dictionary and only six rules. These worked like this. After taking a Russian sentence and breaking it into dictionary chunks, which included both words and word pieces like roots and suffixes, the machine could do six things with those pieces. For example, here’s the first rule. (Wait, we’re going to be all programmery and count from zero here, haha. This is the ZEROTH rule! Well, Josh wants me to let you know that Lua counts from 1, so take note if you’re modding Don’t Starve because for most of us speaking Ruby or JavaScript or C, the first Beefalo would be number 0, but apparently the first Beefalo really is the first. You know you’re a coder when that sounds weird to you. Yeahhh.) Rule number 0 was that a word was associated with a code (110) telling the machine to look for the last full word. When it found that last full word, it checked that word for another code (21). If the word came up 21s, it then placed that previous word after this word. It sounds like a whole series of steps, but the result is simple: basically switching the two words around.
+
+With just a fistful of rules like this, the machine translated sentences like “Magnitude of angle is determined by the relation of length of arc to radius” and “The price of potatoes is determined by the demand”. Wow, machine, really? Potatoes!? Culturally sensitive much? Journalists were impressed, and the public was stunned. In a world that had never seen this kind of machine smarts before, this was some magic. ;)
+
+Like all magic, peering behind the curtains made things feel a bit less magical. The sentences were carefully selected. Everything was transliterated from Cyrillic into the Latin alphabet. Grammatically, sentences included third-person verbs and avoided negations or questions. Sometimes things we’d think of as grammar or syntax were stored as part of dictionary entries. That last one’s pretty cheap. Think about it: this machine associates each Russian word with up to two English equivalents. And here’s a word that translates to “relation”. But look at the second English choice - it’s “the relation”. Instead of training a computer to understand English articles, they just stored the word “the” as part of another dictionary choice.
+
+So, yeah, they might have been cheating a little bit. I mean, working within the limitations of the system! Doesn’t matter - all the same, this looked like an amazing first effort, and things could only get better from here, right? People mostly saw the magic. If you were a translating machine, the times were good.
+
+Hopes were running high:
+
+“within a few years there will be a number of “brains” translating all languages with equal aplomb and dispatch” (Kenny, CSM)
+
+“the system may greatly increase communication, particularly in technical subjects, by making translation quick, accurate and easy” (Plumb, NYT)
+
+And so the money came in and the work went on. As it did, two camps emerged: US and THEM. You had your linguistically-minded “Perfectionists”, who focused on grammar rules and theories of how language works. And then you got your statistically-minded “brute force” crowd, focused on empirical evidence. The difference here was huge. Perfectionists were giving computers all the grammatical rules about each language, telling them how to treat words and organize them into sentences. Brute Forcers were having machines look through examples in each language to find patterns or rules on their own.
+
+Either way, how hard could this be? Take the source language, replace the words, change things up a bit to fit the target language. Boom! Translation done.
+
+Meanwhile, the Russians were making things even more complicated. Stalinist Russia had been standing in the shadow of a technology ban, but with Stalin’s death in 1953 and news of the successful IBM demo in 1954, Russian hopes were high, too. Americans were using a “direct translation” approach: take a source language, and figure out how to put its words into a target language. The Russians didn’t want to be like the lazy Americans - translating between two languages - they decided to translate between THREE! Leningrad University’s Andreev built up a middle language sitting between the source and target pair that had most of the features common to many languages. This interlingua was a real made-up language - is that an oxymoron - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
+
+All this academic stuff was going on, but at the end of the day, or end of the decade, went on for a while, it wasn’t working as promised. Things weren’t living up to the bold claims made after Georgetown. And the problems were getting harder and harder to ignore. So hard that even the popular press couldn’t resist having a laugh at Machine Translation’s expense.
+
+I mean, check out this article that appeared in Harper’s Magazine in 1962, titled “The Trouble with Translation”. With a title like that, it’s got to be fair and objective:
+
+“Our own attempts to communicate with the Russians in their language may be no more successful. Thanks to Robert E. Alexander, the architect, I can pass along this cheering bit of news. According to Colonel Vernon Walters, President Eisenhower's official interpreter, some electronic engineers invented an automatic translating machine into which they fed 1,500 words of Basic English and their Russian equivalent, claiming that it would translate instantly without the risk of human error. In the first test they asked it to translate the simple phrase: "Out of sight, out of mind." Gears spun, lights blinked, and the machine typed out in Russian: "Invisible Idiot."
+
+On the theory that the machine would make a better showing with a less epigrammatic passage, they fed it the scriptural saying: "The spirit is willing, but the flesh is weak." The machine instantly translated it, and came up with "The liquor is holding out all right, but the meat has spoiled."
+
+I just want to pause here. It’s pretty well accepted that this didn’t actually happen. But Machine Translation had definitely fallen from grace. It had gone from the summit of our predictions to the butt of our jokes. 
+
+The guys at MIT stepped in for damage control. Bar Hillel struck back, accusing people of having unreasonable expectations. How’s a computer supposed to know the difference between words with highly ambiguous meanings? We need to step back and find out how to have machines help us translate, not speak exactly like we do.
+
+It was also becoming clear that translating languages was a lot more complex than even the experts could have guessed:
+“the formulation of logic required to convert word meanings properly even in a small segment of two languages necessitates two and a half times as many instructions to the computer as are required to simulate the flight of a guided missile.” (1954)
+
+If that’s true, it was turning out to be literally harder than rocket science.
+
+But the damage was done. Opinion had soured. And a knockout blow was about to come.
+
+It’s 1964. The US government commissions this commission. They want to know if this machine translation thing is legit. They put together the ALPAC, not a llama but a group of 7 experts, to decide the usefulness or the uselessness of MT and computational linguistics as a whole. The verdict? Oh, we’ll get to that. But there’s something you need to understand.
+
+At various times in the history of Artificial Intelligence, of making thinking computers, people got sold on promises beyond their wildest dreams. It happens so often that there’s a term for this: AI Hype cycle. When things go wrong, a chill sets in, a chill with lasting effects. An AI Winter.
+
+In 1966, ALPAC issued a report concluding that “we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation”. Computers were twice as expensive as human translators and yet performing so much worse. Instead, research should focus on making things easier for human translators. Officials were convinced. Machine translation was defunded. Thus began the first AI winter.
+
+That’s a bummer. I don’t really know how to wrap this up. You know what I think would make us feel better? If we just go out there and write some code. Chomp.
+
+
+
+THE DISAPPEARING FEMALE CODER
+
+Female programmers. Perhaps the most puzzling pair of words after “married bachelor”, “caring honeybadger” and “half-life 3”. And, look, let’s level with each other. We probably have a lot of the same programmer stereotypes. Josh! (Yeah?) Put 15 seconds on the clock. (How do you work this thing?) Ok, I’ll just play the hold this awkward smile game! Alright…here we go. All the truths and GO! They’re geeks. Uhm, they’re… (list)
+
+they have luscious beards, they sit all day with their hunchy back, they hack stuff, they’re experts at printer repair, questionable hygiene, they’re socially awkward, started programming when they were 6, spoke to a girl…once…it didn’t go well (and I’m serious about that…Sally’s still creeped out by that conversation to this day…you need to apologize….APOLOGIZE!), more machine now than man, fans of dub step/techno/or other machines-having-sex-with-each-other sounds, they take a serious position in the ‘trekkers’vs ‘trekkies’debate… they know what the ‘trekkers’vs ‘trekkies’debate is…, they think in mathy language and their sport of choice is D&D or MTG.
+
+<buzzer do it’s buzz thang>
+
+Whoa, done already? I could do a whole video about these.
+
+We went out and polled a bunch of programmers and, turns out, these are all true.  Every one of them.  Totally true.
+
+But there’s one stereotype that sticks out because it really fits the facts - there are two kinds of people: there are programmers and then there are women. Female developers are about as common as a Megadeth fan at a One Direction concert… Hey, I know that guy…that’s Steve…he’s a good guy. (Than solid Snake sneaking around Animal Crossing. Than an Xcode build that compiles the first time with no errors… It never happens.)
+
+/ So yeah, we’re uncommon. But you might be surprised to know just how rare we are.
+/ But you might be surprised to know just how rare they are. We are.
+
+(intro)
+
+Coding hasn’t always been so full of testosterone. It’s actually a field with a history of key women figures. Ada Lovelace, the first computer programmer. Not the first female programmer, literally the first programmer. Grace Hopper, who created the first compiler - that’s pretty darn important in programming - and she’s the one to thank for the terms “bug” and “debug”. The ladies of ENIAC, who moved 80 tons of hardware in heels. But notice something? Nothing going on here since Russia started shaving its leaders.
+
+(? I think the closest we’ve come to a woman icon in computer science was (X in drag). That’s a real picture! I swear! That happened!)
+
+Now it’s a field where the percentage of women just struggles to keep up. Wrong preposition. I’m sorry to say, but more like “down”. Just look at the percentage of women graduating with computer science degrees over the last five years.	
+
+From 2008 to 2009, 57% of US undergraduate degrees went to women. Women earned 42% of the degrees awarded in math and 40% of the degrees awarded in physical sciences. But only 18% of computer science degrees went to women. Fast forward to 2013-2014, and the numbers hold pretty steady across the board, except in computer science where the percentage earned by women dropped to 13%. And while that seems disheartening, it’s even more bleak when you realize that’s down from a high of (38%) in the 80’s. Say what you will about the 80s, but they gave us female developers and taught us that chartreuse and pink go together.
+
+	2008-2009
+	undergrad:
+	- women 57% undergrad
+	- women 42% math stats
+	- women 40% physical sciences
+	- women 18% comp info science
+
+	2013-2014
+	- 57% total
+	- 43% math stats
+	- 39% physical sciences
+	- 13% CS
+	- total CS: 10985, 1425 women; masters: 5472, 1507 women; doctorate: 881, 136 women
+
+In January of this year, Google, a company that actually seems to care and advocate for women in code, released their stats. And even there, though women make up 30% of the workforce, they’re just 18% of the technical roles (Jan 2015).
+
+This isn’t just a Google thing. International Game Developers Association has been keeping tabs on women that make games. We’ve been watching you. The percentage of women game developers doubled in five years from 2009 to 2014, the same time period as that computer science degree dip. So this looks like a promising improvement! Until you realize that doubling meant women went from 11% to 22% of game developers.
+
+And 22% is pretty much in line with the the percent of women in all programming jobs - 1 in 5 (techrepublic). Unless you’re watching this from Silicon Valley, where women fill only 12% of those glitzy startup dev jobs. We like pingpong, too!
+
+It’s worth mentioning this isn’t a zero-sum game. Getting more women into programming isn’t about getting men out of it. With job growth outpacing graduates like crazy, graduating the representative percentage of women will only help fill the gap for those million plus computer science jobs in the US economy.
+
+What does this mean? Maybe the female brain just can’t handle the logics (quote?)? Maybe women just don’t want to code? Maybe girls just haven’t been exposed to code? Maybe there’s no role model around them to convince them it can be done? Maybe there’s too much stigma or association with what computer science is, so the women who do go into it are the ones who can shrug that stigma off, ignore it or learn on their own?
+
+(Show and tell time!)
+
+So, maybe you’re just not familiar? Really? See this? This is an Update() loop I wrote for a video game. This part makes a cube dance around while his color changes based on the music. If you’ve ever played video games, you’ve dealt with frame updates and collisions whether you knew it or not. It’s not news! You can make stuff that does this! Then you, too, can learn that the vast majority of colors are some shade of putrid brown. Failed experiment - it wasn’t nearly as pretty as I thought it would be. I really thought it would be pretty. So pretty.
+
+Is it lack of other females around doing the same thing? Look at me! I do this for a living. A couple years ago, I was doing work like this (spreadsheet). I thought I could never be a coder, but now I write stuff that takes boring performance data and turns it into floating bubbles. Yeah, it breaks. So I hold it together with sticky tape. I think it’s actually broken right now. Your code might not break as much.
+
+Maybe you need to get over some stigma? Just go try to code! There are a ton of free resources out there. I’ve taken most of them and even helped build one of them. Pick a question you have and write a simple program to answer it. I remember when I couldn’t wrap my brain around the Monty Hall problem, so I used code to walk the computer through it step by step. Even though I still don’t quite get it, after having the computer run the scenario 100,000 times, I can assure you it just better to switch doors. Don’t ask. Do it. This was the first code I wrote totally on my own, it wasn’t part of a class I was taking or part of a job. I just wanted to answer a question.
+
+Code isn’t about guys or girls. It’s about the world around us, which is becoming codier and codier. All the self-driving cars, the robots breeding humans, your computer passwords that aren’t even words anymore, the fabulous men … and ladies… that coded before, the wacky stuff that happens while your favorite video game runs Update() 60 times per second. Or, for some reason, 30 frames per second. We’re looking at you, Last of Us Remastered! Hide your frame-locking shame.
+
+You can do this. Girl. You can do this. Guy. You can do this. Sad depressed puppy. Okay, no, you can’t do this. But you can sit next to me while I do this! Whoever you are, wherever you are, your world is made of code. It’s time to join. Maybe, if you step up, that’ll be one less disappearing female developer.
+
+Npw get out there and code. Chomp!
+
+
+
+(? representation in CS upped to rep in total student body “that would be timely, because the number of jobs is tripling“ (she++) )
+
+(? Maybe that’s because girls just aren’t as interested in games? Welp, stats from the Entertainment Software Association tells me we’re 44% of gamers these days, so I don’t buy that. We are down from 48% a few years ago… Thanks for that, #GamerGate! )
+
+
+(
+
+- Women just don’t want to code (Sargon of Akkad, MRA, other antifem voices on YT)
+- Society needs to accept feminism
+- maybe not attack above in detail, but mention how back and forth mudslinging on YT asks you what theory you believe in but missing voice of someone who just wants to talk to you about code
+- Stanford actually seen grow. A professor interviewed on She++ documentary claims due to increasing awareness for everyone, not just women, so that everyone has to take CS and sees that this is something generally applicable, not niche or strange. Exposure.
+
+Homeschooling (mentioned by She++)? Resources available to girls?
+
+)
+

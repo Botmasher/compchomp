@@ -1,0 +1,61 @@
+Female programmers. Perhaps the most puzzling pair of words after “married bachelor”, “caring honeybadger” and “half-life 3”. And, look, let’s level with each other. We probably have a lot of the same programmer stereotypes. Josh! (Yeah?) Put 15 seconds on the clock. (How do you work this thing?) Ok, I’ll just play the hold this awkward smile game! Alright…here we go. All the truths and GO! They’re geeks. Uhm, they’re… 
+
+(list)
+they have luscious beards, they sit all day with their hunchy back, they hack stuff, they’re experts at printer repair, questionable hygiene, they’re socially awkward, started programming when they were 6, spoke to a girl…once…it didn’t go well. And I’m serious about that…Sally’s still creeped out by that conversation to this day…you need to apologize….APOLOGIZE! … they’re more machine now than man, fans of dub step/techno/or other machines-having-sex-with-each-other sounds, they take a serious position in the ‘trekkers’vs ‘trekkies’debate… they know what the ‘trekkers’vs ‘trekkies’debate is…, they think in mathy language… and their sport of choice is D&D or MTG.
+
+<buzzer do it’s buzz thang>
+
+Whoa, done already? I could do a whole video about these.
+
+We went out and polled a bunch of programmers and, turns out, these are all true.  Every one of them.  Totally true.
+
+But there’s one stereotype that sticks out because it really fits the facts - there are two kinds of people: there are programmers and then there are women. Female developers are about as common as a Megadeth fan at a One Direction concert… Hey, I know that guy…that’s Steve…he’s a good guy. (Than solid Snake sneaking around Animal Crossing. Than an Xcode build that compiles the first time with no errors… It never happens.)
+
+/ So yeah, we’re uncommon. But you might be surprised to know just how rare we are.
+/ But you might be surprised to know just how rare they are. We are.
+
+(intro)
+
+Coding hasn’t always been so full of testosterone. It’s actually a field with a history of key women figures. Ada Lovelace, the first computer programmer. Not the first female programmer, literally the first programmer. Grace Hopper, who created the first compiler - that’s pretty darn important in programming - and she’s the one to thank for the terms “bug” and “debug”. The ladies of ENIAC, who moved 80 tons of hardware in heels. But notice something? Nothing going on here since Russia started shaving its leaders.
+
+Now it’s a field where the percentage of women just struggles to keep up. Wrong preposition. I’m sorry to say, but more like “down”. Just look at the percentage of women graduating with computer science degrees over the last five years.	
+
+From 2008 to 2009, 57% of US undergraduate degrees went to women. Women earned 42% of the degrees awarded in math and 40% of the degrees awarded in physical sciences. But only 18% of computer science degrees went to women. Fast forward to 2013-2014, and the numbers hold pretty steady across the board, except in computer science where the percentage earned by women dropped to 13%. And while that seems disheartening, it’s even more bleak when you realize that’s down from a high of (38%) in the 80’s. Say what you will about the 80s, but they gave us female developers and taught us that chartreuse and pink go together.
+
+	2008-2009
+	undergrad:
+	- women 57% undergrad
+	- women 42% math stats
+	- women 40% physical sciences
+	- women 18% comp info science
+
+	2013-2014
+	- 57% total
+	- 43% math stats
+	- 39% physical sciences
+	- 13% CS
+	- total CS: 10985, 1425 women; masters: 5472, 1507 women; doctorate: 881, 136 women
+
+In January of this year, Google, a company that actually seems to care and advocate for women in code, released their stats. And even there, though women make up 30% of the workforce, they’re just 18% of the technical roles (Jan 2015).
+
+This isn’t just a Google thing. International Game Developers Association has been keeping tabs on women that make games. We’ve been watching you. The percentage of women game developers doubled in five years from 2009 to 2014, the same time period as that computer science degree dip. So this looks like a promising improvement! Until you realize that doubling meant women went from 11% to 22% of game developers.
+
+And 22% is pretty much in line with the the percent of women in all programming jobs - 1 in 5 (techrepublic). Unless you’re watching this from Silicon Valley, where women fill only 12% of those glitzy startup dev jobs. We like pingpong, too!
+
+It’s worth mentioning this isn’t a zero-sum game. Getting more women into programming isn’t about getting men out of it. With job growth outpacing graduates like crazy, graduating the representative percentage of women will only help fill the gap for those million plus computer science jobs in the US economy.
+
+What does this mean? Maybe the female brain just can’t handle the logics (quote?)? Maybe women just don’t want to code? Maybe girls just haven’t been exposed to code? Maybe there’s no role model around them to convince them it can be done? Maybe there’s too much stigma or association with what computer science is, so the women who do go into it are the ones who can shrug that stigma off, ignore it or learn on their own?
+
+(Show and tell time!)
+
+So, maybe you’re just not familiar? Really? See this? This is an Update() loop I wrote for a video game. This part makes a cube dance around while his color changes based on the music. If you’ve ever played video games, you’ve dealt with frame updates and collisions whether you knew it or not. It’s not news! You can make stuff that does this! Then you, too, can learn that the vast majority of colors are some shade of putrid brown. Failed experiment - it wasn’t nearly as pretty as I thought it would be. I really thought it would be pretty. So pretty.
+
+Is it lack of other females around doing the same thing? Look at me! I do this for a living. A couple years ago, I was doing work like this (spreadsheet). I thought I could never be a coder, but now I write stuff that takes boring performance data and turns it into floating bubbles. Yeah, it breaks. So I hold it together with sticky tape. I think it’s actually broken right now. Your code might not break as much.
+
+Maybe you need to get over some stigma? Just go try to code! There are a ton of free resources out there. I’ve taken most of them and even helped build one of them. Pick a question you have and write a simple program to answer it. I remember when I couldn’t wrap my brain around the Monty Hall problem, so I used code to walk the computer through it step by step. Even though I still don’t quite get it, after having the computer run the scenario 100,000 times, I can assure you it just better to switch doors. Don’t ask. Do it. This was the first code I wrote totally on my own, it wasn’t part of a class I was taking or part of a job. I just wanted to answer a question.
+
+Code isn’t about guys or girls. It’s about the world around us, which is becoming codier and codier. All the self-driving cars, the robots breeding humans, your computer passwords that aren’t even words anymore, the fabulous men … and ladies… that coded before, the wacky stuff that happens while your favorite video game runs Update() 60 times per second. Or, for some reason, 30 frames per second. We’re looking at you, Last of Us Remastered! Hide your frame-locking shame.
+
+You can do this. Girl. You can do this. Guy. You can do this. Sad depressed puppy. Okay, no, you can’t do this. But you can sit next to me while I do this! Whoever you are, wherever you are, your world is made of code. It’s time to join. Maybe, if you step up, that’ll be one less disappearing female developer.
+
+Npw get out there and code. Chomp!

@@ -1,0 +1,56 @@
+It’s the late 1940’s. The high-octane events of World War II, the victories and the devastation, have faded into a very different kind of war. The Cold War. The US and the USSR are really giving each other the eye. The standoff is intense. Perfect timing for nerdy researchers to start predicting that they’re just years away from these random new things called “computers” being able to translate on their own! Yeah, that caught the Superpowers’ attention. Hopes ran high, with everyone so sure that with just a bit more work, in would go Russian and out would pop English. But that’s not what happened. Things got ugly.
+
+(intro)
+
+By 1948, computers were a thing. Sure, they were a big, room-sized thing, and you had to feed strips with little holes in them to make them do what you asked line-by-line. But still, they were a thing! (The German Z2 and Z3, the Colossus, the US Army’s ENIAC. And, crucially, the Baby, the first computer where you didn’t have to rewire the thing to run a different program (MSSEM 1948).) The power of these big machines to solve seemingly anything was tantalizing.
+
+Among the people who couldn’t ignore that power was one Mr Warren Weaver. After a couple years of nagging suspicion that somehow, someday, computers should be able to translate human language, he sat down and wrote out five ways to make it happen. And between then and 1950, things started rolling. UCLA and Georgetown started cracking the problem open, and in 1951 MIT gave Yehoshua Bar Hillel the position of full-time professional Machine Translation man, the first in the business. They start having conferences, they start picking up steam. But machine translation isn’t the hot thing yet.
+
+It really took off in 1954, when IBM and Georgetown University produced the “first public demo” of Machine Translation. 49 whole Russian sentences. The crowd went wild! MT was the next big thing.
+
+How did they do it? Fairly simply, actually. The IBM Georgetown test used a basic dictionary and only six rules. These worked like this. After taking a Russian sentence and breaking it into dictionary chunks, which included both words and word pieces like roots and suffixes, the machine could do six things with those pieces. For example, here’s the first rule. (Wait, we’re going to be all programmery and count from zero here, haha. This is the ZEROTH rule! Well, Josh wants me to let you know that Lua counts from 1, so take note if you’re modding Don’t Starve because for most of us speaking Ruby or JavaScript or C, the first Beefalo would be number 0, but apparently the first Beefalo really is the first. You know you’re a coder when that sounds weird to you. Yeahhh.) Rule number 0 was that a word was associated with a code (110) telling the machine to look for the last full word. When it found that last full word, it checked that word for another code (21). If the word came up 21s, it then placed that previous word after this word. It sounds like a whole series of steps, but the result is simple: basically switching the two words around.
+
+With just a fistful of rules like this, the machine translated sentences like “Magnitude of angle is determined by the relation of length of arc to radius” and “The price of potatoes is determined by the demand”. Wow, machine, really? Potatoes!? Culturally sensitive much? Journalists were impressed, and the public was stunned. In a world that had never seen this kind of machine smarts before, this was some magic. ;)
+
+Like all magic, peering behind the curtains made things feel a bit less magical. The sentences were carefully selected. Everything was transliterated from Cyrillic into the Latin alphabet. Grammatically, sentences included third-person verbs and avoided negations or questions. Sometimes things we’d think of as grammar or syntax were stored as part of dictionary entries. That last one’s pretty cheap. Think about it: this machine associates each Russian word with up to two English equivalents. And here’s a word that translates to “relation”. But look at the second English choice - it’s “the relation”. Instead of training a computer to understand English articles, they just stored the word “the” as part of another dictionary choice.
+
+So, yeah, they might have been cheating a little bit. I mean, working within the limitations of the system! Doesn’t matter - all the same, this looked like an amazing first effort, and things could only get better from here, right? People mostly saw the magic. If you were a translating machine, the times were good.
+
+Hopes were running high:
+
+“within a few years there will be a number of “brains” translating all languages with equal aplomb and dispatch” (Kenny, CSM)
+
+“the system may greatly increase communication, particularly in technical subjects, by making translation quick, accurate and easy” (Plumb, NYT)
+
+And so the money came in and the work went on. As it did, two camps emerged: US and THEM. You had your linguistically-minded “Perfectionists”, who focused on grammar rules and theories of how language works. And then you got your statistically-minded “brute force” crowd, focused on empirical evidence. The difference here was huge. Perfectionists were giving computers all the grammatical rules about each language, telling them how to treat words and organize them into sentences. Brute Forcers were having machines look through examples in each language to find patterns or rules on their own.
+
+Either way, how hard could this be? Take the source language, replace the words, change things up a bit to fit the target language. Boom! Translation done.
+
+Meanwhile, the Russians were making things even more complicated. Stalinist Russia had been standing in the shadow of a technology ban, but with Stalin’s death in 1953 and news of the successful IBM demo in 1954, Russian hopes were high, too. Americans were using a “direct translation” approach: take a source language, and figure out how to put its words into a target language. The Russians didn’t want to be like the lazy Americans - translating between two languages - they decided to translate between THREE! Leningrad University’s Andreev built up a middle language sitting between the source and target pair that had most of the features common to many languages. This interlingua was a real made-up language - is that an oxymoron - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
+
+All this academic stuff was going on, but at the end of the day, or end of the decade, went on for a while, it wasn’t working as promised. Things weren’t living up to the bold claims made after Georgetown. And the problems were getting harder and harder to ignore. So hard that even the popular press couldn’t resist having a laugh at Machine Translation’s expense.
+
+I mean, check out this article that appeared in Harper’s Magazine in 1962, titled “The Trouble with Translation”. With a title like that, it’s got to be fair and objective:
+
+“Our own attempts to communicate with the Russians in their language may be no more successful. Thanks to Robert E. Alexander, the architect, I can pass along this cheering bit of news. According to Colonel Vernon Walters, President Eisenhower's official interpreter, some electronic engineers invented an automatic translating machine into which they fed 1,500 words of Basic English and their Russian equivalent, claiming that it would translate instantly without the risk of human error. In the first test they asked it to translate the simple phrase: "Out of sight, out of mind." Gears spun, lights blinked, and the machine typed out in Russian: "Invisible Idiot."
+
+On the theory that the machine would make a better showing with a less epigrammatic passage, they fed it the scriptural saying: "The spirit is willing, but the flesh is weak." The machine instantly translated it, and came up with "The liquor is holding out all right, but the meat has spoiled."
+
+I just want to pause here. It’s pretty well accepted that this didn’t actually happen. But Machine Translation had definitely fallen from grace. It had gone from the summit of our predictions to the butt of our jokes. 
+
+The guys at MIT stepped in for damage control. Bar Hillel struck back, accusing people of having unreasonable expectations. How’s a computer supposed to know the difference between words with highly ambiguous meanings? We need to step back and find out how to have machines help us translate, not speak exactly like we do.
+
+It was also becoming clear that translating languages was a lot more complex than even the experts could have guessed:
+“the formulation of logic required to convert word meanings properly even in a small segment of two languages necessitates two and a half times as many instructions to the computer as are required to simulate the flight of a guided missile.” (1954)
+
+If that’s true, it was turning out to be literally harder than rocket science.
+
+But the damage was done. Opinion had soured. And a knockout blow was about to come.
+
+It’s 1964. The US government commissions this commission. They want to know if this machine translation thing is legit. They put together the ALPAC, not a llama but a group of 7 experts, to decide the usefulness or the uselessness of MT and computational linguistics as a whole. The verdict? Oh, we’ll get to that. But there’s something you need to understand.
+
+At various times in the history of Artificial Intelligence, of making thinking computers, people got sold on promises beyond their wildest dreams. It happens so often that there’s a term for this: AI Hype cycle. When things go wrong, a chill sets in, a chill with lasting effects. An AI Winter.
+
+In 1966, ALPAC issued a report concluding that “we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation”. Computers were twice as expensive as human translators and yet performing so much worse. Instead, research should focus on making things easier for human translators. Officials were convinced. Machine translation was defunded. Thus began the first AI winter.
+
+That’s a bummer. I don’t really know how to wrap this up. You know what I think would make us feel better? If we just go out there and write some code. Chomp.
