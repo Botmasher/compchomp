@@ -3,7 +3,7 @@ Star Wars and Programming
 General thoughts about tech in the galaxy:
 - How so long ago yet so advanced?
 - Why is it that seemingly everyone can open up droid heads and just punch buttons and stuff to repair?
--
+- 
 
 
 - droids communicate in Binary. So clearly binary exists in this galaxy, like the 1’s and 0’s and offs and ons. “Binary loaders”. Wait, no. Looking closer, their Binary doesn’t mean what we mean when we say binary. It’s the language.
@@ -16,6 +16,7 @@ General thoughts about tech in the galaxy:
 
 - investigating things, figuring out how they work:
 	- moisture vaporator speaks binary (still left in the Tunisian desert!) - harvests of extra humidity
+	- is this even the same binary? needed special patch-in droids
 	- vaporators + patch-in droids work together
 	- similar to binary loadlifters, cost up to 500 credits
 
@@ -48,4 +49,4 @@ General thoughts about tech in the galaxy:
 “I don’t remember owning any Droid”
 - Anakin born directly by the Force
 - Anakin more “machine now than man”
-- R2D2 /C3PO as héros
+- R2D2 /C3PO as heros
