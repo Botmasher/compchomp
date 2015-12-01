@@ -1,6 +1,31 @@
 SCRIPT IDEAS
 
-time. Discussions about leap seconds, UTC, TAI, GPS time, NTP, Kerberos, and other time related formats, synchronization, and security could be interesting.
+Time
+====
+Cold open:
+"""
+Computers, phones, watches, and even that pesky clock on my nightstand all tell me what time it is. But how do they know?!? Do you think that leap years are every four years? WRONG! Do you think that there are 60 seconds in every minute? WRONG! So what's really going on here and how can it be so difficult to get a handle on something that we've been using since the dawn of... well... you know.
+"""
+Potential Topics/Ideas/Points:
+- History:
+  - desire to "tell time"; sun dials
+  - travel by rail causing confusion
+  - introduction of GMT
+- Problems in Computing:
+  - Y2K -- problem with using 2-digit years (e.g. 90 instead of 1990)
+  - Year 2038 -- problem with using 32-bit value for Unix time
+  - Year 10,000 Problem RFC 2550 -- comic look at solving Y2K indefinitely
+- Leap Years / Days
+  - why: orbit of the earth around the sun isn't an integral multiple of days; leap days make up the difference by giving the earth an extra day to make the trip around the sun
+  - not every four years; only if not also divisible by 400; that's why  2004 and 2008 were leap years but 2000 was not
+- Leap Seconds
+  - why: the rotation of the earth around its axis isn't an integral multiple of seconds; leap seconds make up the differnce by giving the earth an extra second
+  - less predictable; 26 leap seconds inserted since 1972
+  - last on on June 30, 2015
+  - TAI doesn't use leap seconds; UTC (and common timezones PST, EST, etc.) do
+Other topics:
+- Security -- reliance upon time synchronization
+- GPS -- needs accurate time + understanding of relativity
 
 there was a nasty floating point bug in Pentium processors in the mid 90s: https://en.wikipedia.org/wiki/Pentium_FDIV_bug
 
