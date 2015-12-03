@@ -9,23 +9,11 @@ Ada Lovelace
 Top 10 deceptive tactics used by game programmers - How developers tricked the masses
 http://www.gamasutra.com/view/feature/194772/dirty_game_development_tricks.php
 
-Star Wars and code
-
 Nintendo Iwata Balloon Fight mvmt calculations so useful used in Mario water lvls
 
-Intro to NLP
-
-Predicting the future of language
-
-Are programming languages real languages?
-- intro question. You talk to each other. But to comps?
-- students, classes count for foreign language. This could be hook: But are these langs?
-- differences between code and nat lang. Including terminology.
-- Brain differences/similarities in processing lang
-- sandwich-making (or our cookie baking) metaphor
-- what is a language
-- talking to machines
-- introduces rest of series
+NLP / Computational linguistics
+mapping the search for linguistic universals: wals.info
+predicting future language: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033171
 
 What is a programming language? - expanding the cookie-baking metaphor
 

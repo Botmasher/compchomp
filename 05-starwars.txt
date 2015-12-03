@@ -2,7 +2,25 @@ Star Wars and Programming
 
 / When you get your Star Wars time too busy getting stuck on your favorite characters or getting into the action of the huge space fights, but .
 / Your repeated visits to the Galaxy may have taught you that major turning points are decided by huge battles and humans making tough choices, but did you ever stop to think of all tech that’s around?
-/ The Galaxy is full of machines. Everyone’s got them, from powerful sith lords to desert farmers. Seemingly anyone can open them up and program them. But, in this remote galaxy from ages past, surely has a different computers don’t work the same way - how do they work? If we look at them too hard, you’re going to see the secret of blahblah - robots rule the galaxy / are the main characters.
+
+/ In your visits to the Galaxy is full of machines. Everyone’s got them, from powerful sith lords to desert farmers. Seemingly anyone can open them up and program them. But, in this remote galaxy from ages past, surely has a different computers don’t work the same way - how do they work? If we look at them too hard, you’re going to see the secret of blahblah - robots rule the galaxy / are the main characters.
+
+
+The Galaxy is full of computers, and seemingly any Tom, Jane or Greedo can take a droid aside, pop open its head panel and - bleep-bloop! - program it up. But what is all this tech? How do Star Wars programming languages work? And why do I have almost conspiracy-levels of suspicion that machines are THE major players in this grand space epic?
+
+In honor of the new films coming out, this week I’m taking a step aside from showing you how code is part of your world and talk about code in that Galaxy long ago and far away.
+
+(intro)
+
+As a programmer, one of the things I always notice on my trips to the Galaxy is all of the technology everyone seems to have access to, whether they’re hot-shot black-cloaked machine-men or just some lowly farmer dozens of parsecs out in the boonies.
+
+We only get glimpses of pilots fiddling with nobs or astromech droids whipping out their hacking arms - yep, that’s what R2D2 is, an astromech droid, in case the force isn’t strong with you. But since we never get a thorough explanation of how these machines work, what can we possibly know about coding in the Star Wars “universe”?
+
+Well, fortunately for us nerds, Lucas dropped hints all around the Galaxy. Think about it.
+
+You got astromech droids that plug into ship sockets.
+
+
 
 
 human-CYBORG relations: but cyborgs like Vader or Luke? But they already can talk to each other. No, consistently machine/human. This shows that broad difference made between tech and organic, but emphasizes communication between them. Rest of SW galaxy emphasizes that continuum (more machine now than man). Coupled with “evil” and subservience, and “twisted” - twisted and evil make decisions.
