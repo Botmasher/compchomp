@@ -1,5 +1,7 @@
 SCRIPT IDEAS
 
+:Plan: two more scripts about language (Unihan / Google Translate / YT subtitles / Computational linguistics) for five total NativLang-CompChomp collabs. Two more non-language scripts for CompChomp alone (Star Wars / Y10K).
+
 why do YouTube autogen subtitles get things so wrong? Voice recognition.
 
 there was a nasty floating point bug in Pentium processors in the mid 90s: https://en.wikipedia.org/wiki/Pentium_FDIV_bug
