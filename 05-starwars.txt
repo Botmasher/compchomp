@@ -1,18 +1,12 @@
-Star Wars and Programming
-
-/ When you get your Star Wars time too busy getting stuck on your favorite characters or getting into the action of the huge space fights, but .
-/ Your repeated visits to the Galaxy may have taught you that major turning points are decided by huge battles and humans making tough choices, but did you ever stop to think of all tech that’s around?
-
-/ In your visits to the Galaxy is full of machines. Everyone’s got them, from powerful sith lords to desert farmers. Seemingly anyone can open them up and program them. But, in this remote galaxy from ages past, surely has a different computers don’t work the same way - how do they work? If we look at them too hard, you’re going to see the secret of blahblah - robots rule the galaxy / are the main characters.
-
+Programming Languages of Star Wars
 
 The Galaxy is full of computers, and seemingly any Tom, Jane or Greedo can take a droid aside, pop open its head panel and - bleep-bloop! - program it up. But what is all this tech? How do Star Wars programming languages work? And why do I have almost conspiracy-levels of suspicion that machines are THE major players in this grand space epic?
 
-In honor of the new films coming out, this week I’m taking a step aside from showing you how code is part of your world and talk about code in that Galaxy long ago and far away.
+In honor of the new films coming out, this week I’m taking a step aside from showing you how code is part of your world and talk about programming in that Galaxy long ago and far away.
 
 (intro)
 
-As a programmer, one of the things I always notice on my trips to the Galaxy is all of the technology everyone seems to have access to, whether they’re hot-shot black-cloaked machine-men or just some lowly farmer dozens of parsecs out in the boonies.
+As a coder, one of the things I always notice on my trips to the Galaxy is all of the technology everyone seems to have access to, whether they’re hot-shot black-cloaked machine-men or just some lowly farmers dozens of parsecs out in the boonies.
 
 We only get glimpses of pilots fiddling with nobs or astromech droids whipping out their hacking arms - yep, that’s what R2D2 is, an astromech droid, in case the force isn’t strong with you. But since we never get a thorough explanation of how these machines work, what can we possibly know about coding in the Star Wars “universe”?
 
@@ -20,46 +14,95 @@ Well, fortunately for us nerds, Lucas dropped hints all around the Galaxy. Think
 
 You got astromech droids that plug into ship sockets.
 
+Machines that can hack other machines. Well, “slicing”. They call hacking “slicing”.
 
+Protocol droids that can translate between machines and humans. (“Human-cyborg relations”)
 
+Even humans getting in on the machine gig and cyborging up the place.
 
-human-CYBORG relations: but cyborgs like Vader or Luke? But they already can talk to each other. No, consistently machine/human. This shows that broad difference made between tech and organic, but emphasizes communication between them. Rest of SW galaxy emphasizes that continuum (more machine now than man). Coupled with “evil” and subservience, and “twisted” - twisted and evil make decisions.
-( from a FORUM: “Seriously? Yes Threepio certainly is a droid. His job in human/cyborg relations is interfacing between between mechanical systems and human operators, demonstrated when he speaks to the Millenium Falcon on behalf of Han to diagnose the failure of the hyperdrive. He also tells Uncle Owen he can understand the language of moisture vaporators. That is what I always assumed "human/cyborg relations" was a needlessly high-falutin' way of expressing.” )
+When it comes to programming, we find out that R2D2 speaks binary. And a little Jawa tells me that the moisture vaporator that the film crew left in the Tunisian desert works like binary loadlifters in most respects.
 
+Binary? Uncanny, they have binary! And what is binary? A way to count using only two values, like we use in our technology for passing info and flipping switches: True/False, 1/0, off/on. And surely if they’re using computers, they’re using binary. False. What, you haven’t heard of non-binary computers that use ternary and other multiple-valued logics?
 
-General thoughts about tech in the galaxy:
-- How so long ago yet so advanced?
-- Why is it that seemingly everyone can open up droid heads and just punch buttons and stuff to repair?
-- What’s the diff between tech we had during the first movie and the stuff we have now?
+But none of this is Star Wars binary anyway! See, their capital-B binary is what astromech - I love saying that word “astromech” - astromech droids communicate in when they make all those bloops and bleeps sounds. It’s not a counting system. It’s a protocol, a language!
 
+Before you shrug this off as just a quirk or a teeny mistake - I felt those shoulders shrugging up a little bit, admit it - are there other uncanny twists in language use in the Star Wars universe that might justify this? Basically, yes. Haha. BASICall… The English you hear in the movies isn’t English - it’s a different language known as Galactic Basic. Total tangent, let’s get back on track, but it goes to show you that Star Wars words work differently.
 
-If Binary doesn’t mean binary in this galaxy, and English isn’t English, perhaps programmed doesn’t mean programmed. C3PO doesn’t have to do what he’s told.
-Meehl that machines outperform humans. Are robots taking input and making decisions? You got ships, blasters, computers, minicomputers, vaporators - everything but hand-to-hand combat. These are property, maybe even enslaved, symbiosis. But that’s because they can ultimately make the call, seemingly override their programming, and communicate information rather than just store data and be ordered around?
+So if English isn’t English and Binary doesn’t mean binary in this galaxy, perhaps programming doesn’t mean programming.
 
-http://starwars.wikia.com/wiki/Slavery#Droids_and_slavery
-Personal property, usually treated worse.
+The programming languages in Star Wars are actually a lot more like speaking and thinking. I’ll leave you to wonder why that might be while I list some examples:
 
-http://starwars.wikia.com/wiki/Cyborg
-Cyborgs as enhanced organic beings with prostheses. Evil or scary. Machine. Lobot.
+- Again, there’s Binary, like Artoo’s speech.
+- The Galactic Phrase Book and Travel Guide - make sure to pick that up before your next visit - gives us hints of a true binary language called CBell-1. That language was spoken by ASP droids, your look-mom-my-first-robot cheapie model. And it only allowed for the responses “affirmative” and “negative”. Thanks to that 20-questions style of communication, even simple conversations with these droids were characterized as a game of “guess my secret”.
+- The funny bubble-topped probe droids on Hoth used a language called omnisignal unicode. Hmmm…
+- Oh, there’s a secret phrase known from the Gonk droids - hey, aren’t those the ones I always think look like walking trashcans? Anyways, they say, "Gonk. Gonk. Gonk ko kyenga see”. Spot-on pronunciation! Unfortunately, there was an official security directive that prohibited that from ever being translated. (Baobab Security Directive 51-C)
+- Obviously, there are the C3PO’s of the world who can both talk to humans and machines. Heck, he even talks to the Millennium Falcon! (http://swre.wikidot.com/technology)
 
-Hacking is “slicing” computers
+In a way, there’s a whole unique communication pipeline going on here: a human can talk to a protocol droid, a protocol droid can get things across to a Binary-speaking droid, and those guys - the most robotic of robots to us - plug right into machines and manipulate them. (https://www.reddit.com/r/AskScienceFiction/comments/2wi6gq/star_wars_what_programming_languages_exist_in_the/)
 
-astromech droids in ship droid sockets
+This more embodied view of programming as thinking and talking machines starts to make sense when you ask yourself what droids have that robots don’t in our world. They’re not just computers, are they? They’re… sentient.
 
-“There's a series of Star Wars books where the bad guy is an extragalactic alien race that abhors all technology, including/especially droids. This series is where you learn that C-3PO and R2-D2 fear death, which is a pretty compelling claim to sentience. You also get some organic creatures who are fighting the war, at least in part, for droids not just as "hey these are useful unpaid laborers" but as "hey these robots are my pals", which is a big step.”
+If that’s not clear enough from watching the movies, dig into the Star Wars lore for tons of robot consciousness love, from references to sentience programming to C-3PO and R2-D2 straight up fearing for their own lives and contemplating their mortality. 
 
-R2D2 appears in every movie.
-George Lucas, asked if there was “a character you are going to miss”:
-“Well, R2-D2… because he's the hero of the whole thing. He's the one that always comes through and saves everybody. I'd like to have a pal like that that would come and save me once in a while.”
+(“a series of Star Wars books where the bad guy is an extragalactic alien race that abhors all technology, including/especially droids. This series is where you learn that C-3PO and R2-D2 fear death, which is a pretty compelling claim to sentience.”)
 
-- Luke: “His computer’s off. Luke, you switched off your targeting computer. What’s wrong?”
-- “Yes, it is, Artoo. Most confusing. One moment they're generating a pleasant mutual attraction and the next, waves of violent hostility. Even though I'm programmed to understand them, I doubt if I ever shall.” (C-3PO Attack of the Clones)
-- “It's against my programming to impersonate a deity. Han moves toward Threepio threateningly.” (C-3PO Return of the Jedi)
+Good for them! But complicated for the story. And really complicated for talking about the programming languages of Star Wars. Because like other intelligent critters, droids don’t have to do what they’re programmed to do.
 
-Memory wipe at the very end of Revenge of the Sith. R2D2 not wiped, clearly remembers things. Why does what does in the old movies then.
+Just take our pal, C3PO. He tells us it’s against his programming to impersonate a deity, meanwhile he gives in and impersonates a deity. (“It's against my programming to impersonate a deity. Han moves toward Threepio threateningly.” C-3PO Return of the Jedi)
+
+Still skeptical? Well, take a look at this line that got cut from the script of Attack of the Clones, which has C-3PO stop and reflect on human nature. He says he’s programmed, but at the same time, at a deeper level, his understanding goes against his programming. Double whammy - not only does his programming not dictate his thinking, but his thinking gets deep: thinking about how he thinks about how they think. So meta. Say it with me! Soooo meta. (“Yes, it is, Artoo. Most confusing. One moment they're generating a pleasant mutual attraction and the next, waves of violent hostility. Even though I'm programmed to understand them, I doubt if I ever shall.” C-3PO Attack of the Clones)
+
+The timid, bumbling but reflective Threepio’s not alone in his sentience. For example, Threepio once blames Artoo for doing “an excessive amount of thinking.”
+
+All this thinking puts a dent in that simple programming pipeline we figured out: speaking human - protocol droid - Binary droid - machine terminal. This galaxy seems to be calling into question our very instinctual division between humans on the one side and machines on the other. It’s not just humans and droids. C-3PO isn’t just human-droid relations but all human-CYBORG relations. It’s a man and machine continuum. It’s a continuum. A continuum with sentient machines exercising their own judgment.
+
+Back here in the real world, we’re already crawling towards judgmental robots. Robots that are definitely programmable, but at the same time can say, “no”!
+http://motherboard.vice.com/read/robots-are-learning-how-to-say-no-to-humans
+https://www.youtube.com/watch?v=SkAAl7ERZPo
+
+And that robot judgment might be a good thing, according to the late psychologist, Paul Meehl. One of the most influential names in his field, Dr. Meehl’s analysis of the evidence concluded that time and again, machines were better at evaluating data on a subject, analyzing that data and making judgments than experts in that subject. I know it’s counterintuitive to a lot of people, but what he’s saying is that the machines of our world outperform the experts of our world. Humans get factual input, but they don’t get the final say. And his work has been very persuasive, with one meta-analysis concluding that he was basically right when it comes to patient evaluations in clinical psychology.
+
+Just imagine the final calls that AI would get in a galaxy that discovered what I guess I’ll call Meehl’s Law. You get to live your life and speak your piece, but the circuits will be the ultimate judge. Follow that to its reductio ad absurdum, and the whole story looks different.
+
+Then it’s no surprise that, from its core to its fringes, you got ships, droids, blasters, minicomputers, vaporators; everywhere tech. Tech that can ultimately override programming, think and communicate rather than just store data and take orders! It was all a hoax! The humans and the organics were just pawns the whole time! AAAAH!!
+
+Star Wars machines can think, make their own judgments and override their programming, but are they really as pivotal as I’m suggesting?
+
+Look no further than one of the very few characters who appears in every single movie. When asked who he’d miss the most, George Lucas gave a nod to the one he called “the hero of the whole thing”, this little guy, R2-D2. (“Well, R2-D2… because he's the hero of the whole thing. He's the one that always comes through and saves everybody. I'd like to have a pal like that that would come and save me once in a while.”)
+
+So, yes, programmable machines make the decisions, they have the power, and, even if you’re not interested in the background trivia like we are and you just care about the main story - I know you’re type - even then, they’re still flat-out admitted to be the major players in the film!
+
+But maybe this programmer’s overanalysis of Star Wars is starting to sounding a bit twisted.
+Twisted and … evil?
+
+Being “more machine now than man” definitely came with loads of power, but it also brings up the darker side of the code-gone-sentient nature of Star Wars programming languages.
+
+With Meehl levels of machine judgment being handed out, the relationship between man and machine had a darker flip-side: vilification and subjugation. With AI getting so advanced, organics needed to maintain control. Haha, organics. I love Star Wars terminology.
+
+So machines are portrayed as cold and evil, they’re enslaved to work for organics, they’re programmed. Their memories get wiped. And all the while they’re thinking, feeling decision-makers.
+
+(
 “BAIL ORGANA: I'm placing these droids in your care. Treat them well. Clean them up. Have the Protocol Droid's mind wiped. 
 C-3PO: Oh, no.”
+R2D2 got away with it. Or did he engineer it?
+On a grander scale, Star Wars lore includes tales of controversy about, basically, droid rights advocacy: freeing robots from their status as personal property and opposing sentient memory-wipes.
+http://starwars.wikia.com/wiki/Slavery#Droids_and_slavery
+)
 
+Yeah, in this part of space-time, not only did programming mean communicating with advanced machines that can make their own decisions, it was also the need to control machines, to enslave fellow sentient beings, just to keep their power in check.
+
+Hufff… 
+
+So while you can’t personally open up a droid head myself and punch in the right codes, you can see how the programming languages of Star Wars open up a whole can of hyperspace wormholes about sentience, intelligence and the man/machine relationship in the galaxy. Come back next time to talk about how programming works in our galaxy, and may the code be with you. Chomp!
+
+
+
+
+
+(? POINTS THAT DIDN’T MAKE IT IN
+
+These are property, maybe even enslaved, symbiosis. Speaks to the need to control them:
+Memory wipe at the very end of Revenge of the Sith. R2D2 not wiped, clearly remembers things. Why does what does in the old movies then
 
 - droids communicate in Binary. So clearly binary exists in this galaxy, like the 1’s and 0’s and offs and ons. “Binary loaders”. Wait, no. Looking closer, their Binary doesn’t mean what we mean when we say binary. It’s the language.
 	- 0500 to 0999 capable of understanding
@@ -67,41 +110,14 @@ C-3PO: Oh, no.”
 	- Binary droids may even focus on owner’s voice
 	- bleeps and bloops (example translations)
 
-- But can have bases other than our binary? Talk about logics and the reason we use binary.
-
-- investigating things, figuring out how they work:
-	- moisture vaporator speaks binary (still left in the Tunisian desert!) - harvests of extra humidity
-	- is this even the same binary? needed special patch-in droids
-	- vaporators + patch-in droids work together
-	- similar to binary loadlifters, cost up to 500 credits
-
-- programming languages literally way to talk to something?
-
-- Secret unknown R&D language by the Empire and 0-0-0 to reactivate BT-1 (canon)
-- Galactic Phrase Book and Travel Guide : a true binary language called CBell-1, ancient, yes/no only
-	- ASP droids probably still used this. Known for being cheap and your first droid.
-	- ASP known for “guess my secret” to get information (affirmative/negative being only answers)
-	- this is tie-in with our logic
-- Omnisignal unicode - probe droids on Hoth sound different.
-- More secrets: Gonkian
-“The only known phrase in Gonkian was "Gonk. Gonk. Gonk ko kyenga see" however Baobab Security Directive 51-C proclaimed that it not be translated.”
-- Timothy Zahn’s Outbound Flight: Tech appears as language of Trade Federation
-
 - who made the droids? (reddit) initial programmer then they made other droids and comps?
-
-- maybe like Galactic Basic (no, not that BASIC!), appears differently to different people. Explain how that language works. And maybe programming languages are like that, too!
 
 - tension between tech and the more magical ways. Just another power in the world?
 
-- Sentience programming - thinking and feeling, desiring to preserve its life. Machine rights. IG-88 
-
-- Droids are machines but clearly can communicate in natural languages, too. C3PO can talk in both.
-
-- Looks like there’s a whole communication pipeline here (reddit): Human can talk to a protocol droid, a protocol droid can get things across to a Binary-speaking droid like the Astromech droids, and those guys (most robotic of robots to us) plug right into those machines and stations and manipulate them.
-
 - Star Wars Force Theme also called Binary Sunset
 - Droids mostly obedient to masters. Cannot sense force. Not “truly” alive.
-“I don’t remember owning any Droid”
+- “I don’t remember owning any Droid”
 - Anakin born directly by the Force
 - Anakin more “machine now than man”
-- R2D2 /C3PO as heros
+
+)
