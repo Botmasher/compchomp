@@ -20,7 +20,7 @@ Potential Topics/Ideas/Points:
   - why: the rotation of the earth around its axis isn't an integral multiple of seconds; leap seconds make up the differnce by giving the earth an extra second
   - less predictable; 26 leap seconds inserted since 1972
   - last on on June 30, 2015
-  - TAI doesn't use leap seconds; UTC (and common timezones PST, EST, etc.) do
+  - TAI doesn’t use leap seconds; UTC (and common timezones PST, EST, etc.) do
 Other topics:
 - Security -- reliance upon time synchronization
 - GPS -- needs accurate time + understanding of relativity

@@ -1,5 +1,7 @@
 SCRIPT IDEAS
 
+why do YouTube autogen subtitles get things so wrong? Voice recognition.
+
 there was a nasty floating point bug in Pentium processors in the mid 90s: https://en.wikipedia.org/wiki/Pentium_FDIV_bug
 
 Self-Driving Cars
