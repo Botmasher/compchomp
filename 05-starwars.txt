@@ -4,7 +4,7 @@ The Galaxy is full of computers, and seemingly any Tom, Jane or Greedo can take 
 
 In honor of the new films coming out, this week I’m taking a step aside from showing you how code is part of your world and talking about programming in that Galaxy long ago and far away.
 
-(intro)
+[intro]
 
 As a coder, one of the things I always notice on my trips to the Galaxy is all of the technology everyone seems to have access to, whether they’re hot-shot black-cloaked machine-men or just some lowly farmers dozens of parsecs out in the boonies.
 
@@ -101,20 +101,19 @@ So while I can’t personally open up a droid head myself and punch in the right
 
 (? POINTS THAT DIDN’T MAKE IT IN
 
-These are property, maybe even enslaved, symbiosis. Speaks to the need to control them:
 Memory wipe at the very end of Revenge of the Sith. R2D2 not wiped, clearly remembers things. Why does what does in the old movies then
 
-- droids communicate in Binary. So clearly binary exists in this galaxy, like the 1’s and 0’s and offs and ons. “Binary loaders”. Wait, no. Looking closer, their Binary doesn’t mean what we mean when we say binary. It’s the language.
+“Binary loaders”. Wait, no. Looking closer, their Binary doesn’t mean what we mean when we say binary. It’s the language.
 	- 0500 to 0999 capable of understanding
 	- other models ignore any communication (focus is on humans communicating with, moving)
 	- Binary droids may even focus on owner’s voice
 	- bleeps and bloops (example translations)
+- Star Wars Force Theme also called Binary Sunset
 
 - who made the droids? (reddit) initial programmer then they made other droids and comps?
 
 - tension between tech and the more magical ways. Just another power in the world?
 
-- Star Wars Force Theme also called Binary Sunset
 - Droids mostly obedient to masters. Cannot sense force. Not “truly” alive.
 - “I don’t remember owning any Droid”
 - Anakin born directly by the Force
