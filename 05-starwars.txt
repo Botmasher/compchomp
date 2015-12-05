@@ -2,7 +2,7 @@ Programming Languages of Star Wars
 
 The Galaxy is full of computers, and seemingly any Tom, Jane or Greedo can take a droid aside, pop open its head panel and - bleep-bloop! - program it up. But what is all this tech? How do Star Wars programming languages work? And why do I have almost conspiracy-levels of suspicion that machines are THE major players in this grand space epic?
 
-In honor of the new films coming out, this week I’m taking a step aside from showing you how code is part of your world and talk about programming in that Galaxy long ago and far away.
+In honor of the new films coming out, this week I’m taking a step aside from showing you how code is part of your world and talking about programming in that Galaxy long ago and far away.
 
 (intro)
 
@@ -22,7 +22,7 @@ Even humans getting in on the machine gig and cyborging up the place.
 
 When it comes to programming, we find out that R2D2 speaks binary. And a little Jawa tells me that the moisture vaporator that the film crew left in the Tunisian desert works like binary loadlifters in most respects.
 
-Binary? Uncanny, they have binary! And what is binary? A way to count using only two values, like we use in our technology for passing info and flipping switches: True/False, 1/0, off/on. And surely if they’re using computers, they’re using binary. False. What, you haven’t heard of non-binary computers that use ternary and other multiple-valued logics?
+Binary? Uncanny, they have binary! And what is binary? A way to count using only two values, like we use in our technology for passing info and flipping switches: True/False, 1/0, on/off. And surely if they’re using computers, they’re using binary. False. What, you haven’t heard of non-binary computers that use ternary and other multiple-valued logics?
 
 But none of this is Star Wars binary anyway! See, their capital-B binary is what astromech - I love saying that word “astromech” - astromech droids communicate in when they make all those bloops and bleeps sounds. It’s not a counting system. It’s a protocol, a language!
 
@@ -50,7 +50,7 @@ Good for them! But complicated for the story. And really complicated for talking
 
 Just take our pal, C3PO. He tells us it’s against his programming to impersonate a deity, meanwhile he gives in and impersonates a deity. (“It's against my programming to impersonate a deity. Han moves toward Threepio threateningly.” C-3PO Return of the Jedi)
 
-Still skeptical? Well, take a look at this line that got cut from the script of Attack of the Clones, which has C-3PO stop and reflect on human nature. He says he’s programmed, but at the same time, at a deeper level, his understanding goes against his programming. Double whammy - not only does his programming not dictate his thinking, but his thinking gets deep: thinking about how he thinks about how they think. So meta. Say it with me! Soooo meta. (“Yes, it is, Artoo. Most confusing. One moment they're generating a pleasant mutual attraction and the next, waves of violent hostility. Even though I'm programmed to understand them, I doubt if I ever shall.” C-3PO Attack of the Clones)
+Still skeptical? Well, take a look at this line that got cut from the script of Attack of the Clones, which has C-3PO stop and reflect on human nature. He says he’s programmed, but at the same time, at a deeper level, his understanding goes against his programming. Double whammy - not only does his programming not dictate his thinking, but his thinking gets deep: thinking about how he thinks about how humans think. So meta. Say it with me! Soooo meta. (“Yes, it is, Artoo. Most confusing. One moment they're generating a pleasant mutual attraction and the next, waves of violent hostility. Even though I'm programmed to understand them, I doubt if I ever shall.” C-3PO Attack of the Clones)
 
 The timid, bumbling but reflective Threepio’s not alone in his sentience. For example, Threepio once blames Artoo for doing “an excessive amount of thinking.”
 
@@ -93,7 +93,7 @@ Yeah, in this part of space-time, not only did programming mean communicating wi
 
 Hufff… 
 
-So while you can’t personally open up a droid head myself and punch in the right codes, you can see how the programming languages of Star Wars open up a whole can of hyperspace wormholes about sentience, intelligence and the man/machine relationship in the galaxy. Come back next time to talk about how programming works in our galaxy, and may the code be with you. Chomp!
+So while I can’t personally open up a droid head myself and punch in the right codes, you can see how the programming languages of Star Wars open up a whole can of hyperspace wormholes about sentience, intelligence and the man/machine relationship in the galaxy. Come back next time to talk about how programming works in our galaxy, and may the code be with you. Chomp!
 
 
 

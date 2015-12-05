@@ -2,7 +2,12 @@ Are programming languages real languages?
 
 / You can talk to other humans. But did you know that you can talk to your computer? No, no, no![cartoon picture of shouting at comp] Not like that. You really can, if you do it this way. With a programming language! 
 
-For years now, debate’s hitting the popular press over whether or not programming languages should count towards a student’s foreign language requirement. Now I know we call these languages, but is mathy-looking code like this really language?
+For years now, debate’s hitting the popular press over whether or not programming languages should count towards a student’s foreign language requirement.
+
+/ Now I know we call these languages…
+/ Now if you take a few key words, some curly braces and a heap of semicolons and throw them together, we call this a programming language…
+
+…but is mathy-looking code like this really a LANGUAGE language?
 
 [intro]
 
@@ -47,9 +52,9 @@ It’s kinda mind-blowing, since our school days conditioned us to split “lang
 
 Scary or not, people developed formal languages to study the way we think, to be more consistent and abstract than natural language, and to - guess what? - solve problems! Like programming languages do.
 
-A lot of us really zoom in on the mathiness and thoughtsy problem solviness, but there’s actually something really linguistic about the minds of people who master formal languages. You know, people who don’t close philosophy books when the logic gets scary. And do you know what it is? Can you guess?
+A lot of us really zoom in on the mathiness and thoughtsy problem solviness of languages like logic and programming languages, but there’s actually something really linguistic about the minds of people who master formal languages. You know, people who don’t close philosophy books when the logic gets scary. And do you know what it is? Can you guess?
 
-Janet Siegmund and team have done a bit of brain research on programmers working through code like this. And what type of brain patterns do you think lit up during the study? The ones that deal with memory and language. Basically, being a fluent coder looks a lot like being a native speaker.
+Janet Siegmund and team have done a bit of brain research on programmers working through code like this. And what type of brain patterns do you think lit up during the study? Just the ones that deal with math? The ones that deal with memory and language. Basically, being a fluent coder looks a lot like being a native speaker.
 
 (
 http://www.infosun.fim.uni-passau.de/cl/publications/docs/SKA+14.pdf

@@ -1,6 +1,6 @@
 SCRIPT IDEAS
 
-:Plan: two more scripts about language (Unihan / Google Translate / YT subtitles / Computational linguistics) for five total NativLang-CompChomp collabs. Two more non-language scripts for CompChomp alone (Star Wars / Y10K).
+:Plan: one more script about language (Unihan / Google Translate / YT subtitles / Computational linguistics) for five total NativLang-CompChomp collabs. One more non-language scripts for CompChomp alone (Y10K).
 
 why do YouTube autogen subtitles get things so wrong? Voice recognition.
 
@@ -38,16 +38,6 @@ Han Unicode
 - Computers can’t solve border disputes and decide linguistic identity for us.
 	- Bringing us together after threads of history take us in different directions.
 	- But maybe the linguistic conflicts that stem from those need info from language to resolve and encoding has to respond to linguistic facts
-
-Passwords
-- I love cookies. But while they’re definitely the world’s best dessert, they make a terrible password.
-- Passwords started out as a linguistic way to determine who had special access to an area, and who should be kept out. But passwords are hardly words anymore. Why is that?
-- Entropy. Guessability. Hacking. Dictionary, brute force…
-- Computer strings, literals, and what a formal language is - legal symbols. But computers still need humans to come up with these passwords. And we rely on our more intuitive human language to come up with words and phrases that mean something for us, maybe getting really clever and substituting numbers for vowels, but more often than not being exactly as clever as the next guy and patting ourselves on the back for it (top passwords list, incl “monkey”).
-- Old password let you go up to secret door and say word once, wouldn’t sit there spamming door until got right one.
-- But now that can send any string want, it’s even more important for those strings to be harder to guess. And harder to guess doesn’t mean more clever human words. It means more entropic computer words.
-- Length, character set
-- Before you think it’s time we move on from our old linguistic idea of passwords and pick up this computational one, think a bit more about the kind of things computers can check before letting you in. What if it checked for a skill instead - how you do what you do. Like speaking English. Or typing. Along with biometrics, these are other ways get back to a more human scale. Maybe one day passwords will be human-style words again.
 
 Translators
 - Type just a few words into your favorite online translator, and it will guess the language like magic. Sometimes it does it when I just type one word. Or even just a character. How does it do that?
