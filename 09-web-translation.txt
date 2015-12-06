@@ -1,0 +1,62 @@
+How Computers Translate
+
+Type just a few words into your favorite online translator, and it will guess the language like magic. Sometimes it does it when I just type one word. Or even just a character. How does it do that?
+
+[ intro ]
+
+We’ve come a long way from those Cold War failures in the early days of machine translation that I talked about in my last video. Translation apps have become a mainstay in our lives. They let us translate stuff that’s in a language we’ve never even heard of before. They even let us hold up a smartphone and directly read the world around us!
+https://www.youtube.com/watch?v=0zKU7jDA2nc
+
+Even though professional translators rage-quit them and grumble about them in forums, it’s hard to ignore how useful or at least accessible they’ve become. But how does it work?
+
+You might think it knows lots of languages, like it’s a language specialist that studied a bunch of grammar books and paid really good attention in robot language class, or plugged into the AI matrix and just downloaded all the linguistic “know how”, then just had to fill in some strange words here and there that it was missing (“what is TACO?”).
+
+Peel back the cover and look inside; that’s not what’s going on. It’s not a language master per se. It’s really a stats master.
+
+See, if you tell a computer to think like someone who obeys all the rules of grammar, you end up with a rule-based machine translator. Rule-based translation into a language involves a lot of the stuff you’re familiar with from high school foreign language class: looking up words in a dictionary and following the rules in a grammar book.
+
+(?
+¡Son mis amigos! We take that sentence and break it down into pieces. Then we look up the grammar of each piece: our Spanish dictionary will give us some headword and some grammar tags (“son” could be the verb for “to be” in the present indicative, third person plural, or it could be a masculine singular noun meaning “sound”) Once we have that, we perform one of the most challenging step: choosing which of the terms is meant here by paying attention to cues from the surrounding context. The computer looks for how the grammar of the language it’s translating to, it sets up blocks of language to fill, then it looks up tagged language equivalents in the target language, then fills them in. Whew! They are my friends!
+Well, I really meant “you are my friends” - which is said the same way in Spanish, so… yeah, it’s not perfect. Take note, future computational linguists: ambiguity is your ever-present cosmic trickster.
+)
+
+So why am I calling your favorite online translator a stats master? Well, instead of sitting there with a dictionary and a grammar book, it’s thinking with probabilities.
+
+So in my video about passwords, we talked about something called a string. And the text you type into Google translate is also a string. A web translator wants to take that string you put in and to predict what the target, translated string should be. As one researcher with more experience put it, “Among all possible target strings, the goal is to choose the string with the highest probability.”
+
+And if we have a string we’re trying to translate, just how do we determine which of all the possible strings in the language we’re translating into is the best fit? Without just saying “it’s statistics”?
+
+You need tons and tons and tons of examples of each language. But not just any examples. You need examples that are parallel texts, basically the same text in both languages, where the text has already been translated by a person from the source language and into the target language. Then you take those texts and search them for parallel patterns. Those texts make up a corpus, basically a huge heap of real language that we can mine for information. This is where the statistics comes in. If you find some word in language 1 paired with some other word in language 2 once in the corpus, it might as well be a coincidence. But after seeing the pair so many times in the corpus, the frequency just keeps getting higher and higher, and so that’s more and more likely to be a pattern.
+
+Now that it has all those matchup statistics on all that data, when you type in a string, it’s able to abstract that knowledge of its existing corpus and apply it to new situations. Comparing data on all possible patterns, what’s the likelihood that this translates to that?
+
+You get a glimpse of this going on when you switch one word and the whole translation changes. You’re not just translating each word to another word, or just looking up the grammar around that word. When you replace a word, you’re asking it to reevaluate what this whole chunk of language most likely translates to, given all of the patterns it’s identified in the corpus.
+
+But this pattern recognition is also what gives it that magic ability to just know which language I’m typing in. Since it has such a wealth of information to draw on for many languages, it can make guesses about the text I’m typing in. That most likely looks like German, because it matches the kind of things I already have written in German!
+
+But if it needs so much parallel text to translate a language, won’t it know some languages better than others? You’re darned skippy. Heh, how do you say that in Russian? (Uh… I actually can’t read Cyrillic letters. What does it say, Josh?)
+
+Yeah, not all language pairs are made equal. In Spain, there are 12 million people who speak Catalan, a Romance language related to Spanish. And while Catalan has a super rich literary tradition, there’s been a lot more translation between Catalan and Spanish than there has been between Catalan and English. Similarly, there’s like a bazillion tons of translation between English and Spanish. In situations like these, Google Translate uses Spanish as a between language, an interlingua. So it actually translates English to Spanish, then Spanish to Catalan, using Spanish as the interlingua. What could possibly go wrong? Hah, just kidding. It actually works.
+
+Or does it? English takes its turn sitting between Spanish and Russian in this sentence (No eres el amigo de los perros. No les gustas.), and it shows! It has no idea whether you should be familiar or formal. That’s not the fault of Spanish or Russian - both of them distinguish between a polite way and a familiar way of talking to you. The culprit is English. Barbarians. Where’s your sense of decorum?
+
+English is actually their interlingua of choice. So translating between Catalan and Russian ends up looking more like this: Catalan to Spanish, then Spanish to English, then English to Russian. What the craziness? Well, as long as the statistics is sound, right? WHO’S FLYING 
+THIS PLANE?
+
+And popular opinion is that web translation can get pretty crazy sometimes. It’s not hard to find automatic translations ending up the butt of gags and jokes - just search Google Translate Sings for starters. Eww, it’s all ungrammatical and stuff! Are these knee-jerk reactions justified? It’s not very fair to focus on all the things it’s doing wrong and say it’s broken. My mom was able to have a meaningful relationship with her cousin in Germany, all thanks to this technology. That’s what grammar perfectionists are missing here - the point of statistical translation in the first place - likelihood, probability. It just needs to work well enough for meaningful connections like this between people and ideas, and between people and people.
+
+(? Maybe computers can teach us a bit about language learning - not memorizing rules and then practicing but finding patterns while learning in real time.) Just, you know, check it with a real translator before you get it tattooed on you.
+
+Stay tuned for the rest of this series on how programming and linguistics intertwine, or join me on my channel to explore more ways that your world is made up of code! Chomp.
+
+
+
+(?
+How would you code pragmatics? How would you improve? Do you think computer translation is about to replace humans?
+
+Needs and actively requests human help. Checking that it’s giving the right output hard. Guessing pragmatics harder.
+
+Examples and News:
+	- DigitalInspiration created spreadsheet with scripts to translate chat in real time
+	- BUT phone app now allows for texting between different languages
+)

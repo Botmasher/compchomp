@@ -39,21 +39,6 @@ Han Unicode
 	- Bringing us together after threads of history take us in different directions.
 	- But maybe the linguistic conflicts that stem from those need info from language to resolve and encoding has to respond to linguistic facts
 
-Translators
-- Type just a few words into your favorite online translator, and it will guess the language like magic. Sometimes it does it when I just type one word. Or even just a character. How does it do that?
-- You might think it knows a bunch of languages, like it’s a language specialist that studied a bunch of grammar books and paid really good attention in robot language class, or plugged into the AI matrix and just downloaded all the linguistic “know how”, then just had to fill in some strange words here and there that it was missing (“what is TACO?”).
-- Peel back the cover and look inside - that’s not what’s going on. It’s not a language master per se. It’s really a stats master.
-- Thinking like someone who can’t break the rules versus thinking with probabilities. Statistics, word frequencies. Likelihood. It pairs texts in a language with a translation of that text, looking for matches that it can abstract and apply in new situations.
-- knows some languages better than others as a result. Not all pairs equal. That’s why choosing language pairs.
-- Needs and actively requests human help. Checking that it’s giving the right output hard. Guessing pragmatics harder.
-- Examples and News:
-	- Silly examples. Popular ones - Google Translate Sings, or Google Translate reads whatever.
-	- DigitalInspiration created spreadsheet with scripts to translate chat in real time
-	- BUT phone app now allows for texting between different languages
-- Knee jerk reaction and butt of jokes was that Google Translate sucks, right? It’s all ungrammatical and stuff. But what that’s missing is (à la CGP Grey) that it doesn’t need perfection, it needs to work well enough. And as it learns, it gets better.
-- How would you code pragmatics? How would you improve? Do you think computer translation is about to replace humans?
-- Might teach us a bit about language learning - not memorizing rules and then practicing but finding patterns while learning in real time?
-
 IBM Watson
 - Ask a stupid question, get a stupid answer?
 - Unlike Translate last week, this isn’t comparing texts to find a pattern. It’s not trying to learn how you speak to be able to imitate you, to replace humans. Watson is seeking to consider a question you ask, consider it, and come up with its own answer.
