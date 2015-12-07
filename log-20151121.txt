@@ -2,6 +2,8 @@ SCRIPT IDEAS
 
 :Plan: one more script about language (Unihan / Google Translate / YT subtitles / Computational linguistics) for five total NativLang-CompChomp collabs. One more non-language scripts for CompChomp alone (Y10K).
 
+phone evolution: protocol stuff - dial tone and what it means, telecom hacking/phone phreaking
+
 why do YouTube autogen subtitles get things so wrong? Voice recognition.
 
 there was a nasty floating point bug in Pentium processors in the mid 90s: https://en.wikipedia.org/wiki/Pentium_FDIV_bug
