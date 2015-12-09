@@ -10,12 +10,37 @@ Potential Topics/Ideas/Points:
   - travel by rail causing confusion
   - introduction of GMT
 - Problems in Computing:
-  - Y2K -- problem with using 2-digit years (e.g. 90 instead of 1990)
+  - Y2K
+    - problem with using 2-digit years (e.g. 90 instead of 1990)
+    - all two-digit dates (stored in databases, file systems, within files, or anywhere else)
+      face this problem
+    - For those systems, what do they do in the year 2000? It will be stored as 00, but so will the year 1900.
+      And the year 1800, too.
+    - Affected Systems (from https://en.wikipedia.org/wiki/Year_2000_problem)
+      - "In Sheffield, United Kingdom, incorrect Down syndrome test results were sent to 154 pregnant women and two abortions were carried out as a direct result of a Y2K bug. Four babies with Down syndrome were also born to mothers who had been told they were in the low-risk group"
+      - "In Ishikawa, Japan, radiation-monitoring equipment failed at midnight; however, officials stated there was no risk to the public."
+      - "In the United States, the U.S. Naval Observatory, which runs the master clock that keeps the country's official time, gave the date on its website as 1 Jan 19100."
   - Year 2038 -- problem with using 32-bit value for Unix time
+      - Unix time -- common on any Unix or Linux system -- is the number of seconds since 01 Jan 1970 00:00:00 UTC
+      - largest 32-bit integer is 2,147,483,647: 19 Jan 2038 03:14:07 UTC
+      - adding 1 second causes an overflow and makes the time become -2,147,483,648 (the smallest 32-bit integer): 13 Dec 1901 20:45:52 UTC
+      - Already a problem: calculating a 30-year mortgage or the life insurance premium for someone who is 50 years old requires calculations beyond the year 2038
+      - A common solution is to use 64-bits, which means we don't have to deal with this again for another 292 billion years. Take THAT coders of the future!
   - Year 10,000 Problem RFC 2550 -- comic look at solving Y2K indefinitely
+    - RFC 2550 -- published by the Internet Engineering Task Force or IETF for short -- is all about the Y10K problem. Now, you may just brush it off as an April Fool's joke. After all, it was published the same day as RFC 2549 titled "IP over Avian Carriers with Quality of Service", which suggests *ostriches* as a viable alternative to wired or wi-fi networks. But just like the Year 2038 problem, it's already a problem for some coders: simulations that involve long-term predictions or calculations -- like determining the locations of planets in their orbits 100,000 years from now -- require dates well beyond four digits.
+    - Solving Y2K put off the issue until Y10K, at which point four digits won't be enough.
+    - That may sounds like someone else's problem, since none of us will be around when the clock strikes midnight on 01 Jan 10,000.
 - Leap Years / Days
   - why: orbit of the earth around the sun isn't an integral multiple of days; leap days make up the difference by giving the earth an extra day to make the trip around the sun
-  - not every four years; only if not also divisible by 400; that's why  2004 and 2008 were leap years but 2000 was not
+  - not every four years!
+    - every 4 years
+    - BUT not if divisible by 100
+    - UNLESS also divisible by 400
+    - so for 2000:
+      - divisible by 4? Yes - so it's a leap year!
+      - divisible by 100? Yes - oh, so it's not a leap year!
+      - divisible by 400? Yes - so it is definitely a leap year!
+
 - Leap Seconds
   - why: the rotation of the earth around its axis isn't an integral multiple of seconds; leap seconds make up the differnce by giving the earth an extra second
   - less predictable; 26 leap seconds inserted since 1972
