@@ -3,6 +3,108 @@ ARE COMPUTERS ALREADY BREEDING HUMANS?
 [ Inspiration: https://www.youtube.com/watch?v=SqEo107j-uw&t=37m24s
 Sam Altman – machine learning algorithms matching people on dating sites who go on to have children – in effect, machines are breeding people ]
 
+OUTLINE
+
+Setup:
+- popular sci fi - people are sure future comps will breed humans
+- like in Matrix, for battery power
+- like Battlestar Galactica
+- 1s and 0s figuring out our birds and bees
+- Future is now? Are they already doing it?
+
+Main:
+- "Computer Assisted Dating"
+- little history:
+	- 1965 Operation Match
+	- Jeff Tar (Harvard grad) didn't like limited dating pool
+	- questionnaire to students around Boston
+	- transfered to punch card, fed to comp
+	- out popped list of 6 ideal dates and contact info
+- online dating now:
+	- not just for nerdy Harvard students
+	- very mainstream, everyone doing it
+
+- Stats Alert!
+	- 22% of 18-24 year olds have used an online dating app.
+	- 35% of recent marriages were from relationships that started online
+	- Online dating itself is a $1.7 billion dollar per year industry
+
+- Platforms
+	- how much the machines get involved in playing matchmaker depends on platform
+	- eHarmony: closeness in 6 areas based on 200 questions
+	- Tinder: who you see based on data points - careers, education, interests + technical info like how many times swipe to accept notice
+	- Xbox Live matches based on games you play and skill level
+		- What, doesn't fit? Only 50% of those online marriages from DATING sites!
+		- People meet through e-mail, Facebook, even online games
+		- Stats aren't in for number of WoW-babies yet. Azeroth?
+
+- How programmers turn love into a nerdfest
+	- same kind of matching people by preferences found in other areas of life
+	- machines can learn (topic for another day)
+		- one example is going to help you binge watch Friends
+		- that's right, Netflix
+	- early Netflix built rep around recommending movies to customers
+	- needed to make those recommendations as solid as possible
+	- because I get tired of Caillou clogging up my recommendation list. No more Dora!
+	- offered 1 million dollar prize: teach Netflix comps to tighten up suggestions
+	- Prize claimed by Gavin Potter
+		- programmed comps to learn from past behavior AND group filtering
+		- group filtering really cool: most well known
+		- group filtering: I don't know you, but know you like X and people like X like Y
+
+- Netflix vs Dating
+	- Funny, Netflix put more $ and effort into algorithms for recs than a lot of dating sites
+	- Didn't escape notice of dating sites
+	- Won sweet million-dollar price, Gavin Potter approached by UK dating sites
+	- haha, movies and date / dinner-date and movie by same lines of code!
+
+- Machines deliver romance in bulk. But also customized romance.
+	- One geek's getting game: built own Tinder automator with facial recognition algorithm
+	- Eigenfaces. Learned the faces he prefers
+	- swiped right automatically for him if new women similar to previous likes
+	- (even automated reply)
+
+- If you want that kind of automation in love life, check out his opensource code.
+	- on a little thing called github
+	- we should talk about this github thing
+	- (but tell story about it that non-coders could get)
+
+- Machines choosing who we meet and why. BUT goes deeper.
+	- not just picking people. Shaping how you see potential romantic partners.
+
+- Story : friend Tony on Facebook
+	- magical sense of humor?
+	- suddenly filled with hilarious cat gifs
+	- BUT is Tony? or .... FB!?
+	- secret: FB knows you don't care about any of his other posts
+	- conveniently never saw other ones
+	- Suddenly, Tony more datable. And get married. Because of Tony's natural charisma?
+	- Owe thank you bottle to dev team and Zuckerberg
+	- popular social sites using machine learning to determine which posts interact with
+
+- Oh NO! Machines are breeding!
+	- Run for the hills! Delete those apps! DATE YOUR COUSINS!!!
+	- No, no. Turns out computers might be doing better job than we ever did
+	- Looks like marriages from online relationships: higher satisfaction, lower rate divorce
+	- Surprising? Computers have proud tradition of beating us:
+		- first chess
+		- then jeopardy
+		- now dating game!
+End:
+- Now that you know your dating life is run by machines, what do you think?
+- Creepy or cool that code plays such a huge role in relationships?
+- Personally, I don't have to worry about some AI superplot under-the-covers stuff
+- I met my husband the old-fashioned way: freshman year of college, dorm assigned to
+	- ... by... a .... computer.........
+		
+
+
+
+
+
+
+
+
 If popular science fiction is any indication, people are pretty sure that some future super computer intelligence is going to spend it’s free time breeding humans.  Whether they’re doing it so they can use us as an endless source of battery power - Matrix-style - or as a solution to their own electronic infertility - like in Battlestar Galactica - we know they’ll be spending their 1’s and 0’s figuring out our birds and bees.
 
 But what if the future is now?  What if computers are already breeding humans?
