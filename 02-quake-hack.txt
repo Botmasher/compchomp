@@ -4,6 +4,9 @@ When we take a game and open up its code guts, sometimes we find out the game we
 
 [intro]
 
+/Welcome to CompChomp, the only place on the internets where our scripts don't ban you for camping. But if you spawn kill...
+/Welcome to CompChomp, the only place on the internets where Carmack than Urkel.
+
 I play shooters. I’m that voice on the other end that guys start heckling if I say one word. But it’s all good. I’m not pretending to fit in. For this girl the biggest WTF moment didn’t happen the last time I got called a ??? by a teenage boy. I’m a programmer, and my biggest WTF’s are when I find out the length game code goes to cheat us into believing our games are doing something our machines really can’t handle. Silent Hill used fog to cover up technical limitations of displaying a full town onscreen at once. Fuse copied data to get enough space for its memory-hungry cinematics. It also reminded us that Insomniac does so much better with pointy-eared space mongoose-thing shooters. But that’s another story. For me, these computer language tricks are like magic. And do you want to see the coolest of these tricks, the biggest one that made the developers themselves go WTF? Let’s do this. C’mon!
 
 In the 90’s, 3D gaming was fancy, new, barely charted territory. Sexy stuff. (Josh, do I really have to say “sexy”? I don’t want to say “sexy”.) Now beefcakes and bullets and bees and bubbles were moving in the X, Y and Z direction. In game programming, that meant wrapping your mind around a vector with 3 components.

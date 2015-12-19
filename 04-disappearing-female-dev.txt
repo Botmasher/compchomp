@@ -18,7 +18,7 @@ But there’s one stereotype that sticks out because it really fits the facts - 
 
 [intro]
 
-Welcome to CompChomp, the only place on the internets where code is cuter than puppies. Awwww, I changed my mind. 
+Welcome to CompChomp, the only place on the internets where code is cuter than puppies. Awwww, I changed my mind.
 
 Coding hasn’t always been so full of testosterone. It’s actually a field with a history of key women figures. Ada Lovelace, the first computer programmer. Not the first female programmer, literally the first programmer. Grace Hopper, who created the first compiler - that’s pretty darn important in programming - and she’s the one to thank for the terms “bug” and “debug”. The ladies of ENIAC, who moved 80 tons of hardware in heels. But notice something? Nothing going on here since Russia started shaving its leaders.
 
