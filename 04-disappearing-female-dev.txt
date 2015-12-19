@@ -18,6 +18,8 @@ But there’s one stereotype that sticks out because it really fits the facts - 
 
 [intro]
 
+Welcome to CompChomp, the only place on the internets where code is cuter than puppies. Awwww, I changed my mind. 
+
 Coding hasn’t always been so full of testosterone. It’s actually a field with a history of key women figures. Ada Lovelace, the first computer programmer. Not the first female programmer, literally the first programmer. Grace Hopper, who created the first compiler - that’s pretty darn important in programming - and she’s the one to thank for the terms “bug” and “debug”. The ladies of ENIAC, who moved 80 tons of hardware in heels. But notice something? Nothing going on here since Russia started shaving its leaders.
 
 Now it’s a field where the percentage of women just struggles to keep up. Wrong preposition. I’m sorry to say, but more like “down”. Just look at the percentage of women graduating with computer science degrees over the last five years.	
@@ -56,7 +58,7 @@ Is it lack of other females around doing the same thing? Look at me! I do this f
 
 Maybe you need to get over some stigma? Just go try to code! There are a ton of free resources out there. I’ve taken most of them and even helped build one of them. Pick a question you have and write a simple program to answer it. I remember when I couldn’t wrap my brain around the Monty Hall problem, so I used code to walk the computer through it step by step. Even though I still don’t quite get it, after having the computer run the scenario 100,000 times, I can assure you it just better to switch doors. Don’t ask. Do it. This was the first code I wrote totally on my own, it wasn’t part of a class I was taking or part of a job. I just wanted to answer a question.
 
-Code isn’t about guys or girls. It’s about the world around us, which is becoming codier and codier. All the self-driving cars, the robots breeding humans, your computer passwords that aren’t even words anymore, the fabulous men … and ladies… that coded before, the wacky stuff that happens while your favorite video game runs Update() 60 times per second. Or, for some reason, 30 frames per second. We’re looking at you, Last of Us Remastered! Hide your frame-locking shame.
+Code isn’t about guys or girls. It’s about the world around us, a world that is becoming codier and codier. All the self-driving cars, the robots breeding humans, your computer passwords that aren’t even words anymore, the fabulous men … and ladies… that coded before, the wacky stuff that happens while your favorite video game runs Update() 60 times per second. Or, for some reason, 30 frames per second. We’re looking at you, Last of Us Remastered! Hide your frame-locking shame.
 
 You can do this. Girl. You can do this. Guy. You can do this. Sad depressed puppy. Okay, no, you can’t do this. But you can sit next to me while I do this! Whoever you are, wherever you are, your world is made of code. It’s time to join. Maybe, if you step up, that’ll be one less disappearing female developer.
 
