@@ -1,0 +1,13 @@
+1. "Whiteboard Wednesdays" - Fun take on common comp sci problems.  Go over something like 'Fizz Buzz' in a language agnostic way.  Talk about how you tackle the problem.  Give people an idea of what employers are actually checking for when they have you solve these problems.
+
+2. Setting up a development environment - talk about barrier to entry on new tasks, tell story about how I've been helping a lot of beginners troubleshoot and most of them will drop out without even trying because 'not knowing' is embarrassing.  People get frustrated and don't ask for help.  It ends up being a barrier to learning.
+
+3. Ada Lovelace - People think you have to do x, y, and z in order to be a good programmer.  In many instances, they think you need to do those things before you even start learning (e.g. master command line, get better at git, etc).  Ada's story is really cool because she learned to program before the first computer (difference engine) was ever built.
+
+4. George Washington N+1 problem...make it language agnostic though.  Talk about why N+1 is so dangerous in programming.  How to keep an eye out for it.  How to solve it.
+
+5. Elevator algorithms, talk about Burj Kalifa tower smart elevators.  What does a dumb elevator do?  Just looks for the next highest/lowest floor in the direction it's going.  Smart elevators optimize so everyone's getting to their destination faster.
+
+6. Nerdy ("nervy") song about programming.  Tons of programming terms, concepts, etc.  Could make a really fun/simple/catchy song.
+
+7.
