@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=pM21uQR6G_Q
 https://www.youtube.com/watch?v=5lG3xeSU_EA
 
 - Voice Acting
-Game Theorists, Film Theorists (MatPat)
+Game Theorists
 Extra Credits
 CGP Grey
 
@@ -40,8 +40,9 @@ Linus Tech Tips
 Marques Brownlee
 ColdFusion
 
-
 SCRIPT IDEAS
+
+Small Bytes series script ideas listed in separate file
 
 :Plan: one more script about language (Unihan / Google Translate / YT subtitles / Computational linguistics) for five total NativLang-CompChomp collabs. One more non-language scripts for CompChomp alone (Y10K).
 
@@ -99,8 +100,6 @@ IBM Watson
 	- but is this what we’re all doing anyhow, just going through the motions of thinking, and not “being thinkers”? this is where language and computers intertwine and lead us down a philosophical rabbit hole, fast
 - Watson won’t convince the doubters, but it has already introduced a generation of us to what it will be like to have language-proficient computer brains around helping each and every one of us out in the future.
 - But what do you think? Will we be talking to machines just as much as humans? Will we know the difference? And will they be speaking just like us, or understanding us in a way that complement us?
-
-
 
 
 PROJECT PITCH
