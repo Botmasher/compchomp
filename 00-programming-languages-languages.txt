@@ -1,78 +1,66 @@
 Are programming languages real languages?
 
-/ You can talk to other humans. But did you know that you can talk to your computer? No, no, no![cartoon picture of shouting at comp] Not like that. You really can, if you do it this way. With a programming language! 
+In school I had to take a foreign language. I chose Spanish. But now I'm totally jealous when I hear that some schools are giving foreign language credit for computer programming. I would have been all over that!
 
-For years now, debate’s hitting the popular press over whether or not programming languages should count towards a student’s foreign language requirement.
-
-/ Now I know we call these languages…
-/ Now if you take a few key words, some curly braces and a heap of semicolons and throw them together, we call this a programming language…
-
-…but is mathy-looking code like this really a LANGUAGE language?
+But should programming languages - with all their curly braces and semicolons - count as foreign languages? Is mathy-looking code like this really a LANGUAGE language?
 
 [intro]
 
-I myself am a programmer, but I’ve known Josh for years, so I get sucked into lots of conversations about linguistics. So when NativLang invited me to collaborate on a series about code for linguistics-lovers, this was the first topic that caught my attention and made me wonder: do programming languages count as real languages?
+Welcome to CompChomp, the only place on the internets where we crack jokes in binary. So this 0 walks into a bar... heheh...
 
-Well, first, when most of us say the word “language”, we’re talking about what’s called a natural language, like French or Cantonese or Lakota. And what exactly makes these a language has been a tough topic that comes up time and time again on NativLang. Someone speaking a foreign language comes to mind, with sounds coming out of their mouth that linguists divide into small speech units called syllables, and even smaller ones called phonemes. But if you stop for a moment, you can probably think of examples of language that don’t use spoken syllables.
+I'm a programmer, but I’ve known Josh for years. Which means I get to participate in a lot of linguistics discussions. So when NativLang invited me to collaborate on a series about code for linguistics-lovers, the first question I wanted to tackle was: do programming languages count as real languages?
 
-So much of the terminology I’d reach for to talk about all of these natural languages has obvious counterparts in computer languages:
+If you think about language the way linguists do, a lot of it fits programming:
 - Words, programming languages have those.
 - Syntax, a way of arranging words. Yep.
 - A distinction between syntax and semantics, what a chunk of language means. True for both!
 - A whole society getting together and arbitrarily using certain conventions? Definitely.
 - Language families, change over time, dialects and inheritance? Yep, that’s all there!
 
-Maybe there’s a more tangible split if we go the biological route, like Hockett’s design features of language that showed up before in a NativLang video asking if animal languages are really languages? Some of the best litmus tests on the list seem like they fit both - you remix old patterns to make new words (productivity), you can learn it (learnability), you combine small, meaningless pieces to make meaningful chunks of language (duality), you can talk about things that aren’t in your immediate surroundings (displacement).
+What about about biology? Well, NativLang made a video about the things we look for to figure out if animal language is really language: "Hockett’s design features". Rewatching that, I think the tests on that list fit computer languages, too.
 
-The question’s hard to crack from this angle. Is the main difference just that we learn natural languages naturally growing up communicating with humans?
+The question's hard to crack from the "natural" side. Let's flip it, and look at languages from the computer side.
 
-Maybe not.
+If you're a computerbot, something about human language sticks out like a sore thumb: ambiguity. When I type the address to my favorite website into the browser, I'd better see my favorite website as a result. Computers need to be ruthlessly consistent to make this happen: the same words always mean the same thing. Otherwise every time we powered on our computers we'd just have to hope for the best. I think I actually owned that computer once...
 
-Let’s go the other way and look at languages from the computer side.
+Natural languages, on the other hand, are ambiguous like crazy. "Stolen art found by tree". Nuff said.
 
-Something that sticks out immediately is ambiguity. Programming languages need to be consistent, so that typing the same line of code and running it gives me the same result every time. A big way of making this happen is to reduce or eliminate ambiguity - the ability for one language chunk to mean multiple things. Natural languages don’t have this problem - or, well, they DO - they’re ambiguous like crazy. “Time flies like an arrow” - that English sentence is the favorite example in linguistics. Nuff said.
+But being less ambiguous doesn’t make you less of a language - is this sentence somehow more English than this one? (Stolen art found NEAR tree)
 
-When we think of computers, that logicalness is pretty stereotypical, but so is this: computers get bossed around by their masters. And that’s true! Programming languages issue commands telling computers what to do and how to do it. They’re imperative. But that’s actually not always true - there’s also such a thing as declarative programming!
+Sorry linguists, I think computer scientists are on to something languagey when they talk about protocols. A protocol is a way for two things to pass information back and forth by altering something they can both pick up on - flipping switches to pass bits or, say, modulating sound waves to produce different phonemes to get info from one brain to another brain. Programming languages, on the other hand, are focused on that one thing that we programmers can repeat until we’re blue in the face - solving problems, solving problems, solving problems. They’re essentially making calculations, doing step-by-step beginning-to-end computations, those recipes that we call algorithms.
 
-But being less ambiguous doesn’t make you less of a language - is this sentence somehow more English than this one? And neither does being more imperativey (imperative… imperative!). I guarantee you there’s no shortage of ways to order someone around in Italian. C’mon. Mangia! Mangia!!
+There is a parallel here that’s become a refrain: “a protocol is to communications what a programming language is to computations.” Wow, that's a mouthful!
 
-No, I think there’s a key difference that computer scientists are noticing, not linguists,  when they talk about protocols. A protocol is a way for two things to pass information back and forth by altering something they can both pick up on - flipping switches to pass bits or, say, modulating sound waves to produce different phonemes to get info from one brain to another brain. Programming languages, on the other hand, are focused on that one thing that we programmers can repeat until we’re blue in the face - solving problems, solving problems, solving problems. They’re essentially making calculations, doing step-by-step beginning-to-end computations, those recipes that we call algorithms.
+Basically, from the computer science side, natural languages and programming languages look like two different things.
 
-There is a parallel here that’s so clear it’s become a refrain. A logical analogy, like a good coding refrain should be: “a protocol is to communications what a programming language is to computations.”
+Case closed: programming languages aren’t really languages. Right?
 
-Now, of course, that means they’re two different things. And since our “foreign languages” act like those protocols, that’s support from the computer science side for treating them as two separate subjects.
+Wrong. They aren’t NATURAL languages, but are natural languages the only way to be a language? If you're not a natural language, what kind of language would you be?
 
-There might be another more practical reason to split them apart. As the coding advocates over at code.org warn, programming languages have a much smaller set of words than natural languages for a reason - they’re built to solve problems. When we treat programming languages as foreign languages, we lose the essence of what it means to do computer science: breaking a problem down and engaging in the intellectual process of developing an algorithmic solution.
+There's a separate kind of language called a formal language. Math is a formal language. Logic is a formal language. You've got your math, you've got your logic - yeah, there are tons of these secret symbol languages. You know the ones, like when a language starts to look more like equations and you totally check out when the philosophy book you were trying to read suddenly throws scary math at you. I shut that book soooo fast, I am not ashamed to admit it! Well, I kinda am.
 
-Case closed: programming languages have traits of language but aren’t really languages, right?
+There’s not just mathiness here. There's actually something really linguistic about the minds of people who master formal languages. You know, people who don’t close philosophy books when the logic gets scary. And do you know what that is? Go on. Can you guess?
 
-Wrong. They aren’t natural languages, but natural language isn’t the only way to be a language. And these do indeed look like language and act like language, so they are languages. So what kind of languages would they be?
-
-It’s kinda mind-blowing, since our school days conditioned us to split “language and humanities” stuff apart from “math and science” stuff, but for a long time we’ve known about a separate kind of language called a formal language. Math is a formal language. Logic is a formal language. I don’t want to eat into other good video topics here, so I’ll stick to the main story, but, yeah, there are many, many such languages. You know, like when language starts to look more like equations and you totally check out when the philosophy book you were trying to read suddenly throws scary math at you. I shut that book soooo fast, I am not ashamed to admit it! Well, I kinda am.
-
-Scary or not, people developed formal languages to study the way we think, to be more consistent and abstract than natural language, and to - guess what? - solve problems! Like programming languages do.
-
-A lot of us really zoom in on the mathiness and thoughtsy problem solviness of languages like logic and programming languages, but there’s actually something really linguistic about the minds of people who master formal languages. You know, people who don’t close philosophy books when the logic gets scary. And do you know what it is? Can you guess?
-
-Janet Siegmund and team have done a bit of brain research on programmers working through code like this. And what type of brain patterns do you think lit up during the study? Just the ones that deal with math? The ones that deal with memory and language. Basically, being a fluent coder looks a lot like being a native speaker.
+Janet Siegmund and team have done a bit of brain research on programmers working through code like this. And what type of brain patterns do you think lit up during their study? Just the ones that deal with math? Errrht! The ones that deal with memory and language. Basically, being a fluent coder looks a lot like being a native speaker.
 
 (
 http://www.infosun.fim.uni-passau.de/cl/publications/docs/SKA+14.pdf
 http://www.infosun.fim.uni-passau.de/spl/janet/fMRI/Tasks.pdf
 )
 
-So while we have this popular image of all the geeky math involved in computer programming, the researchers felt their study vindicated Dijkstra, who said that “Besides a mathematical inclination, an exceptionally good mastery of one's native tongue is the most vital asset of a competent programmer.”
+We have this popular image of all the geeky math involved in computer programming, but the researchers here summoned Dijkstra, who said that “Besides a mathematical inclination, an exceptionally good mastery of one's native tongue is the most vital asset of a competent programmer.”
 
 One-two punch! Go out and demand foreign language credits for your programming smarts! I, personally, would be on board with that, but I don’t think we can draw that conclusion from the fact that programming languages are languages. Math and logic and computer programming are different domains now because they play very different roles in our academic lives and in our personal lives. Socially, we’ve found a role for each of these as matured non-linguistic subjects in their own right.
 
 Should learning to talk to machines count towards foreign language credits? I’m torn.
 
-Are programming languages are languages? Absolutely.
+Are programming languages real languages? Absolutely.
 
 But they’re a different kind of language than natural languages. Maybe while you spend a few videos hanging out with this programmer and I hang out with you linguistics fans, we can share and learn from each other more bits and bytes about language.
 
 I’m Jessica! Head over to my channel and subscribe for more about how code is part of your life everyday, and hang around on NativLang where we’re doing a short series of videos together about the awesome overlap between code and language!
 
+CHOMP!
 
 
 (? CUT
