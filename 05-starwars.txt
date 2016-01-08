@@ -1,5 +1,46 @@
 Programming Languages of Star Wars
 
+sfx: opening flutes contemplative doodeedooreerooree
+
+- opening space pic?
+- cartoon: skeyeser figure (1) take Huckbot aside and pop head open (2-3)
+> - machines are the major players
+(intro)
+- boxes: put four, then remove all but black-cloaked and farmer ;)
+- space pic: farmer parsecs out in the boonies
+- slicing clampsarm + circuitboard
+- ? space pic: all around the galaxy
+> - 1 text: hacking crossed out -> slicing vs
+- 2 protocol bot (huck) vs
+- 3 human/mecha (diderobot)
+- r2 speaks binary
+- moisture vaporator
+> - text: What is binary? 1/0. Off/on.
+> - This binary is Binary
+> - text: Galactic Basic
+> - text: Binary, CBell-1 (droid affirm/neg), omnisignal unicode, Gonk (trashcan), c-3p0
+- silhouette argue -> c3p0 -> droid-orange -> NASA terminal
+- inside-my-head pic: droids have what machines don't: sentient
+- lore book pic
+- silhouette argue huckbot (text: "No!" "whuttt!?"): droids don’t have to do what they’re programmed
+
+(phone + vid + FULL GRADIENT BG)
+	- 3p0 + shalker + shwoks: C3P0 impersonates deity
+>	- C3P0 + text “I’m programmed to understand them / I doubt if I ever shall”
+>	- Artoo blames 3p0 excessive amount of thinking
+
+- (repeat show pipeline human->droid->droid->terminal)
+> - judgmental robot (+ brain?)
+> - text: Paul Meehl
+- Meehl in a box
+> - Meehl research snapshot
+> - ? Meehl versus the clinical psychologists?
+- FX: everywhere tech! colorbalance asif lasers + sfx
+- cold and evil: sharth
+> - cold and evil: robot taskmaster
+- cold and evil: another space bg
+- ending after “huff”
+
 The Galaxy is full of computers, and seemingly any Tom, Jane or Greedo can take a droid aside, pop open its head panel and - bleep-bloop! - program it up. But what is all this tech? How do Star Wars programming languages work? And why do I have almost conspiracy-levels of suspicion that machines are THE major players in this grand space epic?
 
 In honor of the new films coming out, this week I’m taking a step aside from showing you how code is part of your world and talking about programming in that Galaxy long ago and far away.
