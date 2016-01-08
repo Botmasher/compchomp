@@ -4,7 +4,7 @@ sfx: opening flutes contemplative doodeedooreerooree
 
 - opening space pic?
 - cartoon: skeyeser figure (1) take Huckbot aside and pop head open (2-3)
-> - machines are the major players
+- machines are the major players: lore book + fade in nasabot over page
 (intro)
 - boxes: put four, then remove all but black-cloaked and farmer ;)
 - space pic: farmer parsecs out in the boonies
@@ -15,8 +15,8 @@ sfx: opening flutes contemplative doodeedooreerooree
 - 3 human/mecha (diderobot)
 - r2 speaks binary
 - moisture vaporator
-> - text: What is binary? 1/0. Off/on.
-> - This binary is Binary
+> - text + pics: binary What is binary? 1/0. Img: Off/on.
+> - text: b->B This binary is Binary
 > - text: Galactic Basic
 > - text: Binary, CBell-1 (droid affirm/neg), omnisignal unicode, Gonk (trashcan), c-3p0
 - silhouette argue -> c3p0 -> droid-orange -> NASA terminal
@@ -30,15 +30,17 @@ sfx: opening flutes contemplative doodeedooreerooree
 >	- Artoo blames 3p0 excessive amount of thinking
 
 - (repeat show pipeline human->droid->droid->terminal)
-> - judgmental robot (+ brain?)
+> - judgmental robot: append clampbot mesh + text + paperpic: research on judgbot
+- ? jugmental bots pic: brain
 > - text: Paul Meehl
 - Meehl in a box
-> - Meehl research snapshot
-> - ? Meehl versus the clinical psychologists?
+- ? Meehl pic Greek PSI (1)
+- Meehl research pic: paperprop + over text "Clinical Versus Mechanical Prediction: / A Meta-Analysis / Grove et al."
+- Meehlbox vs clin-psybox(es)
 - FX: everywhere tech! colorbalance asif lasers + sfx
 - cold and evil: sharth
-> - cold and evil: robot taskmaster
-- cold and evil: another space bg
+- cold and evil: (1) smiley green alien + shackles (2) + ?littlebots inside (3)
+- ? another space bg: late during cold and evil
 - ending after “huff”
 
 The Galaxy is full of computers, and seemingly any Tom, Jane or Greedo can take a droid aside, pop open its head panel and - bleep-bloop! - program it up. But what is all this tech? How do Star Wars programming languages work? And why do I have almost conspiracy-levels of suspicion that machines are THE major players in this grand space epic?
