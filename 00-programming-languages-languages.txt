@@ -1,14 +1,63 @@
 Are programming languages real languages?
 
-In school I had to take a foreign language. I chose Spanish. But now I'm totally jealous when I hear that some schools are giving foreign language credit for computer programming. I would have been all over that!
+Past me is really jealous right now. Do you know there are kids sitting in high schools ditching Spanish class to get credit for learning to program games for their iphones? No slogging through the four years of conjugating ser and estar like they put me through?
 
-But should programming languages - with all their curly braces and semicolons - count as foreign languages? Is mathy-looking code like this really a LANGUAGE language?
+But the moms, they're less excited. Why? Turns out they're sure that programming languages - with all the curly braces and weird semicolons - have nothing to do with speaking a foreign language. Are they right? Is mathy code like this really a LANGUAGE language?
 
 [intro]
 
 Welcome to CompChomp, the only place on the internets where we crack jokes in binary. So this 0 walks into a bar... heheh...
 
-I'm a programmer, but I’ve known Josh for years. Which means I get to participate in a lot of linguistics discussions. So when NativLang invited me to collaborate on a series about code for linguistics-lovers, the first question I wanted to tackle was: do programming languages count as real languages?
+Don't get the wrong idea. I actually really enjoyed high school Spanish. I learned a lot. Just don't ask me to order a meal when I'm out. I'll get all flustered and you'll probably end up with the cabeza de chivo.
+
+But eventually they let me out into the cold, cruel world. Walking through the mean streets of the adult workplace I met your baristaing, your marketing and... then... who should peep out of its cubicle but - computer programming! I was smitten.
+
+He let me build stuff and solve problems.
+Like one day I was watching this YouTube video explaining the Monty Hall problem. It was a real headtwister for me. No matter how many times I thought about it and read the explanation, it didn't seem like it worked. It all still seemed pretty random. So I wrote a program in Python that simulated the gameshow, if you stuck with your original dooror if you switch doors. I ran it a hundred thousand times. I tried a million, but my computer got bogged down. I swear to you, your likelihood of winning is way higher if you switch doors. I will be waiting on my Turing award.
+
+But now years later I'm a real programmer, and I get to look back on Spanish. And wonder. When I was learning Spanish, was I doing something fundamentally different? I was using vocabulary words, I was using syntax to put my words together, I was using a language that was related to other languages. It all sounds so languagey. But it also looks languagey. In your brain.
+
+Facts alert! So how could we tell if learning a programming language is like learning a natural language? Well, you could round up a bunch of programmers and shove 'em in an MRI. Maybe in an fMRI. That's the fancy one. I think. I'm not a doctor.
+
+And that is exactly what Janet Siegmund and team did. Kudos. Wait, I'm a programmer. And I hate enclosed spaces. Don't shove me in there!
+
+So when you're a programmer holed up in an MRI machine and they show you this, you start to read it.
+
+It says:
+Stick the label var1 on the number 23, and another label var2 on 42. Now pull out a label temp that you don't stick on anything. Now stick temp where var1 is, then take the label var1 off and put it on var2, but then take var2 and put it where temp is. What number did our label var1 end up on?
+
+Ooh, let's do one more:
+I'm a program!
+this is Otto, who wears the nametag "word"
+give me a switch to flip when I get the right answer, and give that switch the nametag "result"
+start one counter counting from 0, start another one counting from the end of the word, count first counter up from 0 until you get to the middle of the word, count second counter down from the end of the word until you get to the middle of the word.
+
+Each count, compare the countup letter and the countdown letter. If they are the same, keep going. If they are different, flip our result switch to false, stop counting and checking letters, and tell me whether result was flipped to true or to false.
+
+Figure out what this did? It checked if "otto" was a palindrome.
+
+And what type of brain patterns do you think lit up when coders where reading this code? Just the ones that deal with math? Errrht! The ones that deal with memory and language. Basically, being a fluent coder looks a lot like being a native speaker.
+
+(
+http://www.infosun.fim.uni-passau.de/cl/publications/docs/SKA+14.pdf
+http://www.infosun.fim.uni-passau.de/spl/janet/fMRI/Tasks.pdf
+)
+
+The first time coding popped out of that cubicle, it looked all geeky and mathy and wanted to play with numbers. "I'm a fun guy!" "You're not a mushroom!" And we went to get a soda.
+
+After a few too many sodas, I realized it had more going on. It's like Dijkstra says, yeah, you need to know some math, but, more importantly, you need to know how to speak your language fool! That may not be a direct quote.
+
+One-two punch! Go out and demand foreign language credits for your programming smarts! Well, if your goal is to teach someone to think in a new language, you can't go wrong with programming. (Except for BASIC. Stop teaching your kids basic. Details to come later. Traumatic details.) But if your goal is to have a whole cultural experience, to read Don Quijote and accidentally order cabeza de chivo, you can't really do that in C.
+
+Maybe while you spend a few videos hanging out with this programmer and I hang out with you linguistics fans, we can share and learn more about programming and language.
+
+I’m Jessica! Head over to my channel and subscribe for more about how code is part of your life everyday, and hang around on NativLang where we’re doing a short series of videos together about the awesome overlap between code and language!
+
+
+
+/
+
+I'm a programmer. But I've known Josh for years. Which means I get to participate in a lot of linguistics discussions. So when NativLang invited me to collaborate on a series about code for linguistics-lovers, the first question I wanted to tackle was: do programming languages count as real languages?
 
 If you think about language the way linguists do, a lot of it fits programming:
 - Words, programming languages have those.
