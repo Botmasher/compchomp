@@ -10,15 +10,15 @@ sfx: opening flutes contemplative doodeedooreerooree
 - space pic: farmer parsecs out in the boonies
 - slicing clampsarm + circuitboard
 - ? space pic: all around the galaxy
-> - 1 text: hacking crossed out -> slicing vs
+- 1 text: hacking crossed out -> slicing vs
 - 2 protocol bot (huck) vs
 - 3 human/mecha (diderobot)
 - r2 speaks binary
 - moisture vaporator
-> - text + pics: binary What is binary? 1/0. Img: Off/on.
-> - text: b->B This binary is Binary
-> - text: Galactic Basic
-> - text: Binary, CBell-1 (droid affirm/neg), omnisignal unicode, Gonk (trashcan), c-3p0
+- text + pics: binary What is binary? 1/0. Img: Off/on.
+- text: b->B This binary is Binary
+- text: Galactic Basic
+- text: Binary, CBell-1 (droid affirm/neg), omnisignal unicode, Gonk (trashcan), c-3p0
 - silhouette argue -> c3p0 -> droid-orange -> NASA terminal
 - inside-my-head pic: droids have what machines don't: sentient
 - lore book pic
@@ -26,13 +26,13 @@ sfx: opening flutes contemplative doodeedooreerooree
 
 (phone + vid + FULL GRADIENT BG)
 	- 3p0 + shalker + shwoks: C3P0 impersonates deity
->	- C3P0 + text “I’m programmed to understand them / I doubt if I ever shall”
->	- Artoo blames 3p0 excessive amount of thinking
+	- C3P0 + text “I’m programmed to understand them / I doubt if I ever shall”
+	- Artoo blames 3p0 excessive amount of thinking
 
 - (repeat show pipeline human->droid->droid->terminal)
-> - judgmental robot: append clampbot mesh + text + paperpic: research on judgbot
+- judgmental robot: append clampbot mesh + text + paperpic: research on judgbot
 - ? jugmental bots pic: brain
-> - text: Paul Meehl
+- text: Paul Meehl
 - Meehl in a box
 - ? Meehl pic Greek PSI (1)
 - Meehl research pic: paperprop + over text "Clinical Versus Mechanical Prediction: / A Meta-Analysis / Grove et al."
