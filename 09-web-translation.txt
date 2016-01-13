@@ -1,8 +1,14 @@
 How Computers Translate
 
-Type just a few words into your favorite online translator, and it will guess the language like magic. Sometimes it does it when I just type one word. Or even just a character. How does it do that?
+Hallo Welt! So, my genealogy-loving mom found herself a distant cousin out in Germany. Now mom doesn't speak a lick of German. And this distant relation, well, she can't English. Heheh. But they talk all the time.
 
-[ intro ]
+Mom writes her letters in English then runs them through a bunch of different translation apps to kind of come up with one most common translation. Then she runs that back from German into English to see if it stayed somewhat similar to what she had written. She sends that over, and gets the same in reverse. That's how they've stayed in touch for quite a few years now.
+
+But she had a question for me: how exactly did her computer become such a helpful multilingual translator?
+
+[intro]
+
+Welcome to CompChomp, the only show on the internets where pigs don't speak Latin, but obotsray uday.
 
 We’ve come a long way from those Cold War failures in the early days of machine translation that I talked about in my last video. Translation apps have become a mainstay in our lives. They let us translate stuff that’s in a language we’ve never even heard of before. They even let us hold up a smartphone and directly read the world around us!
 https://www.youtube.com/watch?v=0zKU7jDA2nc
@@ -40,8 +46,7 @@ Yeah, not all language pairs are made equal. In Spain, there are 12 million peop
 
 Or does it? English takes its turn sitting between Spanish and Russian in this sentence (No eres el amigo de los perros. No les gustas.), and it shows! It has no idea whether you should be familiar or formal. That’s not the fault of Spanish or Russian - both of them distinguish between a polite way and a familiar way of talking to you. The culprit is English. Barbarians. Where’s your sense of decorum?
 
-English is actually their interlingua of choice. So translating between Catalan and Russian ends up looking more like this: Catalan to Spanish, then Spanish to English, then English to Russian. What the craziness? Well, as long as the statistics is sound, right? WHO’S FLYING 
-THIS PLANE?
+English is actually their interlingua of choice. So translating between Catalan and Russian ends up looking more like this: Catalan to Spanish, then Spanish to English, then English to Russian. What the craziness? Well, as long as the statistics is sound, right? WHO’S FLYING THIS PLANE?
 
 And popular opinion is that web translation can get pretty crazy sometimes. It’s not hard to find automatic translations ending up the butt of gags and jokes - just search Google Translate Sings for starters. Eww, it’s all ungrammatical and stuff! Are these knee-jerk reactions justified? It’s not very fair to focus on all the things it’s doing wrong and say it’s broken. My mom was able to have a meaningful relationship with her cousin in Germany, all thanks to this technology. That’s what grammar perfectionists are missing here - the point of statistical translation in the first place - likelihood, probability. It just needs to work well enough for meaningful connections like this between people and ideas, and between people and people.
 
