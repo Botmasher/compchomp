@@ -1,0 +1,107 @@
+CompChomp Small Bytes Points
+
+1/20 AI BREEDING HUMANS
+(NL 1/22: Uppercase/Lowercase)
+
+1/27 STAR WARS PROGRAMMING LANGUAGES
+(NL 1/29: Latin Letter Modding)
+
+2/3 ANNOUNCEMENT
+(NL 2/5: Announcement)
+Hello World! Hello, you! I'm just getting warmed up talking programming... we're just a couple short videos in (a couple short vids on code, sex and Star Wars, you know what I means). I'm thrilled how many of you are already here thinking about this stuff with me.
+Keep it between us right now, but I'm proud to be the first to announce a collaboration with NativLang - you know, that language-loving channel. The numbers say you probably first met me over there. Well, NativLang and CompChomp got outside attention when we pitched the idea to make some videos about where our channels meet: linguistics (NativLang's topic of choice) and code (which is why I'm here)!
+We'll think about passwords, machine translation and the languaginess - or not - of programming languages. I also want to drop some lines about what I think it means to be a lady coder.
+Yeah, so the longer videos will come out over on NativLang - that's part of the deal - but I want to keep the conversation going here, give you some love and share things I ultimately/personally find most fascinating about each topic.
+Make sure you're double subscribed to get both sides of these languagey programming tales. Starting in two weeks.
+For next week, I have a small bytes for you about something that goes up and down and runs on code. CHOMP!
+
+2/10 Byte 1 - Elevator Algorithms
+(NL 2/12: 0)
+In college my dorm room was on the 26th floor. Yeah, I went to college in NYC. The view of the Brooklyn bridge was beautiful. The wait for the elevator in the morning...it was not beautiful...not beautiful at all. I'd press the button and wait...and wait...and wait. Because you know what I thought, elevators work like this - you push a button, it comes to you. But no. An elevator has a mind of it's own...an algorithm. That's right, they run on code.
+
+Welcome to CompChomp, the only show on the internets where pressing all 102 buttons in the Empire State building elevator is research, not a social faux paus.
+
+That elevator I was waiting for in New York probably used an algorithm that worked like this:
+	- http://science.howstuffworks.com/transport/engines-equipment/elevator7.htm
+
+But that's not good enough for the mega tower Burj Khaliffa in Dubai.
+	- http://www.npr.org/templates/story/story.php?storyId=122457774
+
+SUBSCRIBE TO MY CHANNEL NOW CLOWN!
+
+
+2/17 Computers Speak A Strange Language
+(NL 2/19: Are Programming Languages Really Languages?)
+Hello World! So one day I'm getting my philosophy on, trying to understand some deep thoughts about justice and the universe, when I turn the page and the book stops speaking English. (Will it English? No, no it won't.) Out of nowhere it was all weird mathy symbols, backwards E, A to the x to the scary arrows therefore justice! So I did what any reasonable human would. Panic, close that book and hide the evidence. (When language starts looking like math, I am outta there so fast.) But you know what? Now I'm a coder, and that terrifying moment was way more relevant to my career than I ever could have imagined. Freaking logic.
+
+Welcome to CompChomp, the only show on the internets where for all x where x is a world, I say hello to x.
+
+Are programming languages actually languages? I recently worked with NativLang to answer that question.
+
+That surprise logic hiding in my philosophy book wasn't frustrating because I'm afraid of math and science and logic. (I'm a guurrrl and I hate math and science. No! I love those guys!) It was because I didn't expect them to be there. I lived in a world where you have language and history and speech and writing and big ideas on one side. And on the other side across a huge chasm - (I think I used to say "tchasm", don't laugh at me) - was math and numbers and data. And they didn't mix! But the walls came down.
+
+If I weren't blinded by the trauma, I could've appreciated my first taste of what's known as a formal language. (It's when math and language have a hideous love child. That may not be the exact definition.)
+
+I don't want to get all into formal languages. That book still haunts me. But I will say one thing. About this man. (Look... at that... HAIR!!) So Leibnitz - mathematician, polymath and wig-wearer extraordinaire - this guy got appointed as courtier to the royal Duchy of the House of Brunswick (I think I got that right - I'm not European. But I do feel quite regal.) And even though they grumbled, he spent his time coming up with the first formal language. (Bet that makes you feel bad about your side projects!) He was sure that all of our ideas were made of small pieces that we build up into complex statements. That's almost computery - so close, just missing the machine, bigwig.
+
+Thanks to his logic, we can connect any two ideas with an operator. I mean we can say cookies and ice cream, or dogs and cats, or x and y, and that AND always works the same way - if we have both of them, it's true. If we don't, it's false. You lied to me. I mean if I turn up and you promised puppies and kittens and there are only puppies, you got some splaining to do. You should have said OR. Which is another operator. Like connecting X OR Y. Only one has to be there for it to be true. But, getting all logicky on you here. What if both of them are there? What if there are puppies and kittens and you told me there would be puppies OR kittens? Well, it's still TRUE! That's how OR works. It's only false when both of them aren't there. I just laid some logic on you.
+
+And you know what else works exactly like that? Seriously, these are all the same in code. Yep, just like logic, programming languages are formal languages.
+
+So natural language isn't the only way to be a language. If I'd kept that book open, I would have learned that lesson a bit sooner. But whatever. I'll see you next week. And remember. Comment OR subscribe! Ahahaha... hah. CHOMP!
+
+
+2/24 Thoughts on Passwords
+(NL 2/26: Why Passwords Stopped Being Words)
+Passwords aren't real words anymore. Because real words are hackable. Don't believe me? Well here's how a really dedicated hacker will guess your password using nothing but brute force.
+
+Welcome to CompChomp, the only show on the internets where welcome to CompChomp, the only show on the internets where... whew, sorry, I got stuck in a loop there!
+
+Brute forcing is a thing, a refined coding skill that takes years to master, my friends. It goes like this. Ahem. Try everything! Try everything!!
+I'm a brute. And I want to guess your password. How?
+I'm going to guess a string and submit it. But right now there's nothing in that string! What can I fill it with to match your password? Your alphabet is a good place to start.
+
+So I go through the letters in your alphabet - that's "looping", a good word for it. (You know sometimes those tech terms aren't very clear, but this one's a good one.)
+
+I'm using a for loop: for every letter, I'll guess that letter. So from a to z, I guess 'a' and then 'b' and then 'c'... I think you see what's going on here.
+
+But that for loop full of guesses just gives me 26 one-letter hacks. I want more letters. So for every letter, I pair it with every other letter. Wow. 'aa', 'ab'. Yeah, that's all possible two letter words. Another for loop, and that's all possible three letter words. And all three letter nonsenses too, because it's guessing every combination - actually, every permutation - (I'm a nerd I say things like, uhm, technically combinations are not the same as permutations).
+
+Keep shoving for loops one inside of the other - oh, what, I'm a real programmer so I can't call 'em shoved loops? - fine, they're nested loops. They give us all possible guesses for as many letters in a word as there are nested loops in this mess. (Look, loops keep going in and in like a triangle. It's a code triangle!!=D)
+
+They also give us a real headache. Because I'm guessing, 26 times. And 26 times 26 times. And 26 times 26 times 26 times... yeah, it's a lot of calculations. That means a lot of time. And time costs us - but I'm not ready to drag you into Big-O notation just yet. BIG-OOOO - that's how us coders tell what programs cost.
+
+That's all it takes. If your password is "dragon" or "monkey" or - ahem - "password", you're done. But if you watched my video over on NativLang, you know passwords aren't real words anymore, cuz people are predictable (you people - not me - can't catch me!), so hackers don't even need to do this slow nested-for-loops brute force stuff. (Hey! Don't call me slow! I brute force all my problems!) But we coders do use for loops all the time. ALLL the time. Life lesson. CHOMP!
+
+- first password post-dates computers, because not securing info
+	- actually not securing major stuff
+- as computers got used for more important things, people wanted to secure them
+	- makes sense in our security obsessed world, but, not everyone agreed
+- enter Stallman: background, then passwords: nothing / password
+	- Stallman was working as a hacker in the MIT AI computer lab
+	- When it was run by the hackers, they had a 'tourist' policy - people from outside MIT could log on to the MIT computers to access DARPAnet
+	- A new sheriff came to town...well, a new computer system that crashed a lot
+	- Rather than fixing the buggy, unreliable hardware, the people in charge revoked the 'tourist' policy and required everyone to have a password
+		-Stallman set his to the empty string so people could continue logging on with his credentials "rms"
+		- He also decrypted everyone's passwords and messaged them with their password and a suggestion to change it to the empty string (about 20% complied)
+	- 'The man'responded by requiring that the users' password be something other than an empty string
+		- Stallman set his password to match his login. 'rms' 'rms'
+	- When they changed the requirements again so that people would be forced to have passwords that were different than their logins, Stallman refused to use the system any longer as it went against his beliefs in open access
+	(only certain people should have access to certain information - other people think that shouldn't be the case)
+
+
+3/2 Thoughts on MT
+(NL 3/4: How Computers Failed At Russian: History of Machine Translation)
+- the difference between what Russians were doing and what Americans were doing
+- originally planned to go on and talk about all the little details of
+We tracked the machine translation boom in the US, where two camps fight over "perfectionist" rule-based translation and statistical "brute force" translation. But we didn't talk about what the Russians were doing. And we really should, because once machines started translating again after that chilly AI winter, this ended up being one of the pieces of the puzzle behind that translation app everyone uses now... you know the one...
+Welcome to CompChomp, the only show on the internets where .
+- sum up story
+Meanwhile, the Russians were making things even more complicated. Stalinist Russia had been standing in the shadow of a technology ban, but with Stalin’s death in 1953 and news of the successful IBM demo in 1954, Russians got in on the translation game. Americans were using a “direct translation” approach: take a source language, and figure out how to put its words into a target language. The Russians didn’t want to be like the lazy Americans - translating between two languages - no! THREE languages at once! Leningrad University’s Andreev built up a middle language sitting between the source and target pair that had most of the features common to many languages. This interlingua was a real made-up language - (Oxymoron?) - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
+
+3/9 Thoughts on Disappearing Female Developer
+(NL 3/11: The Disappearing Female Developer)
+- more on mentorship?
+
+3/16 Byte 2 - ???
+(NL 3/18: 0)

@@ -11,3 +11,5 @@
 6. Nerdy ("nervy") song about programming.  Tons of programming terms, concepts, etc.  Could make a really fun/simple/catchy song.
 
 7. My attempt to sim the Monty Hall problem. Watched YT video, didn’t quite believe it, had to code it for myself. Story and pseudocode.
+
+8. Ambiguity! Logic, “stolen painting found by tree” ;) and why computers need consistency (but high-level languages fight over whether or not to have overloaded operators like +)
