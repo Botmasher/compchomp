@@ -8,47 +8,52 @@ CompChomp Small Bytes Points
 
 2/3 ANNOUNCEMENT
 (NL 2/5: Announcement)
-Hello World! Hello, you! I'm just getting warmed up talking programming... we're just a couple short videos in (a couple short vids on code, sex and Star Wars, you know what I means). I'm thrilled how many of you are already here thinking about this stuff with me.
-Keep it between us right now, but I'm proud to be the first to announce a collaboration with NativLang - you know, that language-loving channel. The numbers say you probably first met me over there. Well, NativLang and CompChomp got outside attention when we pitched the idea to make some videos about where our channels meet: linguistics (NativLang's topic of choice) and code (which is why I'm here)!
-We'll think about passwords, machine translation and the languaginess - or not - of programming languages. I also want to drop some lines about what I think it means to be a lady coder.
-Yeah, so the longer videos will come out over on NativLang - that's part of the deal - but I want to keep the conversation going here, give you some love and share things I ultimately/personally find most fascinating about each topic.
+Hello World! Hello, you! I know we're just a couple short videos into talking code (code, sex and Star Wars, you know what I means).
+
+Keep it between us right now, but I'm proud to be the first to announce a collaboration with NativLang - you know, that language-loving channel. Well, NativLang and CompChomp got outside attention when we pitched our idea of making a few videos about where our channels meet: linguistics (NativLang's topic of choice) and code (which is obviously MY most favorite)!
+
+We'll talk passwords, machine translation and the languaginess of programming languages (like are they... languages...?). I also want to drop some lines about lady coders.
+
+Yeah, so the longer videos will come out over on NativLang - that's part of the deal - but we're going to keep the conversation going here, give you some love and share things I personally find most fascinating about each topic.
+
 Make sure you're double subscribed to get both sides of these languagey programming tales. Starting in two weeks.
-For next week, I have a small bytes for you about something that goes up and down and runs on code. CHOMP!
+For next week, I have a small bytes for you about something that goes up and down and runs on code. (Waggle eyes.) CHOMP!
+
 
 2/10 Byte 1 - Elevator Algorithms
 (NL 2/12: 0)
-In college my dorm room was on the 26th floor. Yeah, I went to college in NYC. The view of the Brooklyn bridge was beautiful. The wait for the elevator in the morning...it was not beautiful...not beautiful at all. I'd press the button and wait...and wait...and wait. Because you know what I thought, elevators work like this - you push a button, it comes to you. But no. An elevator has a mind of it's own...an algorithm. That's right, they run on code.
+In college I lived on the 26th floor. My view of the Brooklyn bridge was beautiful. The wait for the elevator in the morning...not so much. I thought that elevator was my friend. I push a button, it gets me to calss on time. But no. This elevator had a mind of its own... an algorithm. That's right, elevators run on code.
 
-Welcome to CompChomp, the only show on the internets where pressing all 102 buttons in the Empire State building elevator is research, not a social faux paus.
+Welcome to CompChomp, the only show on the internets where pressing all 102 buttons in the Empire State building elevator is research, not a social faux pas.
 
-That elevator I was waiting for in New York probably used an algorithm that worked like this:
-	- http://science.howstuffworks.com/transport/engines-equipment/elevator7.htm
+That elevator I was waiting for in New York probably works like most grunt elevators do. It knows two things: where it is and where it's going. It gets its current location from sensors. It uses buttons to know where it's heading. Lots of buttons. The buttons on every floor and the buttons inside each elevator all hook into one computer brain. The elevator algorithm tells it to go in one direction until it can't anymore, and only then can it switch. So, guess what? I'm on the 26th floor and pressing down. And I swear it's usually on the 25th floor and already heading down, all the way down. And I have to wait for it to come full circle.
+(http://science.howstuffworks.com/transport/engines-equipment/elevator7.htm)
 
-But that's not good enough for the mega tower Burj Khaliffa in Dubai.
-	- http://www.npr.org/templates/story/story.php?storyId=122457774
+But let's say you're an eccentric bazillionaire who dreams of building a building WAY taller than anything in New York? You need some real elevator brains to pull that off. Which is why our simple algorithm wasn't good enough for mega tower Burj Khalifa in Dubai. Those use a destination dispatch strategy. Now I should say we didn't dig up too many specifics - like a lot of code, these are proprietary inventions. (Secret sauce.) But you go to a keypad and tell the elevator what floor you're going to. Then the computer thinks about all the elevators it's got and all the calls it's got meaning where everyone is and where everyone's going. And it determines which elevator can get you there in the shortest amount of time. It gives you an elevator assignment. When you get in that elevator, there might not even be a single button. You just - zip - bbffft! - floor! 
 
-SUBSCRIBE TO MY CHANNEL NOW CLOWN!
+This thing is making decisions as a whole interconnected system. It's not just every elevator for itself in here! Also, you're not getting grouped with passengers going to totally different parts of the building. That really stands out to me - you're not grouped by your PICKUP location but by your DESTINATION. (Put me in a box, ey? Floor 127, whut whuuut!?!)
+(http://www.npr.org/templates/story/story.php?storyId=122457774)
+
+So this is the future, less of your life spent waiting for that elevator. Thanks to smalgorithms like these and all the other fun code you're subscribed for! You are subscribed, right? Anyway, I guess you'll have less chances to give your elevator pitch to the suits upstairs. (Heh, I got in so much trouble once for calling some executives suits. Not in a elevator though.) CHOMP!
 
 
 2/17 Computers Speak A Strange Language
 (NL 2/19: Are Programming Languages Really Languages?)
-Hello World! So one day I'm getting my philosophy on, trying to understand some deep thoughts about justice and the universe, when I turn the page and the book stops speaking English. (Will it English? No, no it won't.) Out of nowhere it was all weird mathy symbols, backwards E, A to the x to the scary arrows therefore justice! So I did what any reasonable human would. Panic, close that book and hide the evidence. (When language starts looking like math, I am outta there so fast.) But you know what? Now I'm a coder, and that terrifying moment was way more relevant to my career than I ever could have imagined. Freaking logic.
+Hello World! So one day I'm getting my philosophy on, trying to understand some deep thoughts about justice and the universe, when I turn the page and the book stops speaking English. (Will it English? No, no it won't.) Out of nowhere it was all weird mathy symbols, backwards E, A to the x to the scary arrows therefore Justice! So I did what any reasonable human would. Panic, close that book and hide the evidence. (When language starts looking like math, I am outta there so fast.) But you know what? Now I'm a coder, and that terrifying moment was way more relevant to my career than I ever could have imagined. Freaking logic.
 
 Welcome to CompChomp, the only show on the internets where for all x where x is a world, I say hello to x.
 
-Are programming languages actually languages? I recently worked with NativLang to answer that question.
-
-That surprise logic hiding in my philosophy book wasn't frustrating because I'm afraid of math and science and logic. (I'm a guurrrl and I hate math and science. No! I love those guys!) It was because I didn't expect them to be there. I lived in a world where you have language and history and speech and writing and big ideas on one side. And on the other side across a huge chasm - (I think I used to say "tchasm", don't laugh at me) - was math and numbers and data. And they didn't mix! But the walls came down.
+That surprise logic hiding in my philosophy book wasn't frustrating because I'm afraid of math and science and logic. (I'm a guurrrl and I hate math! No.) It was because I didn't expect them to be there. I lived in a world where you have language and history and big ideas on one side. And on the other side across a huge chasm - (I think I used to say "tchasm", don't laugh at me) - was numbers and data. And the two didn't mix! But then the walls came down.
 
 If I weren't blinded by the trauma, I could've appreciated my first taste of what's known as a formal language. (It's when math and language have a hideous love child. That may not be the exact definition.)
 
-I don't want to get all into formal languages. That book still haunts me. But I will say one thing. About this man. (Look... at that... HAIR!!) So Leibnitz - mathematician, polymath and wig-wearer extraordinaire - this guy got appointed as courtier to the royal Duchy of the House of Brunswick (I think I got that right - I'm not European. But I do feel quite regal.) And even though they grumbled, he spent his time coming up with the first formal language. (Bet that makes you feel bad about your side projects!) He was sure that all of our ideas were made of small pieces that we build up into complex statements. That's almost computery - so close, just missing the machine, bigwig.
+I don't want to get all into formal languages. That book still haunts me. But I will say one thing. About this man. (Look... at that... HAIR!!) So Leibnitz - mathematician, polymath and wig-wearer extraordinaire - this guy got appointed as courtier to the royal Duchy of the House of Brunswick (I think I got that right - I'm not European. But I do feel quite regal.) And though his fancy employers grumbled, he spent his time coming up with logic. (Bet that makes you feel bad about your side projects!) He discovered that all of our ideas were made of small pieces that we build up into complex statements. That's almost computery - so close, just missing the machine, bigwig.
 
-Thanks to his logic, we can connect any two ideas with an operator. I mean we can say cookies and ice cream, or dogs and cats, or x and y, and that AND always works the same way - if we have both of them, it's true. If we don't, it's false. You lied to me. I mean if I turn up and you promised puppies and kittens and there are only puppies, you got some splaining to do. You should have said OR. Which is another operator. Like connecting X OR Y. Only one has to be there for it to be true. But, getting all logicky on you here. What if both of them are there? What if there are puppies and kittens and you told me there would be puppies OR kittens? Well, it's still TRUE! That's how OR works. It's only false when both of them aren't there. I just laid some logic on you.
+Thanks to his logic, we can connect any two ideas with an operator to make one of his complex statements. I mean we can say cookies and ice cream, or dogs and cats, or x and y, and that AND always works the same way - if we have both of them, it's true. If we don't, it's false. (You lied to me! I mean if I turn up and you promised puppies and kittens and there are only puppies, you got some splaining to do.) You should have said OR. Which is another operator. Like connecting X OR Y. Only one has to be there for it to be true. But, getting all logicky on you here. What if both of them are there? What if there are puppies and kittens and you told me there would be puppies OR kittens? Well, it's still TRUE! That's how OR works. It's only false when both of them aren't there. I just laid some logic on you.
 
 And you know what else works exactly like that? Seriously, these are all the same in code. Yep, just like logic, programming languages are formal languages.
 
-So natural language isn't the only way to be a language. If I'd kept that book open, I would have learned that lesson a bit sooner. But whatever. I'll see you next week. And remember. Comment OR subscribe! Ahahaha... hah. CHOMP!
+So as we saw in my collaboration over on NativLang - (are programming languages real languages?) - natural languages aren't the only way to be a language. If I'd kept that book open, I would have learned that lesson a bit sooner. But whatever. I'll see you next week. And remember. Comment OR subscribe! Ahahaha... hah. CHOMP!
 
 
 2/24 Thoughts on Passwords
@@ -61,9 +66,9 @@ Brute forcing is a thing, a refined coding skill that takes years to master, my 
 I'm a brute. And I want to guess your password. How?
 I'm going to guess a string and submit it. But right now there's nothing in that string! What can I fill it with to match your password? Your alphabet is a good place to start.
 
-So I go through the letters in your alphabet - that's "looping", a good word for it. (You know sometimes those tech terms aren't very clear, but this one's a good one.)
+So I go through the letters in your alphabet - I mean "looping" through your alphabet. Hah, such a good word for it. (You know sometimes those tech terms aren't very clear, but I like this one.)
 
-I'm using a for loop: for every letter, I'll guess that letter. So from a to z, I guess 'a' and then 'b' and then 'c'... I think you see what's going on here.
+I'll use a for loop: for every letter, I'll guess that letter. So from a to z, I guess 'a' and then 'b' and then 'c'... I think you see what's going on here.
 
 But that for loop full of guesses just gives me 26 one-letter hacks. I want more letters. So for every letter, I pair it with every other letter. Wow. 'aa', 'ab'. Yeah, that's all possible two letter words. Another for loop, and that's all possible three letter words. And all three letter nonsenses too, because it's guessing every combination - actually, every permutation - (I'm a nerd I say things like, uhm, technically combinations are not the same as permutations).
 
@@ -72,6 +77,7 @@ Keep shoving for loops one inside of the other - oh, what, I'm a real programmer
 They also give us a real headache. Because I'm guessing, 26 times. And 26 times 26 times. And 26 times 26 times 26 times... yeah, it's a lot of calculations. That means a lot of time. And time costs us - but I'm not ready to drag you into Big-O notation just yet. BIG-OOOO - that's how us coders tell what programs cost.
 
 That's all it takes. If your password is "dragon" or "monkey" or - ahem - "password", you're done. But if you watched my video over on NativLang, you know passwords aren't real words anymore, cuz people are predictable (you people - not me - can't catch me!), so hackers don't even need to do this slow nested-for-loops brute force stuff. (Hey! Don't call me slow! I brute force all my problems!) But we coders do use for loops all the time. ALLL the time. Life lesson. CHOMP!
+
 
 - first password post-dates computers, because not securing info
 	- actually not securing major stuff
