@@ -58,30 +58,30 @@ So as we saw in my collaboration over on NativLang - (are programming languages 
 
 2/24 Thoughts on Passwords
 (NL 2/26: Why Passwords Stopped Being Words)
-Passwords aren't real words anymore. Because real words are hackable. Don't believe me? Well here's how a really dedicated hacker will guess your password using nothing but brute force.
+Stop using real words for your password. Because real words are hackable. Don't believe me? Well here's how a really dedicated hacker will guess your password using nothing but brute force.
 
 Welcome to CompChomp, the only show on the internets where welcome to CompChomp, the only show on the internets where... whew, sorry, I got stuck in a loop there!
 
-Brute forcing is a thing, a refined coding skill that takes years to master, my friends. It goes like this. Ahem. Try everything! Try everything!!
-I'm a brute. And I want to guess your password. How?
-I'm going to guess a string and submit it. But right now there's nothing in that string! What can I fill it with to match your password? Your alphabet is a good place to start.
+Brute force isn't the punchline to a bad joke. It's a way to solve problems. My favorite way. Try everything! Try everything!!
 
-So I go through the letters in your alphabet - I mean "looping" through your alphabet. Hah, such a good word for it. (You know sometimes those tech terms aren't very clear, but I like this one.)
+I'm a brute. And I want to guess your password. So I go through the letters in your alphabet - I mean "loop" through your alphabet. Hah, such a clever term for it. (You know code jargon gets confusing, but I like loopies.)
 
-I'll use a for loop: for every letter, I'll guess that letter. So from a to z, I guess 'a' and then 'b' and then 'c'... I think you see what's going on here.
+I'll pull out the brute forcer's tool of choice: a for loop. For every letter, I'll guess that letter. So from a to z, I guess 'a' and then 'b' and then 'c'... I think you see what's going on here.
 
-But that for loop full of guesses just gives me 26 one-letter hacks. I want more letters. So for every letter, I pair it with every other letter. Wow. 'aa', 'ab'. Yeah, that's all possible two letter words. Another for loop, and that's all possible three letter words. And all three letter nonsenses too, because it's guessing every combination - actually, every permutation - (I'm a nerd I say things like, uhm, technically combinations are not the same as permutations).
+But that for loop left me with 26 one-letter hacks. I want more letters! So for every letter, I pair it with every other letter. Wow. 'aa', 'ab'. Yeah, that's all possible two letter words. Another for loop, and that's all possible three letter words. And all three letter nonsenses too, because it's guessing every combination - actually, every permutation - (I'm a nerd I say things like, uhm, technically combinations are not the same as permutations).
 
-Keep shoving for loops one inside of the other - oh, what, I'm a real programmer so I can't call 'em shoved loops? - fine, they're nested loops. They give us all possible guesses for as many letters in a word as there are nested loops in this mess. (Look, loops keep going in and in like a triangle. It's a code triangle!!=D)
+Keep shoving for loops one inside of the other. (I mean, ahem, nesting them.) That's all possible guesses for as long of a word as there are nested loops in this mess. (Look, loops keep going in and in like a triangle. It's a code triangle!!=D)
 
-They also give us a real headache. Because I'm guessing, 26 times. And 26 times 26 times. And 26 times 26 times 26 times... yeah, it's a lot of calculations. That means a lot of time. And time costs us - but I'm not ready to drag you into Big-O notation just yet. BIG-OOOO - that's how us coders tell what programs cost.
+What a headache though. I'm guessing, 26 times. And 26 times 26 times. And 26 times 26 times 26 times... yeah, it's a lot of calculations. That means a lot of time. And time costs us - but that's Big-O, it's for another time. (BIG-OOOO.)
 
-That's all it takes. If your password is "dragon" or "monkey" or - ahem - "password", you're done. But if you watched my video over on NativLang, you know passwords aren't real words anymore, cuz people are predictable (you people - not me - can't catch me!), so hackers don't even need to do this slow nested-for-loops brute force stuff. (Hey! Don't call me slow! I brute force all my problems!) But we coders do use for loops all the time. ALLL the time. Life lesson. CHOMP!
+That's all it takes. If your password is "dragon" or "monkey" or - ahem - "password", you're done. But in my collab with NativLang, we see why, thanks to human language, hackers don't even need this slow brute-force stuff. (Hey! Don't call me slow! I brute force all my problems!) But we coders do love ourselves some for loops. Life lesson. CHOMP!
 
 
-- first password post-dates computers, because not securing info
+3/2 Stallman passwords
+The first password post-dates computers, because they were not securing info
 	- actually not securing major stuff
 - as computers got used for more important things, people wanted to secure them
+	- first comp with security: 
 	- makes sense in our security obsessed world, but, not everyone agreed
 - enter Stallman: background, then passwords: nothing / password
 	- Stallman was working as a hacker in the MIT AI computer lab
@@ -96,16 +96,26 @@ That's all it takes. If your password is "dragon" or "monkey" or - ahem - "passw
 	(only certain people should have access to certain information - other people think that shouldn't be the case)
 
 
-3/2 Thoughts on MT
+3/9 Thoughts on MT
 (NL 3/4: How Computers Failed At Russian: History of Machine Translation)
-- the difference between what Russians were doing and what Americans were doing
-- originally planned to go on and talk about all the little details of
-We tracked the machine translation boom in the US, where two camps fight over "perfectionist" rule-based translation and statistical "brute force" translation. But we didn't talk about what the Russians were doing. And we really should, because once machines started translating again after that chilly AI winter, this ended up being one of the pieces of the puzzle behind that translation app everyone uses now... you know the one...
-Welcome to CompChomp, the only show on the internets where .
-- sum up story
-Meanwhile, the Russians were making things even more complicated. Stalinist Russia had been standing in the shadow of a technology ban, but with Stalin’s death in 1953 and news of the successful IBM demo in 1954, Russians got in on the translation game. Americans were using a “direct translation” approach: take a source language, and figure out how to put its words into a target language. The Russians didn’t want to be like the lazy Americans - translating between two languages - no! THREE languages at once! Leningrad University’s Andreev built up a middle language sitting between the source and target pair that had most of the features common to many languages. This interlingua was a real made-up language - (Oxymoron?) - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
+In the Cold War, computers were trying - and failing - to translate Russian and English. I explored the American side of that frustrating early history of machine translation, but what were the Russians doing? And how is it similar to that translation app everyone uses now... you know the one...
 
-3/9 Thoughts on Disappearing Female Developer
+Welcome to CompChomp, the only show on the internets where we like our sugars natural and our languages artificial.
+
+In my collaboration with NativLang, we met the major players in the early computer translation boom in the US: the Perfectionists who were like "rules! teach computers how language works!" And then the Brute Forcers who said "no! data! let computers figure it out on their own!"
+
+Meanwhile, the Russians were making things even more complicated. Stalinist Russia had been standing in the shadow of a technology ban. (Teach good theory! Use good tech!) But with Stalin’s death in 1953 and news of that successful tech demo in 1954, Russians got in on the translation game.
+
+Americans were mainly using a “direct translation” approach: take a source language and figure out how to rewrite its words in a target language. Lazy Americans. This was way too simple for Russia - translating between two languages - hah! no! Why not THREE at once!?
+
+Leningrad University’s Andreev built up a middle language that sits between the source and target pair. This in-between language, "interlingua" in Latin, had features common to many languages, allowing it to represent information that might be lost in specific languages. The interlingua was a real made-up language - (oxymoron?) - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
+
+Fast forward to today. Computer translation has improved so much, but one strategy seems hazily familiar. Every time you use your favorite web translator, no matter which language pair you pick, it uses an intermediate language, too. It's a bit different, because it's not an artificial one used for abstract grammar but a real one used for convenience: a "pivot language". And that pivot language is - guess what? - it's English.
+
+Anyhow, in telling the tale of the birth of early machine translation to its death in that cold AI Winter, I felt the Russian side of things needed some attention. C'mon, you can't talk Cold Wars and winters and not mention what's going down in Russia.
+
+
+3/? Thoughts on Disappearing Female Developer
 (NL 3/11: The Disappearing Female Developer)
 - more on mentorship?
 
