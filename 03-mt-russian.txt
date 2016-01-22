@@ -24,7 +24,13 @@ So, yeah, they might have been cheating. (I only cheated a little bit!) But, it 
 
 “the system may greatly increase communication, particularly in technical subjects, by making translation quick, accurate and easy” [Plumb, NYT] ]
 
-Money started rolling in and people began taking sides (Round one - fight!) In this corner, you had your linguistically-minded “Perfectionists”, feeding computers all the detailed grammatical rules about each language. And in this corner - your brute force crowd. Brute Forcers were all about the evidence, setting computers loose on real sentences and training them to find patterns on their own.
+For now. Because when we return to wrap up this story, things will get ugly: nerds fighting over how computers should be translating. The public mocking the flawed grammar. And the very existence of machine translation will hang in the balance. Chomp!
+
+
+--------
+Last time, Cold War computers showed some real promise at translating Russian into English. Georgetown University staged a successful tech demo, the press was impressed, and times were good for machine translation.
+
+So the money started rolling in and people began taking sides (Round one - fight!) In this corner, you had your linguistically-minded “Perfectionists”, feeding computers all the detailed grammatical rules about each language. And in this corner - your brute force crowd. Brute Forcers were all about the evidence, setting computers loose on real sentences and training them to find patterns on their own.
 
 Unfortunately, progress wasn't living up to the bold claims made after Georgetown. And the public started to notice. In 1962, Harper's ran an article titled “The Trouble with Translation”. With a title like that, it’s got to be fair and objective. The author recalled a demonstration of machine translation where the computer was given the scriptural nugget, "the spirit is willing but the flesh is weak". The output, we're told, was laughable: "The liquor is holding out all right, but the meat has spoiled."
 
