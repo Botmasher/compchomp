@@ -1,54 +1,50 @@
 HOW COMPUTERS FAILED AT TRANSLATING RUSSIAN
 
-Ah...the 80's. Well known for great fashion sense and bad guys with cheesy Russian accents. If you were a kid during the Cold War days, you'd have memories of hiding under your tiny school desk to protect yourself from atomic bombs. (Why can't we all just get along?) Maybe it's the coder in me, but I can't help wondering if the Cold War would've been a bit warmer if computers could help us understand each other. Actually, we tried that.
-
-It's the 1940's. The US and the USSR are in a standoff. It's intense! Nerdy researchers are predicting that in just a few short years, these new things called "computers" will be able to translate on their own! Everyone was sure that with just a bit more work, in would go Russian and out would pop English. But that's not what happened. Things got ugly.
+Ah...the 80's. Well known for great fashion sense, bad guys with cheesy Russian accents and fears of nuclear annihilation. Maybe it's the coder in me, but I've always wondered if the Cold War would've been a bit warmer if computers could have helped us understand each other. Turns out, we tried just that.
 
 [intro]
 
-Welcome to CompChomp, the only show on the internets where computers are a form of stress relief.
+Welcome to CompChomp, the only show on the internets where speaking to computers is less stressful than speaking to each other.
 
-Let me take you back in time. To 1948, when computers were a thing. A new thing. A big, room-sized thing that you had to feed paper with little holes punched into it. These binary-loving behemoths were so successful that folks started to wonder if there was any problem they couldn't solve.
+Let me take you back in time...to lovely 1948.  Computers were a thing. A new thing. A big, room-sized thing that you had to feed paper with little holes punched into it. These binary-loving behemoths were so successful that folks started to wonder if there was any problem they couldn't solve.
 
-One of those folks that definitely couldn't ignore their power was Mr Warren Weaver. (Fear the powers!) He kept bugging all of his colleagues - you know what machines should do? They should translate Russian. And they were like, "dude, stop nagging us. Write it down." So he sat down and wrote the first memo on computer translation. It really got the ball rolling. By 1950, UCLA and Georgetown got on board. In 1951 MIT gave Yehoshua Bar Hillel the position of full-time professional Machine Translation man, the first in the business. 
+One of those folks that definitely couldn't ignore their power was Mr Warren Weaver. (Fear the powers!) He kept bugging all of his colleagues - "you know what machines should do? They should translate Russian." And they were like, "dude, stop nagging us. Write it down." So he sat down and wrote the first memo on computer translation. It really got the ball rolling.
 
-Things really took off in 1954 when IBM and Georgetown staged the “first public demo” of Machine Translation. 49 whole Russian sentences. The crowd went wild! MT was the next big thing.
+First, UCLA and Georgetown got on board. Then, in 1951 MIT gave Yehoshua Bar Hillel the position of full-time professional Machine Translation man, the first in the business.  Then, in 1954, IBM and Georgetown staged the “first public demo” of Machine Translation. 49 whole Russian sentences. The crowd went wild! MT was the next big thing.
 
-How did they do it? Take a Russian sentence and break it into dictionary chunks (words and word pieces like roots and suffixes). Then apply one of just six rules to your chunks. For example, here’s the first rule. (Wait, we’re programmers. We count from zero!) This is the ZEROTH rule! A word was associated with a code (110), and that code told the machine to go look for the last full word. When it found that last word, it checked that word for another code (21). If the word came up 21s, the machine placed it after the first word. Sounds like a whole bunch of steps, but the result is simple: basically switching the two words around.
+How did they do it? Start with a Russian sentence and break it into dictionary chunks (words and word pieces like roots and suffixes). Then apply one of just six rules to your chunks. For example, here’s the first rule. (Wait, we’re programmers. We count from zero!) This is the ZEROTH rule! A word was associated with a code (110), and that code told the machine to go look for the last full word. When it found that last word, it checked that word for another code (21). If the word came up 21s, the machine placed it after the first word. Sounds like a whole bunch of steps, but the result is simple: take two words and switch them around.
 
-With only a fistful of rules like this, the machine translated sentences like “Magnitude of angle is determined by the relation of length of arc to radius” and “The price of potatoes is determined by the demand”. Wow, machine, really? Potatoes!? Culturally sensitive much? Well, Journalists were impressed, and the public was stunned. In a world that had never seen this kind of computer smarts before, this was some magic.
+With only a fistful of rules like this, the machine translated amazing sentences like “Magnitude of angle is determined by the relation of length of arc to radius” and “The price of potatoes is determined by the demand”. Wow, machine, really? Potatoes!? Culturally sensitive much? Well, Journalists were impressed, and the public was stunned. In a world that had never seen this kind of computer smarts before, this was magic.
 
-Peering behind the curtains made things feel a bit less magical. The sentences were carefully selected. Everything was transliterated from Cyrillic into the Latin alphabet. Grammatically, sentences included third-person verbs and avoided negations or questions. Sometimes things we’d think of as grammar or syntax were stored as part of dictionary entries. That last one’s pretty cheap. Think about it: this machine associates each Russian word with up to two English equivalents. And here’s a word that translates to “relation”. But look at the second English choice - it’s “the relation”. Instead of training a computer to understand English articles, they just stored the word “the” as part of another dictionary choice.
+But, peering behind the curtains made things feel less magical. The sentences were carefully selected. Everything was transliterated from Cyrillic into the Latin alphabet. Grammatically, sentences included third-person verbs and avoided negations or questions. Sometimes things we’d think of as grammar or syntax were stored as part of dictionary entries. That last one’s pretty cheap. Think about it: this machine associates each Russian word with up to two English equivalents. Here’s a word that translates to “relation”. But look at the second English choice - it’s “the relation”. Instead of training a computer to understand English articles, they just stored the word “the” as part of another dictionary choice.
 
-So, yeah, they might have been cheating. (I only cheated a little bit!) Doesn't matter - if you were a translating machine, times were good.
+So, yeah, they might have been cheating. (I only cheated a little bit!) But, it didn't matter - people were super excited! If you were a translating machine, times were good.
 
 [ “within a few years there will be a number of “brains” translating all languages with equal aplomb and dispatch” [Kenny, CSM]
 
 “the system may greatly increase communication, particularly in technical subjects, by making translation quick, accurate and easy” [Plumb, NYT] ]
 
-So the money came in and the work went on, and people took sides. (Round one - fight!) You had your linguistically-minded “Perfectionists”, feeding computers all the detailed grammatical rules about each language. In the other corner - your brute force crowd. Brute Forcers were all about the evidence, setting computers loose on real sentences and training them to find patterns on their own.
+Money started rolling in and people began taking sides (Round one - fight!) In this corner, you had your linguistically-minded “Perfectionists”, feeding computers all the detailed grammatical rules about each language. And in this corner - your brute force crowd. Brute Forcers were all about the evidence, setting computers loose on real sentences and training them to find patterns on their own.
 
-At the end of the day, or end of the decade, progress wasn't living up to the bold claims made after Georgetown. And the public started to notice. In 1962, Harper's ran an article titled “The Trouble with Translation”. With a title like that, it’s got to be fair and objective. The author recalled a demonstration of the technology where the machine was fed the scriptural nugget, "the spirit is willing but the flesh is weak". The output, we're told, was laughable: "The liquor is holding out all right, but the meat has spoiled."
+Unfortunately, progress wasn't living up to the bold claims made after Georgetown. And the public started to notice. In 1962, Harper's ran an article titled “The Trouble with Translation”. With a title like that, it’s got to be fair and objective. The author recalled a demonstration of machine translation where the computer was given the scriptural nugget, "the spirit is willing but the flesh is weak". The output, we're told, was laughable: "The liquor is holding out all right, but the meat has spoiled."
 
 http://www.hutchinsweb.me.uk/MTNI-11-1995.pdf
 
-Let's pause here. This didn’t actually happen. But it shows us how far Machine Translation had fallen: from the summit of our predictions to the butt of our jokes. 
+I need to pause for a moment. The demo reported there didn’t actually happen. But it really illustrates how far Machine Translation had fallen.  A few years earlier those same reporters were heaping praise on it...now, it was the butt of their jokes.
 
-Remember Bar Hillel? Our first full-time machine translation man? He stepped in for damage control. Our expectations were unreasonable expectations. Natural language can be ambiguous. Computers can't handle that! We need to step back get machines to help us translate, not speak exactly like we do.
-
-It was also becoming clear that translating languages was a lot more complex than even the experts could have guessed. It was literally turning out to be harder than rocket science.
+Scientists stepped in for damage control. Remember Bar Hillel? Our first full-time machine translation man? He argued that our expecatations were reasonable. Natural language could be ambiguous. (Computers can't handle that!) We should step back - get machines to help us translate, not expect them to speak exactly like we do. Translating languages was more complex than even the experts could have guessed. It was literally turning out to be harder than rocket science.
 
 [ “the formulation of logic required to convert word meanings properly even in a small segment of two languages necessitates two and a half times as many instructions to the computer as are required to simulate the flight of a guided missile.” [1954] ]
 
-Opinion had soured. But the knockout blow was yet to come.
+In the face of souring public opinion, the US government comissioned the ALPAC (A llama?!?!? No...not a llama.) An elite group of 7 experts tasked with deciding the usefulness or the uselessness of MT and computational linguistics as a whole. 
 
-It’s 1964. The US government commissions the ALPAC, not a llama, but a group of 7 experts, to decide on the usefulness or the uselessness of MT and computational linguistics as a whole. The verdict? Oh, we’ll get to that. But there’s something you need to understand.
+Their verdict? Oh, we’ll get to that. But first - there's something you need to understand.
 
-At various times in the history of Artificial Intelligence, people got sold on promises beyond their wildest dreams. It happens so often that there’s a term for it: AI Hype cycle. When things go wrong, a chill sets in, a chill with lasting effects. An AI Winter. No amount of jackets can protect you from that chill.
+Throughout the history of Artificial Intelligence, people got sold on promises beyond their wildest dreams. It happens so often that there’s a term for it: AI Hype cycle. When things go wrong, a chill sets in, a chill with lasting effects. An AI Winter. (Brrrr....No amount of jackets can protect you from that chill)
 
-So, the verdict. The 1966 ALPAC report concluded that “we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation”. Computers were twice as expensive as human translators and performing so much worse. Officials were convinced. Machine translation was defunded. The first AI winter set in.
+So, the verdict. The 1966 ALPAC report concluded that “we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation”. Computers were twice as expensive as human translators and performing so much worse. Officials were convinced. Machine translation was defunded and the first AI winter set in.
 
-Computers and language had a rough start. But it will get better. Someday. Subscribe, go eat your borsht and write some code. Chomp!
+Computers and language had a rough start. But I promise it gets better....eventually. Subscribe, go eat your borsht and write some code. Chomp!
 
 
 
