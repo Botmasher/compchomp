@@ -4,13 +4,13 @@ Ah...the 80's. Well known for great fashion sense, bad guys with cheesy Russian 
 
 [intro]
 
-Welcome to CompChomp, the only show on the internets where speaking to computers is less stressful than speaking to each other.
+Welcome to CompChomp, the only show on the internets where speaking to computers is less stressful than speaking to other humans.
 
-Let me take you back in time...to lovely 1948.  Computers were a thing. A new thing. A big, room-sized thing that you had to feed paper with little holes punched into it. These binary-loving behemoths were so successful that folks started to wonder if there was any problem they couldn't solve.
+Let me take you back in time...to lovely 1948.  Computers were a thing. A new thing. A big, room-sized thing that you had to with paper full of tiny little holes. These binary-loving behemoths were so successful that folks started to wonder if there was any problem they couldn't solve.
 
 One of those folks that definitely couldn't ignore their power was Mr Warren Weaver. (Fear the powers!) He kept bugging all of his colleagues - "you know what machines should do? They should translate Russian." And they were like, "dude, stop nagging us. Write it down." So he sat down and wrote the first memo on computer translation. It really got the ball rolling.
 
-First, UCLA and Georgetown got on board. Then, in 1951 MIT gave Yehoshua Bar Hillel the position of full-time professional Machine Translation man, the first in the business.  Then, in 1954, IBM and Georgetown staged the “first public demo” of Machine Translation. 49 whole Russian sentences. The crowd went wild! MT was the next big thing.
+First, UCLA and Georgetown got on board. MIT followed in 1951 when they gave Yehoshua Bar Hillel the position of full-time professional Machine Translation man, the first in the business.  Then, in 1954, IBM and Georgetown staged the “first public demo” of Machine Translation. 49 whole Russian sentences. The crowd went wild! MT was the next big thing.
 
 How did they do it? Start with a Russian sentence and break it into dictionary chunks (words and word pieces like roots and suffixes). Then apply one of just six rules to your chunks. For example, here’s the first rule. (Wait, we’re programmers. We count from zero!) This is the ZEROTH rule! A word was associated with a code (110), and that code told the machine to go look for the last full word. When it found that last word, it checked that word for another code (21). If the word came up 21s, the machine placed it after the first word. Sounds like a whole bunch of steps, but the result is simple: take two words and switch them around.
 
