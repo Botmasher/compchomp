@@ -76,13 +76,12 @@ What a headache though. I'm guessing, 26 times. And 26 times 26 times. And 26 ti
 
 That's all it takes. If your password is "dragon" or "monkey" or - ahem - "password", you're done. But in my collab with NativLang, we see why, thanks to human language, hackers don't even need this slow brute-force stuff. (Hey! Don't call me slow! I brute force all my problems!) But we coders do love ourselves some for loops. Life lesson. CHOMP!
 
-
 3/2 Stallman And Passwords
-Nobody likes passwords. And that's nothing new. In 19XX one particularly eccentric MIT man pulled out all the stops to kill this password business before it ever got off the ground. That's right, let's roll the clock back to the days when there were computers... but no passwords!
+Nobody likes passwords. And that's nothing new. In 1977 one particularly eccentric MIT man pulled out all the stops to kill this password business before it ever got off the ground. That's right, let's roll the clock back to the days when there were computers... but no passwords!
 
 (intro)
 
-Welcome to CompChomp, the only show on the internets where even if you don't believe in FOSS, FOSS believes in you.
+Welcome to CompChomp, the only show on the internets where even if you don't believe in Open Source, Open Source believes in you.
 
 Once upon a floppy disk ;), if you were smart enough to punch in commands, you had access to all the info on a computer. But then came MIT's time-sharing system, CTSS. So advanced. So secure. You would type in the keyword PASSWORD, and then it knew to turn off printing to the screen while it let you type in your secrets.
 
@@ -103,7 +102,7 @@ That was the core of it for him - this wasn't just about passwords. Stallman had
 
 3/9 Thoughts on MT
 (NL 3/4: How Computers Failed At Russian: History of Machine Translation)
-In the Cold War, computers were trying - and failing - to translate Russian and English. I explored the American side of that frustrating early history of machine translation, but what were the Russians doing?
+In the Cold War, computers were trying - and failing - to translate between Russian and English. I explored the American side of that frustrating early history of machine translation, but what were the Russians doing?
 
 Welcome to CompChomp, the only show on the internets where we like our sugars natural and our languages artificial.
 
@@ -113,9 +112,9 @@ Meanwhile, the Russians were making things even more complicated. Stalinist Russ
 
 Americans were mainly using a “direct translation” approach: take a source language and figure out how to rewrite its words in a target language. Lazy Americans. This was way too simple for Russia - translating between two languages - hah! no! Why not THREE at once!?
 
-Leningrad University’s Andreev built up a middle language that sits between the source and target pair. This in-between language, "interlingua" in Latin, had features common to many languages, allowing it to represent information that might be lost in specific languages. The interlingua was a real made-up language - (oxymoron?) - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
+Leningrad University’s Andreev built up a middle language that sits between the source and target pair. This in-between language, "interlingua" in Latin, had features common to many languages. The interlingua was a real made-up language - (oxymoron?) - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
 
-Hah, I'm giving Russia a hard time here. But using a third language wasn't such a bad idea. Whichever language pair you choose in your favorite web translator, it's using an intermediate "pivot language" - English.
+Hah, I'm giving Russia a hard time here. But using a third language wasn't such a bad idea. When you pick a language pair to translate between in your favorite web translator, it's using an intermediate "pivot language" - English.
 
 Anyhow, in telling the tale of the birth of early machine translation to its death in that cold AI Winter, I felt the Russian side of things needed some attention. C'mon, you can't talk Cold Wars and winters and not mention what's going down in Russia. CHOMP!
 
