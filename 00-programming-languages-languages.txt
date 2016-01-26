@@ -1,14 +1,14 @@
 Are programming languages real languages?
 
-Past me is really jealous right now. Do you know that some 10th graders like Sara are ditching Spanish class and getting credit for learning to program games for her phone? No slogging through years of conjugating ser and estar like they put me through?!?
+Past me is really jealous right now. Do you know that 10th graders like Sallie are ditching Spanish class and getting credit for learning to program games for her phone? No slogging through years of conjugating ser and estar like they put me through?!?
 
-But Sara's mom, she's less excited. Why? She's sure that programming languages - with all the curly braces and weird semicolons - are nothing like a foreign language. Is she right? Is mathy code like this really a LANGUAGE language?
+But Sallie's mom, she's less excited. Why? She says programming languages - with all the curly braces and weird semicolons - are nothing like a foreign language. Is she right? Is mathy code like this really a LANGUAGE language?
 
 [intro]
 
 Welcome to CompChomp, the only place on the internets where we crack jokes in binary. So this 0 walks into a bar... heheh...
 
-Don't get the wrong idea. I actually really enjoyed high school Spanish. Just don't ask me to order a meal when I'm out. I'll get all flustered and you'll probably end up with the cabeza de chivo.
+Don't get me wrong, I actually really enjoyed high school Spanish. Just don't ask me to order a meal when I'm out. I'll get all flustered and you'll probably end up with the cabeza de chivo.
 
 But now I'm a real programmer, and I get to look back and wonder: when I was learning Spanish, was I doing something fundamentally different? In my code, I use words, I use syntax to put my words together, I even use related languages and dialects. It all sounds so languagey. But does it look languagey?
 
@@ -27,9 +27,9 @@ I'm a program, too! This is Otto, who wears the nametag "word". Give me a switch
 
 Each count, compare the countup letter and the countdown letter. If they are the same, keep going. If they are different, flip our result switch to false, stop counting and checking letters, and tell me whether result was flipped to true or to false.
 
-Figure out what this did? We just checked if "otto" was a palindrome.
+Figure out what this did? We just checked if "otto" is a palindrome.
 
-So... what type of brain patterns do you think lit up when coders read code like this? Just the ones that deal with math? Errrht! The ones that deal with memory and language. Basically, being a fluent coder looks a lot like being a native speaker.
+So... what type of brain patterns do you think lit up when coders read code like this? Just the ones that deal with math? Errht! The ones that deal with memory and language. Basically, being a fluent coder looks a lot like being a native speaker.
 
 One-two punch! Go out and demand foreign language credits for your programming smarts! Well, if your goal is to teach someone to think in a new language, you can't go wrong with programming. (Except for BASIC. Stop teaching your kids basic. Details to come later. Traumatic details.) But if your goal is to have a whole cultural experience, to read Don Quijote and accidentally order cabeza de chivo, you can't really do that in C.
 
