@@ -1,12 +1,28 @@
 Are programming languages real languages?
 
+X - toon: Sallie
+X - pic: Spanish class
+X - pic: phone-game knocks out Spanish
+X - toon: Sallie's mom unhappy about this
+X - text: braces and semicolons
+X - (intro) + NL-logo
+X - Jessica intro tag
+X - toon: dinner -> cabeza de chivo
+X - toon: programmer -> in MRI
+X - paper+text: Janet Siegmund and team
+X - phone + paper+text + highlighter: two programming problems
+X - pic: brain
+X - text: math equation on brain
+X - text: lang /IPA/ on brain
+X - (endcard)
+
 Past me is really jealous right now. Do you know that 10th graders like Sallie are ditching Spanish class and getting credit for learning to program games for her phone? No slogging through years of conjugating ser and estar like they put me through?!?
 
 But Sallie's mom, she's less excited. Why? She says programming languages - with all the curly braces and weird semicolons - are nothing like a foreign language. Is she right? Is mathy code like this really a LANGUAGE language?
 
 [intro]
 
-Welcome to CompChomp, the only place on the internets where we crack jokes in binary. So this 0 walks into a bar... heheh...
+Welcome to CompChomp, the only show on the internets where we crack jokes in binary. So this 0 walks into a bar... heheh...
 
 Don't get me wrong, I actually really enjoyed high school Spanish. Just don't ask me to order a meal when I'm out. I'll get all flustered and you'll probably end up with the cabeza de chivo.
 
@@ -34,3 +50,13 @@ So... what type of brain patterns do you think lit up when coders read code like
 One-two punch! Go out and demand foreign language credits for your programming smarts! Well, if your goal is to teach someone to think in a new language, you can't go wrong with programming. (Except for BASIC. Stop teaching your kids basic. Details to come later. Traumatic details.) But if your goal is to have a whole cultural experience, to read Don Quijote and accidentally order cabeza de chivo, you can't really do that in C.
 
 Ok, I hope you'll spend a few more videos with this programmer talking language. I’m Jessica from CompChomp! Subscribe for more about how code is part of your life everyday, and hang around on NativLang where we’re doing a short series of videos together about the awesome overlap between code and language. Chomp!
+
+
+
+
+
+
+
+
+
+

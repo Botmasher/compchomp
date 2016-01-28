@@ -4,9 +4,9 @@ Ah...the 80's. Well known for great fashion sense, bad guys with cheesy Russian 
 
 [intro]
 
-Welcome to CompChomp, the only show on the internets where speaking to computers is less stressful than speaking to other humans.
+Welcome to CompChomp, the only show on the internets where there's something colder than a Russian winter.
 
-Let me take you back in time...to lovely 1948.  Computers were a thing. A new thing. A big, room-sized thing that you had to with paper full of tiny little holes. These binary-loving behemoths were so successful that folks started to wonder if there was any problem they couldn't solve.
+Let me take you back in time...to lovely 1948.  Computers were a thing. A new thing. A big, room-sized thing that you had to feed with paper full of tiny little holes. These binary-loving behemoths were so successful that folks started to wonder if there was any problem they couldn't solve.
 
 One of those folks that definitely couldn't ignore their power was Mr Warren Weaver. (Fear the powers!) He kept bugging all of his colleagues - "you know what machines should do? They should translate Russian." And they were like, "dude, stop nagging us. Write it down." So he sat down and wrote the first memo on computer translation. It really got the ball rolling.
 
@@ -20,10 +20,6 @@ But, peering behind the curtains made things feel less magical. The sentences we
 
 So, yeah, they might have been cheating. (I only cheated a little bit!) But, it didn't matter - people were super excited! If you were a translating machine, times were good.
 
-[ “within a few years there will be a number of “brains” translating all languages with equal aplomb and dispatch” [Kenny, CSM]
-
-“the system may greatly increase communication, particularly in technical subjects, by making translation quick, accurate and easy” [Plumb, NYT] ]
-
 For now. Because when we return to wrap up this story, things will get ugly: nerds fighting over how computers should be translating. The public making a mockery of flawed grammar. The very existence of machine translation will hang in the balance. Chomp!
 
 
@@ -34,13 +30,9 @@ So the money started rolling in and people began taking sides (Round one - fight
 
 Unfortunately, progress wasn't living up to the bold claims made after Georgetown. And the public started to notice. In 1962, Harper's ran an article titled “The Trouble with Translation”. With a title like that, it’s got to be fair and objective. The author recalled a demonstration of machine translation where the computer was given the scriptural nugget, "the spirit is willing but the flesh is weak". The output, we're told, was laughable: "The liquor is holding out all right, but the meat has spoiled."
 
-http://www.hutchinsweb.me.uk/MTNI-11-1995.pdf
-
 I need to pause for a moment. The demo reported there didn’t actually happen. But it really illustrates how far Machine Translation had fallen.  A few years earlier those same reporters were heaping praise on it...now, it was the butt of their jokes.
 
-Scientists stepped in for damage control. Remember Bar Hillel? Our first full-time machine translation man? He argued that our expecatations were reasonable. Natural language could be ambiguous. (Computers can't handle that!) We should step back - get machines to help us translate, not expect them to speak exactly like we do. Translating languages was more complex than even the experts could have guessed. It was literally turning out to be harder than rocket science.
-
-[ “the formulation of logic required to convert word meanings properly even in a small segment of two languages necessitates two and a half times as many instructions to the computer as are required to simulate the flight of a guided missile.” [1954] ]
+Scientists stepped in for damage control. Remember Bar Hillel? Our first full-time machine translation man? He argued that our expecatations were unreasonable. Natural language could be ambiguous. (Computers can't handle that!) We should step back - get machines to help us translate, not expect them to speak exactly like we do. Translating languages was more complex than even the experts could have guessed. It was literally turning out to be harder than rocket science.
 
 In the face of souring public opinion, the US government comissioned the ALPAC (A llama?!?!? No...not a llama.) An elite group of 7 experts tasked with deciding the usefulness or the uselessness of MT and computational linguistics as a whole. 
 
@@ -50,7 +42,18 @@ Throughout the history of Artificial Intelligence, people got sold on promises b
 
 So, the verdict. The 1966 ALPAC report concluded that “we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation”. Computers were twice as expensive as human translators and performing so much worse. Officials were convinced. Machine translation was defunded and the first AI winter set in.
 
-Computers and language had a rough start. But I promise it gets better....eventually. Subscribe, go eat your borsht and write some code. Chomp!
+Computers and language had a rough start. But I promise it gets better....eventually. Subscribe, go eat your borsht and write some code.
+Chomp!
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -60,3 +63,12 @@ extra thoughts:
 We tracked the machine translation boom in the US, where two camps fight over "perfectionist" rule-based translation and statistical "brute force" translation.
 
 Meanwhile, the Russians were making things even more complicated. Stalinist Russia had been standing in the shadow of a technology ban, but with Stalin’s death in 1953 and news of the successful IBM demo in 1954, Russians got in on the translation game. Americans were using a “direct translation” approach: take a source language, and figure out how to put its words into a target language. The Russians didn’t want to be like the lazy Americans - translating between two languages - no! THREE languages at once! Leningrad University’s Andreev built up a middle language sitting between the source and target pair that had most of the features common to many languages. This interlingua was a real made-up language - (Oxymoron?) - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
+
+
+
+
+
+
+
+
+
