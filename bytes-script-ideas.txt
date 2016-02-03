@@ -6,10 +6,8 @@
 
 4. George Washington N+1 problem...make it language agnostic though.  Talk about why N+1 is so dangerous in programming.  How to keep an eye out for it.  How to solve it.
 
-5. Elevator algorithms, talk about Burj Kalifa tower smart elevators.  What does a dumb elevator do?  Just looks for the next highest/lowest floor in the direction it's going.  Smart elevators optimize so everyone's getting to their destination faster.
+5. Nerdy ("nervy") song about programming.  Tons of programming terms, concepts, etc.  Could make a really fun/simple/catchy song.
 
-6. Nerdy ("nervy") song about programming.  Tons of programming terms, concepts, etc.  Could make a really fun/simple/catchy song.
+6. My attempt to sim the Monty Hall problem. Watched YT video, didn’t quite believe it, had to code it for myself. Story and pseudocode.
 
-7. My attempt to sim the Monty Hall problem. Watched YT video, didn’t quite believe it, had to code it for myself. Story and pseudocode.
-
-8. Ambiguity! Logic, “stolen painting found by tree” ;) and why computers need consistency (but high-level languages fight over whether or not to have overloaded operators like +)
+7. Ambiguity! Logic, “stolen painting found by tree” ;) and why computers need consistency (but high-level languages fight over whether or not to have overloaded operators like +)
