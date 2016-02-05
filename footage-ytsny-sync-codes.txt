@@ -1,0 +1,39 @@
+// FOOTAGE AND AUDIO YT SPACE NY
+// 01/26/2016
+//
+// Each topic has A cam, B cam, Zoom audio
+// 
+// At the end, a separate intro was recorded for each topic.
+// These are the A cam, B cam and Zoom audio with higher numbers.
+
+1. Langs Langs
+AA0001-AA0007
+BB0001-BB0005
+ZOOM0001-ZOOM0006
+AA0027
+BB0022
+ZOOM0022
+
+2. MT Russian
+AA0008-AA0015
+BB0006-BB0010
+ZOOM0007-ZOOM0012
+AA0026
+BB0021
+ZOOM0021
+
+3. Passwords
+AA0016-AA020
+BB0011-BB0015
+ZOOM0013-ZOOM0015
+AA0025
+BB0020
+ZOOM0020
+
+4. Female Dev
+AA0021-AA0023
+BB0016-BB0018
+ZOOM0016-ZOOM0018		*ZOOM0016 is where the lav went bad
+AA0024
+BB0019
+ZOOM0019
