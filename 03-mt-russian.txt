@@ -1,5 +1,104 @@
 HOW COMPUTERS FAILED AT TRANSLATING RUSSIAN
 
+-- ASSETS PART 0 --
+- Ah, the 80's
+art: fashion sense
+art: cheesy Russian bad guy
+pic: nuclear annihilation
+art: cold war tank
+art: cold war tank guy pops out
+art: cold war tank goes winterblue -> summer yellow/orange
+art: cold war tank warms (circuit sun up, guy looks at with smirk)
+
+- Go back in time
+anim: timeline 1980->1948
+anim: computers a thing (circuitbot), a new thing (circuitbot bingkst)
+anim: a big room-sized thing (mainframebot pops under knocks)
+anim: pic paper punchcard
+
+- Mr Warren Weaver
+art: weaverbot - blink, talk, raise brows
+art: weaverbot coworkers, eyeroll
+art: Russian symbol
+text: first memo Translation
+
+- Early days
+art: college symbol UCLA colors
+art: college symbol Georgetown colors
+art: college symbol MIT colors
+art: Bar Hillel
+text: full time machine translation man (trademark)
+text: 1954
+art: biz symbol + Georgetown college symbol + MT demo machine on stage
+art: crowd goes wild
+text: 49 whole Russian sentences
+
+- How demo worked
+art: phone
+text: Russian sentence, break into chunks (roots and suffixes)
+text: rule 1 rule 2...rule 6
+anim: zoom rule 1, cross out -> rule 0
+text: word suffix word word
+anim: 110 pops out of last word -> 21 one before -> place 21 after 
+text: “Magnitude of angle is determined by the relation of length of arc to radius”
+text: “The price of potatoes is determined by the demand”
+? art: stereotyped Russian drinking vodka
+? art: stereotyped Russian eating potato and holding sack of potatos
+
+art: journalist impressed / newspaper
+art: skeyser whoa for stunned public?
+
+art: tech demo computer sparkles
+text: carefully selected sentences
+text: Cyrillic into the Latin alphabet
+text: only third person verbs
+text: no negations or questions
+text: relation/the relation example
+
+art: that demo comp is partying, times are good
+
+
+-- ASSETS PART 1 --
+
+art: reshow Cold War computers (Russian symbol mainframe)
+art: reshow tech demo
+art: reshow crowd went wild
+
+pic: money starts rolling in
+art: people take sides (left vs right toons)
+text: perfectionists (+ one side toon highlighted, other dark)
+text: brute force (+ other toon highlighted, one side dark)
+
+text: bold claims made after Georgetown
+pic: public raises eyebrow
+text: The Trouble With Translation
+art: spirit, flesh
+art: liquor, meat
+
+art: reshow reporters heaping praise / newspaper
+art: turn bad (headline now frownface)
+
+art: reshow Bar Hillel + first...
+? text: Bar Hillel tells us natural language ambiguous
+? art: stolen painting found by tree
+text: harder than rocket science quote + symbol nearby
+
+pic: US government commissions
+text: ALPAC
+pic: llama
+art: elite group 7 experts
+
+art: reshow demo one last time as promises beyond wildest dreams
+text: AI Hype Cycle (+ simple graph)
+pic: snowflakes / winter chill
+text: AI Winter
+
+text: "we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation"
+
+art: officials point accusing MT
+
+
+
 Ah...the 80's. Well known for great fashion sense, bad guys with cheesy Russian accents and fears of nuclear annihilation. Maybe it's the coder in me, but I've always wondered if the Cold War would've been a bit warmer if computers could have helped us understand each other. Turns out, we tried just that.
 
 [intro]
@@ -44,31 +143,3 @@ So, the verdict. The 1966 ALPAC report concluded that “we do not have useful m
 
 Computers and language had a rough start. But I promise it gets better....eventually. Subscribe, go eat your borsht and write some code.
 Chomp!
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-extra thoughts:
-
-We tracked the machine translation boom in the US, where two camps fight over "perfectionist" rule-based translation and statistical "brute force" translation.
-
-Meanwhile, the Russians were making things even more complicated. Stalinist Russia had been standing in the shadow of a technology ban, but with Stalin’s death in 1953 and news of the successful IBM demo in 1954, Russians got in on the translation game. Americans were using a “direct translation” approach: take a source language, and figure out how to put its words into a target language. The Russians didn’t want to be like the lazy Americans - translating between two languages - no! THREE languages at once! Leningrad University’s Andreev built up a middle language sitting between the source and target pair that had most of the features common to many languages. This interlingua was a real made-up language - (Oxymoron?) - I mean it was really, really made up, like with its own sentence structure and its own word grammar.
-
-
-
-
-
-
-
-
-
