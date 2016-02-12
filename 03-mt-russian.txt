@@ -1,40 +1,51 @@
+reconfirm
+with phone number
+13104883720#
+3104883720#
+I wasn't able to find any bookings
+$416
+
+
+
 HOW COMPUTERS FAILED AT TRANSLATING RUSSIAN
 
 -- ASSETS PART 0 --
-- Ah, the 80's
-art: fashion sense
-art: cheesy Russian bad guy
-pic: nuclear annihilation
-art: cold war tank
-art: cold war tank guy pops out
-art: cold war tank goes winterblue -> summer yellow/orange
-art: cold war tank warms (circuit sun up, guy looks at with smirk)
+X 	art: 80's fashion sense
+X 	art: cheesy Russian bad guy
+X 	pic: nuclear symbol
+X 	pic: cold war tank
+X 	art: cold war tank guy pops out
+X 	art: cold war tank guy blink
+X 	art: cold war tank guy eyes wide smirky
+X	art: cold war tank guy winter snow
+X 	art: cold war tank winter snow
+X 	art: sunshine
 
 - Go back in time
 anim: timeline 1980->1948
 anim: computers a thing (circuitbot), a new thing (circuitbot bingkst)
 anim: a big room-sized thing (mainframebot pops under knocks)
-anim: pic paper punchcard
+X	pic: paper punchcard
 
 - Mr Warren Weaver
-art: weaverbot - blink, talk, raise brows
-art: weaverbot coworkers, eyeroll
-art: Russian symbol
+X 	art: weaver - basic, blink, talk, raise brows
+X 	art: coworkers - basic, urging him
+X 	art: soviet/Russian symbol
 text: first memo Translation
 
 - Early days
 art: college symbol UCLA colors
 art: college symbol Georgetown colors
 art: college symbol MIT colors
-art: Bar Hillel
+X 	art: Bar Hillel
 text: full time machine translation man (trademark)
 text: 1954
 art: biz symbol + Georgetown college symbol + MT demo machine on stage
-art: crowd goes wild
+X 	art: crowd goes wild
 text: 49 whole Russian sentences
 
 - How demo worked
-art: phone
+X	art: phone
 text: Russian sentence, break into chunks (roots and suffixes)
 text: rule 1 rule 2...rule 6
 anim: zoom rule 1, cross out -> rule 0
@@ -45,8 +56,8 @@ text: “The price of potatoes is determined by the demand”
 ? art: stereotyped Russian drinking vodka
 ? art: stereotyped Russian eating potato and holding sack of potatos
 
-art: journalist impressed / newspaper
-art: skeyser whoa for stunned public?
+X 	art: impressed - newspaper
+X 	art: skeyser whoa for stunned public?
 
 art: tech demo computer sparkles
 text: carefully selected sentences
