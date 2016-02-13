@@ -23,8 +23,9 @@ X 	art: sunshine
 
 - Go back in time
 anim: timeline 1980->1948
-anim: computers a thing (circuitbot), a new thing (circuitbot bingkst)
-anim: a big room-sized thing (mainframebot pops under knocks)
+X 	art: computers a thing (mainframebot)
+X 	art: a new thing (bingkst)
+X 	pic: a big room-sized computer (pops under knocks)
 X	pic: paper punchcard
 
 - Mr Warren Weaver
@@ -40,8 +41,9 @@ art: college symbol MIT colors
 X 	art: Bar Hillel
 text: full time machine translation man (trademark)
 text: 1954
-art: biz symbol + Georgetown college symbol + MT demo machine on stage
-X 	art: crowd goes wild
+art: biz symbol + Georgetown college symbol
+X 	art: MT demo stage + crowd
+X 	art: MT demo stage + crowd goes wild
 text: 49 whole Russian sentences
 
 - How demo worked
@@ -53,13 +55,13 @@ text: word suffix word word
 anim: 110 pops out of last word -> 21 one before -> place 21 after 
 text: “Magnitude of angle is determined by the relation of length of arc to radius”
 text: “The price of potatoes is determined by the demand”
-? art: stereotyped Russian drinking vodka
-? art: stereotyped Russian eating potato and holding sack of potatos
+X 	pic: potatoes
+? art: typificated Russian
 
 X 	art: impressed - newspaper
-X 	art: skeyser whoa for stunned public?
+X 	art: skeyser - basic, whoa for stunned public
+X 	art: tech demo computer sparkles
 
-art: tech demo computer sparkles
 text: carefully selected sentences
 text: Cyrillic into the Latin alphabet
 text: only third person verbs
@@ -90,7 +92,6 @@ art: reshow reporters heaping praise / newspaper
 art: turn bad (headline now frownface)
 
 art: reshow Bar Hillel + first...
-? text: Bar Hillel tells us natural language ambiguous
 ? art: stolen painting found by tree
 text: harder than rocket science quote + symbol nearby
 
