@@ -41,7 +41,7 @@ art: college symbol MIT colors
 X 	art: Bar Hillel
 text: full time machine translation man (trademark)
 text: 1954
-art: biz symbol + Georgetown college symbol
+art: biz symbol
 X 	art: MT demo stage + crowd
 X 	art: MT demo stage + crowd goes wild
 text: 49 whole Russian sentences
@@ -56,7 +56,8 @@ anim: 110 pops out of last word -> 21 one before -> place 21 after
 text: “Magnitude of angle is determined by the relation of length of arc to radius”
 text: “The price of potatoes is determined by the demand”
 X 	pic: potatoes
-? art: typificated Russian
+? text: potato->varenyky, potato->vodka,
+?OR art: typificated Russian
 
 X 	art: impressed - newspaper
 X 	art: skeyser - basic, whoa for stunned public
@@ -68,47 +69,49 @@ text: only third person verbs
 text: no negations or questions
 text: relation/the relation example
 
-art: that demo comp is partying, times are good
+X 	art: that demo comp is partying, times are good
 
 
 -- ASSETS PART 1 --
 
-art: reshow Cold War computers (Russian symbol mainframe)
-art: reshow tech demo
-art: reshow crowd went wild
+X 	art: reshow Cold War computers (Russian symbol mainframe)
+X 	art: reshow tech demo
+X 	art: reshow crowd went wild
 
-pic: money starts rolling in
-art: people take sides (left vs right toons)
+X 	pic: money starts rolling in
+X 	art: people take sides (perfectionist)
+X 	art: people take sides (brute forcer)
 text: perfectionists (+ one side toon highlighted, other dark)
 text: brute force (+ other toon highlighted, one side dark)
 
 text: bold claims made after Georgetown
-pic: public raises eyebrow
+X 	pic: public skeyeser raises eyebrow
 text: The Trouble With Translation
-art: spirit, flesh
-art: liquor, meat
+text: spirit, flesh italics in phrase
+X 	art: liquor, meat
 
-art: reshow reporters heaping praise / newspaper
-art: turn bad (headline now frownface)
+X 	art: reshow newspaper
+X 	art: turn bad (headline now frownface)
 
-art: reshow Bar Hillel + first...
-? art: stolen painting found by tree
-text: harder than rocket science quote + symbol nearby
+X 	art: reshow Bar Hillel + first...
+X 	art: stolen art found by tree
+text: harder than rocket science quote
+X 	pic: rocket science
 
-pic: US government commissions
-text: ALPAC
-pic: llama
-art: elite group 7 experts
+X 	pic: US government - capitol
+text: "ALPAC, assemble!"
+? pic: llama
+X 	art: elite group 7 experts
 
-art: reshow demo one last time as promises beyond wildest dreams
+X 	art: reshow demo one last time as promises beyond wildest dreams
 text: AI Hype Cycle (+ simple graph)
-pic: snowflakes / winter chill
+X 	pic: snowflakes / winter chill
 text: AI Winter
 
 text: "we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation"
 
-art: officials point accusing MT
-
+X 	art: officials accusing MT
+X	art: defunding bar, background color bar
 
 
 Ah...the 80's. Well known for great fashion sense, bad guys with cheesy Russian accents and fears of nuclear annihilation. Maybe it's the coder in me, but I've always wondered if the Cold War would've been a bit warmer if computers could have helped us understand each other. Turns out, we tried just that.
