@@ -1,3 +1,112 @@
+USED ASSETS
+
+http://www.morguefile.com/archive/display/833977
+http://www.morguefile.com/archive/display/181348
+
+https://commons.wikimedia.org/wiki/File:Student_hat_2.svg
+https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg
+https://commons.wikimedia.org/wiki/File:Grace_Hopper.jpg
+https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg
+
+http://www.morguefile.com/archive/display/889568
+
+https://commons.wikimedia.org/wiki/File:Monty_closed_doors.svg
+https://commons.wikimedia.org/wiki/File:Monty_open_door.svg
+https://commons.wikimedia.org/wiki/File:Monty_open_door_chances.svg
+https://commons.wikimedia.org/wiki/File:Monty_Hall_solution_expanded.png
+
+https://commons.wikimedia.org/wiki/File:Factory_icon.svg
+
+https://commons.wikimedia.org/wiki/File:Sad_Cone_Puppy.jpg
+
+STATS
+2008-2009
+https://nces.ed.gov/programs/digest/d10/tables/dt10_286.asp
+2013-2014
+https://nces.ed.gov/programs/digest/d15/tables/dt15_318.30.asp
+1980s
+https://nces.ed.gov/programs/digest/d14/tables/dt14_325.35.asp
+
+Women in Silicon Valley:
+http://www.techrepublic.com/article/the-state-of-women-in-technology-15-data-points-you-should-know/
+
+https://docs.google.com/spreadsheets/d/1BxbEifUr1z6HwY2_IcExQwUpKPRZY3FZ4x4ZFzZU-5E/edit?_ga=1.253789704.1241381290.1393376634#gid=0
+
+
+SFX
+wind wheeze dragon
+swoosh mark diangelo
+chomp
+typing fast
+pops
+buzzing-electric
+
+
+PLANNED ASSETS
+
+X	MASK 594-1152
+X	stereotypes - silhouette hacking
+X	questionable hygiene - odor emanating
+X 	girl ask out not go well: silhouette couple sequence
+X 	sallie disturbed
+X	trekkers/trekkies debate
+
+X 	polled coders, true stereotypes - a few of the hackers
+X	programmers vs women - silhouettes (hacker vs sexy)
+
+X 	puppies cute (sad depressed puppy)
+X 	Ada Lovelace
+X 	Grace Hopper
+? txt: bug/debug
+X	ENIAC ladies in heels
+
+X	Stats Alert
+X	school icon
+txt: (first data sheet) 2008-2009 57% US undergrad degrees to women 42% math 40% physical sciences 18% CS
+txt: (second data sheet/later that sheet) FF>> to 2013-2014, same except 13% CS
+txt: (third data sheet/earlier that sheet) 38% in the 1980s
+
+X	say what you will about the 80s eighties fashion
+X 	chartreuse pink purple
+
+X	workforce factory icon
+X 	txt: workforce 20%
+X	Silicon Valley - circuit img
+X 	txt: Silicon Valley 12%
+
+X 	Game Development controller
+X 	txt: 2009-2014 1/10 -> 1/5 (like workforce)
+
+X 	Sallie daughter - Why more girls not like code
+
+X 	Update loop
+X	cube for dance (rotate) and colors change (color balance)
+
+X	? hunch sitting at desk punching numbers
+X	txt: marketing numbers in spreadsheet
+X	txt: marketing numbers in bubbles instead
+
+? online classes free great
+
+X	MASK 6541-7014
+X 	Monty Hall Problem - game show sequence
+X 	my code: walked step by step 100,000 times
+X 	Monty Hall problem - solution tree / trying to decide
+
+X 	answer a question - question mark and question guy
+X 	binary-bg for that's what code does
+X 	Update loop
+? frame lock -60- 30!
+
+X 	self-driving car
+X 	robots breeding humans
+X	txt: password png
+
+? guy
+? girl
+X 	sad depressed puppy
+
+
 THE DISAPPEARING FEMALE DEVELOPER?
 
 Programmers are easy to stereotype. They sit around in their hoody all hunch backed, questionable hygiene, they spoke to a girl - once - it didn't go well. Yeah, Sally's still creeped out about that... you need to APOLOGIZE! They take a serious position in the trekkers vs trekkies debate. They know what the trekkers vs trekkies debate is. 
