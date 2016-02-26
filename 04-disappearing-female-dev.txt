@@ -1,5 +1,7 @@
 USED ASSETS
 
+fonts - triggering fanfares, perspectiva sans
+
 http://www.morguefile.com/archive/display/833977
 http://www.morguefile.com/archive/display/181348
 
@@ -16,6 +18,14 @@ https://commons.wikimedia.org/wiki/File:Monty_open_door_chances.svg
 https://commons.wikimedia.org/wiki/File:Monty_Hall_solution_expanded.png
 
 https://commons.wikimedia.org/wiki/File:Factory_icon.svg
+
+https://commons.wikimedia.org/wiki/File:Female_symbol_on_public_restroom.JPG
+
+http://www.morguefile.com/archive/display/185087
+
+http://www.morguefile.com/archive/display/643702
+
+https://commons.wikimedia.org/wiki/File:Orange_sport_car.svg
 
 https://commons.wikimedia.org/wiki/File:Sad_Cone_Puppy.jpg
 
@@ -40,6 +50,7 @@ chomp
 typing fast
 pops
 buzzing-electric
+water chortle
 
 
 PLANNED ASSETS
@@ -66,6 +77,22 @@ txt: (first data sheet) 2008-2009 57% US undergrad degrees to women 42% math 40%
 txt: (second data sheet/later that sheet) FF>> to 2013-2014, same except 13% CS
 txt: (third data sheet/earlier that sheet) 38% in the 1980s
 
+
+US Bachelor's Degrees 2008-2009
+All				685,382		915,986		1,601,368	57.2%
+Math/Stats 		8,793		6,703 		15,496 		43.3%
+Physical Sci 	13,151 		9,002		22,153 		40.6%
+Comp/Info 		31,215		6,779 		37,994 		17.8%
+
+US Bachelor's Degrees 2013-2014
+All 			801,692		1,068,122 	1,869,814 	57.1%
+Comp/Info 		45,393		9,974 		55,367		18%
+Math/Stats 		11,967		9,013		20,980 		43%	
+Physical Sci 	17,533		11,275 		28,808 		39.1%
+
+US Bachelor's Degrees 1983-1984
+Comp/Info 		20,416		12,023 		32,439 		37.1%
+
 X	say what you will about the 80s eighties fashion
 X 	chartreuse pink purple
 
@@ -75,18 +102,16 @@ X	Silicon Valley - circuit img
 X 	txt: Silicon Valley 12%
 
 X 	Game Development controller
-X 	txt: 2009-2014 1/10 -> 1/5 (like workforce)
+X 	txt: 2009-2014 n -> 2n, n=11.5%
 
 X 	Sallie daughter - Why more girls not like code
 
 X 	Update loop
 X	cube for dance (rotate) and colors change (color balance)
 
-X	? hunch sitting at desk punching numbers
+X	hunch sitting at desk punching numbers
 X	txt: marketing numbers in spreadsheet
 X	txt: marketing numbers in bubbles instead
-
-? online classes free great
 
 X	MASK 6541-7014
 X 	Monty Hall Problem - game show sequence
@@ -95,12 +120,12 @@ X 	Monty Hall problem - solution tree / trying to decide
 
 X 	answer a question - question mark and question guy
 X 	binary-bg for that's what code does
-X 	Update loop
-? frame lock -60- 30!
 
 X 	self-driving car
 X 	robots breeding humans
 X	txt: password png
+X 	Update loop
+? frame lock -60- 30!
 
 ? guy
 ? girl
