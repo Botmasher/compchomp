@@ -1,14 +1,16 @@
 ART
 
-
 https://commons.wikimedia.org/wiki/File:Gartner_Hype_Cycle.svg
+
 
 SFX
 
 
 SOURCES
+6 rules, 49 translations, sample lexicon:
 http://www.hutchinsweb.me.uk/GU-IBM-2005.pdf
-
+Quotes on failure, trouble c translation, etc:
+http://www.hutchinsweb.me.uk/MTNI-11-1995.pdf
 
 HOW COMPUTERS FAILED AT TRANSLATING RUSSIAN
 
