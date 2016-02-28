@@ -85,10 +85,10 @@ X 	art: reshow crowd went wild
 X 	pic: money starts rolling in
 X 	art: people take sides (perfectionist)
 X 	art: people take sides (brute forcer)
-text: perfectionists (+ one side toon highlighted, other dark)
-text: brute force (+ other toon highlighted, one side dark)
+X	text: perfectionists (+ one side toon highlighted, other dark)
+X	text: brute force (+ other toon highlighted, one side dark)
 
-text: bold claims made after Georgetown
+text: bold claim made after Georgetown
 X 	pic: public skeyeser raises eyebrow
 X	text: The Trouble With Translation
 text: spirit, flesh italics in phrase
@@ -103,9 +103,10 @@ text: harder than rocket science quote
 X 	pic: rocket science
 
 X 	pic: US government - capitol
-? text: "ALPAC, assemble!"
-? pic: llama
-art: elite group 7 experts
+X	text: ALPAC
+X	text: "ALPAC, assemble!"
+pic: llama
+X	anim: elite group 7 experts
 
 X 	art: reshow demo one last time as promises beyond wildest dreams
 ? text: AI Hype Cycle
