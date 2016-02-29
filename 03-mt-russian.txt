@@ -88,33 +88,33 @@ X 	art: people take sides (brute forcer)
 X	text: perfectionists (+ one side toon highlighted, other dark)
 X	text: brute force (+ other toon highlighted, one side dark)
 
-text: bold claim made after Georgetown
+X	text: bold claim made after Georgetown
 X 	pic: public skeyeser raises eyebrow
 X	text: The Trouble With Translation
-text: spirit, flesh italics in phrase
+X	text: spirit, flesh italics in phrase
 X 	art: liquor, meat
 
 X 	art: reshow newspaper
 X 	art: turn bad (headline now frownface)
 
 X 	art: reshow Bar Hillel + first...
+X	text: "Stolen art found by tree."
 X 	art: stolen art found by tree
-text: harder than rocket science quote
+X	text: harder than rocket science quote
 X 	pic: rocket science
 
 X 	pic: US government - capitol
 X	text: ALPAC
 X	text: "ALPAC, assemble!"
-pic: llama
+X	pic: llama
 X	anim: elite group 7 experts
 
 X 	art: reshow demo one last time as promises beyond wildest dreams
-? text: AI Hype Cycle
 X 	AI Hype Cycle graph
 X 	pic: snowflakes / winter chill
-text: AI Winter
+X	text: AI Winter
 
-text: "we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation"
+X	text: "we do not have useful machine translation [and] there is no immediate or predictable prospect of useful machine translation"
 
 X 	art: officials accusing MT
 X	art: defunding bar, background color bar
