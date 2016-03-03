@@ -77,6 +77,26 @@ What a headache though. I'm guessing, 26 times. And 26 times 26 times. And 26 ti
 That's all it takes. If your password is "dragon" or "monkey" or - ahem - "password", you're done. But in my collab with NativLang, we see why, thanks to human language, hackers don't even need this slow brute-force stuff. (Hey! Don't call me slow! I brute force all my problems!) But we coders do love ourselves some for loops. Life lesson. CHOMP!
 
 3/2 Stallman And Passwords
+
+X 	text: q mark - eccentric man Stallman shadow w/ question mark
+X 	img: pwd - password business before it got off the ground
+X 	img: comp + unlocked - computers but no passwords
+X 	img: floppy disk
+X 	anim: CTSS -> Compatible Time-Sharing System
+X 	anim: green txt, black box, cursor blink for PASSWORD turn off print
+X 	img: ARPANET - wild west of the internet
+X 	img: all the Stallman series
+X 	img: Stallman comp back with green light emanating
+X 	img: open access lock - people from outside could access ARPANET
+X 	img: broken computer - new computer system
+X 	text: empty string ""
+X 	text: "rms"
+X 	img: quote - everyone should set to ""
+X 	text: "rms" "rms"
+X 	img: suit reacts
+X 	img: 2 suits react
+X 	img: 3 suits react + fuming
+
 Nobody likes passwords. And that's nothing new. In 1977 one particularly eccentric MIT man pulled out all the stops to kill this password business before it ever got off the ground. That's right, let's roll the clock back to the days when there were computers... but no passwords!
 
 (intro)
