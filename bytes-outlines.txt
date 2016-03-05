@@ -122,6 +122,23 @@ That was the core of it for him - this wasn't just about passwords. Stallman had
 
 3/9 Thoughts on MT
 (NL 3/4: How Computers Failed At Russian: History of Machine Translation)
+
+img: Americans
+img: Russians - what were the Russians doing?
+img: Perfectionists
+img: Brute forcers
+img: Stalinist tech ban
+img: Stalin
+img: Stalin's death
+img: successful tech demo
+anim: source lang -> target lang - direct translation
+img: Leningrad U / Andreev
+anim: source lang -> middle lang (circle) -> target
+img: middle language has own grammar and structure
+text: interlingua
+img: web translator pick pair
+img: web translator pick pair EN between them
+
 In the Cold War, computers were trying - and failing - to translate between Russian and English. I explored the American side of that frustrating early history of machine translation, but what were the Russians doing?
 
 Welcome to CompChomp, the only show on the internets where we like our sugars natural and our languages artificial.
