@@ -138,8 +138,8 @@ X 	text: source lang -> middle lang (circle) -> target
 X 	img: eavesdropper - middle language has own grammar and structure
 X 	img: eavesdropper painting for slow zoom
 X 	text: interlingua
-img: web translator pick pair
-img: web translator pick pair EN between them
+X 	img: web translator pick pair
+X 	img: web translator pick pair EN between them
 
 In the Cold War, computers were trying - and failing - to translate between Russian and English. I explored the American side of that frustrating early history of machine translation, but what were the Russians doing?
 
