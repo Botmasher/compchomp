@@ -11,3 +11,63 @@
 6. My attempt to sim the Monty Hall problem. Watched YT video, didn’t quite believe it, had to code it for myself. Story and pseudocode.
 
 7. Ambiguity! Logic, “stolen painting found by tree” ;) and why computers need consistency (but high-level languages fight over whether or not to have overloaded operators like +)
+
+8. Example.com domain - who owns it, dos anyone see all the email sent to @example.com, could you do any interesting data analysis of which test email Addie's get used (jessica@ vs dkwon@), is it in other languages (ejemplo.com por ejemplo)
+
+9. Ada Lovelace - talk about her poet father and how her mom wanted her to be a scientist, corresponded with Babbage about his analytics engine,wrote algorithm before it was built (chicken egg situation but programming came first)
+
+10. Plane travel - fly by wire (controls no longer physically moving parts), auto pilot (in 3 dimensions!), possibly why airlines still don't all have free wifi (or any wifi)
+
+11. Turn signals - some are just pressure activated, others have sophisticated timing mechanisms (algos) to keep traffic moving smoothly
+
+12. Something about OSS talking about how so much of it is critical infrastructure and completely unpaid (Heartbleed guys, FatherTime, jquery)
+
+13. Bio mimicry from a software angle?
+
+14. Superlatives - longest running piece of software, oldest software, most expensive software
+
+15. Answer question which language is the best language (which will of course not have an answer but will provide a way to look at different types of and purposes for a language)
+
+16. Have any animals written computer programs?
+
+17. Look at programs that allow brain signals to manipulate real world objects (how do they work...are they super complicated or is it simple once you get the electrical signal from the brain)
+
+18. Most popular programming languages by region (Korea == Java) and why
+
+19. How does a circuit gate actually work? What does it mean for it to be a 1 or a 0? Does it work the same way in space?
+
+20. Talk about different robotics competitions and how interested parties can get involved...hopefully get a free robot from the soccer boys people because that bot is $16,000
+
+21. How does autocorrect work (or not work, as the case may be) #askingforafriend #botiswhatimeant
+
+22. #1 thing holding software back today (initially it was memory/processing speed - is that still the case?).
+
+23. What's so cool about quantum computing? Is it only for ridiculously big data or will it make a difference for every day use?
+
+24. The memory curve (how it doubled every time period and the growth was exponential). Is that still happening? Does it even matter? Is lack of memory still an issue now that people have terabytes of it?
+
+25. Any stories where a software bug changed or nearly changed the course of history? Perhaps a spy got info that was critical or a system malfunctioned at exactly the wrong moment...
+
+26. A more in depth look at Mehls law (computers are always better than humans at things)
+
+27. Computers that make art. Are any of them good at it? Can the average person tell the difference between computer and human generated art? What about experts? Mention the Ted Talk prize for a talk written by computers that people can't tell was written by computers.
+
+28. Have computers ever discovered new mathematical premises or scientific theories on their own through pattern matching and abstraction (perhaps how humans knew there had to be another planet but didn't have tools that could find it yet)
+
+29. Code that can write code? Difference between it coding something else vs it coding itself?
+
+30. Code overview topics (in a fun way): functional vs oo language, static vs dynamic type, compiled vs interpreted, big o notation, sorting algorithms, recursion 
+
+31. Using what you do as a way of identifying you (touched on it in passwords). Really intrigued by governments using it it to identify anonymous people (log key stokes on anon sites then math to fingerprint on known sites). Also key delay software to combat this.
+
+32. What is a public/private key, how does it work..story about government trying to get all the keys so the guy made the tech FOSS so it couldn't be controlled. Funny how much tech people are demonized as high powered elite when they'll often give away their greatest development for free
+
+33. Dijkstra - the man who keeps us from getting lost, path finding algorithms, map programs
+
+34. Robots beating humans at games. Why is it significant? First one (chess?), talk about Jeopardy with Watson (other applications for Watson like medical diagnosis) and recent Go defeat
+
+35. How do cellphones always know what time it is. Check and see if the story of the phone company in Australia incorrectly setting the clock forward so everyone got up an hour early is true
+
+36. What makes something a virus, a worm, a Trojan horse, etc? What was the first? What was the worst? Who makes them?
+
+37. What's an operating system and why does software made for one not work on another? Little Endian/Big Endian

@@ -1,0 +1,14 @@
+3/23 - All Your Games are Belong to Us
+Any earlier?
+DeepBlue - chess (2/10/1996 - first computer win against top human, 11/1/2005 - last top human win against computer)
+Watson - jeopardy (other applications like medical diagnostics)
+AlphaGo - go (was considered the toughest to win - https://www.explainxkcd.com/wiki/index.php/1002:_Game_AIs)
+
+3/30 - 
+How do cellphones always know what time it is?
+
+Optus Mobile incorrectly set clocks in South-Eastern Brisbane
+  - people arrived to work an hour early
+  - cops noticed heavier than usual traffic on the roads
+  - Fixed by selecting "Brisbane" as timezone (rather than automatic)
+  - Offered free coffee to all those affected
