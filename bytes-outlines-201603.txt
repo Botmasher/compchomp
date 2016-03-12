@@ -12,3 +12,27 @@ Optus Mobile incorrectly set clocks in South-Eastern Brisbane
   - cops noticed heavier than usual traffic on the roads
   - Fixed by selecting "Brisbane" as timezone (rather than automatic)
   - Offered free coffee to all those affected
+
+So Australia has daylight savings time like a lot of other places which means that in the spring they spring forward and they lose an hour on their clock. So most people use cell phone for alarm whatever time on clock says that's what the time is. One morning for peeople SE Brisb alarms went off as usu drove into work and discovered none of places usu open are open, cops commenting on amount of traffic - tweeted it's like everyone decided to get up early this morning.
+
+Welcome to CompChomp, the only show on the internets where it's always 6:00 somewhere!
+
+Now daylight savings time meant running around the house figuring out how the timer on the microwave and the VCR - that's right, had VCR, still do - realizing the clock in the car's not going to be changed for months, if ever. Lamenting that I'm more tired than I would've been otherwise regardless of how much sleep I actually got. I'm pretty sure at some point dreaming of a day when clocks would just set themselves.
+
+Fastforward to now - we're in now now - and my computer and my phone just handle that.
+
+- > as coder, I can't set iphone's time in objective c
+	- of course using objective c cuz waiting for swift to prove production ready
+- user can actually set time manually... offset? dunno
+- > UTC
+	- story about UTC name where comes from
+	- what it is, used to represent time
+
+- talking about communication between towers and phones, offsets, why set themselves...
+
+-> now we're at the end. we can see why the australia thing happened. close it!
+
+Turns out Optus cell phone had tower in area incorrectly set time daylight savings indeed 1 hour early from time set expected to get up. Company of course apologetic and free coffee to everyone affected. When heard got me thinking how do cell phones know what time it is.
+Started looking and cell phones get from tower. Date time and offset signal, today's date current time and whatever the offset is from UTC (maybe? but basically time zone but more programmatic way of looking at it +/- Universal Coordinated Time - abbreviation by design by committee betwen English and French).
+Someone flipped wrong switch got programming wrong for cell tower it sent out the wrong time. Now cell phones universal time piece, didn't question it.
+Why cell phone time from network instead of us setting it?
