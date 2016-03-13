@@ -71,3 +71,5 @@
 36. What makes something a virus, a worm, a Trojan horse, etc? What was the first? What was the worst? Who makes them?
 
 37. What's an operating system and why does software made for one not work on another? Little Endian/Big Endian
+
+38. Atomic time, UTC (include story about English "UCT" vs French "TCU" committee decide "UTC"). 
