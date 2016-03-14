@@ -28,13 +28,15 @@ Optus Mobile incorrectly set clocks in QLD
   - Fixed by selecting "Brisbane" as timezone (rather than automatic)
   - Offered free coffee to all those affected
 
-On January 13, 2015 thousands of Queenslanders were spotted roaming the streets at odd hours.  People arrived at work only to discover the doors were locked and the lights were out.  Local baristas said people were groggy and less chipper than usual.  The Queensland PD reported unusual amounts of early morning traffic, stating in one tweet that it's like everyone decided to get up an hour early.  Was it a brain leech?  Was it something in the water?  No....it was code.....and cell towers.
+On January 13, 2015 thousands of Queenslanders were spotted roaming the streets at odd hours.  People arrived at work only to discover the doors were locked and the lights were out.  Local baristas said customers were groggy and less chipper than usual.  The Queensland police reported unusual amounts of early morning traffic, stating in one tweet that it's like everyone decided to get up an hour early.  Was it a brain leech?  Was it something in the water?  No....it was code.....and cell towers.
 
-Welcome to CompChomp, the only show on the internets where it's always 6:00 somewhere!
+[INTRO]
 
-When I was a kid, Daylight Savings Time meant running around the house updating clocks, trying to figuring out how to reset the time on the microwave and the VCR - that's right, we had VCR, still do - That sad moment when I realized the clock in the car's not going to be changed for months, if ever. We'd all lament that we were more tired than ever (regardless of how much sleep we actually got).  And, when we did get sleep, we'd dream of a day when clocks would just set themselves.
+Welcome to CompChomp, the only show on the internets where it's always 5:00 somewhere!
 
-Fast forward to now - we're in now now - and my computer and my phone just handle that.  Seriously, it's really hand's off.  Even as a coder, if I want to bust out my objective-c and whip up an iphone app, I have methods for reading the time, but I can't update it.  And that's because time is actually pretty important for cell phone transmission.
+When I was a kid, Daylight Savings Time meant running around the house updating clocks, trying to figuring out how to reset the time on the microwave and the VCR - that's right, we had VCR, still do - That sad moment when we realized the clock in the car won't be correct for months...if ever. We'd all lament how we were soooooo tired (regardless of how much sleep we actually got).  And, when we did sleep, we'd dream of a day when clocks would just set themselves.
+
+Fast forward to now - we're in now now - and my computer and my phone just handle that.  Seriously, it's really hand's off.  Even as a coder, if I want to bust out my objective-c and whip up an iphone app, I have methods for reading the time, but my app cannot mess with the time on your phone.  But you know what does mess with phone time....cell towers.
 
 Over here in the U.S., the most popular carrier uses a little technology I like to call CDMA....because...that's actually what it's called...I didn't invent that.  That's it's name.
 
@@ -42,6 +44,10 @@ CDMA phones package all the calls happening on a particular tower together.  Thi
 
 It's pretty cool how this works.  When a CDMA phone first starts up it will try to connect with a nearby cell tower.  The first step of this process is for the phone to transmit it's "short code" which is this phone's unique identifier....like it's name (except short codes, unlike names, are unique).  Once a phone is connected with the tower, it finds the 'sync channel'.  This channel sends over a bunch of info, but one key component is a message that basically says, "At the sound of the tone, the time will be..." well, whatever the time happens to be at the sound of the tone.  And the reason it's so important for the phone and the tower to agree on the time is that this kicks off the long code generator.  The long code is a chip sequence that spreads your call around various frequencies.  If your phone's short code and the tower's long code aren't closely synced by time, you'll never be able to piece that call back together.
 
+And why is your call chopped up all over the spectrum? Let's just say it's safer that way...harder for bad guys to piece together.
+
 Now, most cell phones around the world are GSM phones - if your phone has a sim card, I'm talking to you! These work a bit differently. Instead of slopping all the calls together, calls are transmitted in order one after another after another.  Basically the calls are all lined up and the tower grabs a piece of grandma's call...then a piece of the neighbor's call....and even a piece of your sister's call (no you're shmoooopy).  This goes on, in order, until the line *ahem* the call ends.So yeah...you GSMers care about time too if you want that piece of your call to go through.
 
-So, why did all those Queenslanders suddenly decide to start observing Daylight Savings time and head into work an hour early that day?  Was it a great time zone protest?  Umm...no.  They trusted their cell phones...and their cell phones were wrong.  It turns out that a glitch on a local network had the towers sending out time codes for New South Wales - a state that observed Daylight Savings Time.  Those unsuspecting Queenslanders were leapt forward without so much as a "how do you do".  All was not lost though....affected customers we given a free cup of coffee as an apology.  (Make it a free hot chocolate and we've got a deal!)
+So, why did all those Queenslanders suddenly decide to start observing Daylight Savings time and head into work an hour early that day?  Was it a great time zone protest?  Umm...no.  They trusted their cell phones...and their cell phones were wrong.  It turns out that a glitch on a local network had the towers sending out time codes for New South Wales - a state that observed Daylight Savings Time.  Those unsuspecting Queenslanders were leapt forward without so much as a "how do you do".  All was not lost though....affected customers were given a free cup of coffee as an apology.  (Make it a free hot chocolate and we've got a deal!)
+
+Chomp!
