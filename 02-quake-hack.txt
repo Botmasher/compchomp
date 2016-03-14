@@ -1,15 +1,18 @@
 HOW QUAKE TRICKED COMPUTERS INTO FAKING REAL-WORLD LIGHTING
 
-When we take a game and open up its code guts, sometimes we find out the game we think we’re playing is actually playing tricks on us. Here’s my favorite example - a game that hacked together the illusion of a fully lit world.
+I play a lot of shooters. So getting screamed at by teenagers no longer makes me go WTF. My biggest videogame WTF's are when I pull open game code and see how it's lying to my face.
+
+Sometimes those lies are artistic. Silent Hill used fog to cover up technical limitations of displaying a full town onscreen at once.
+
+Some lies get creative with hardware. Fuse copied data to get enough space for its memory-hungry cinematics. It also reminded us that Insomniac does so much better with pointy-eared space mongoose-thing shooters. But that’s another story.
+
+But my favorite are the lies literally written in code. And do you want to see the coolest of these tricks, one that hacked together the illusion of a fully lit world and literally had the developers themselves WTFing in their code comments?
 
 [intro]
 
-/Welcome to CompChomp, the only place on the internets where our scripts don't ban you for camping. But if you spawn kill...
-/Welcome to CompChomp, the only place on the internets where Carmack than Urkel.
+Welcome to CompChomp, the only show on the internets where our scripts don't ban you for camping. But if you spawn kill...
 
-I play shooters. I’m that voice on the other end that guys start heckling if I say one word. But it’s all good. I’m not pretending to fit in. For this girl the biggest WTF moment didn’t happen the last time I got called a ??? by a teenage boy. I’m a programmer, and my biggest WTF’s are when I find out the length game code goes to cheat us into believing our games are doing something our machines really can’t handle. Silent Hill used fog to cover up technical limitations of displaying a full town onscreen at once. Fuse copied data to get enough space for its memory-hungry cinematics. It also reminded us that Insomniac does so much better with pointy-eared space mongoose-thing shooters. But that’s another story. For me, these computer language tricks are like magic. And do you want to see the coolest of these tricks, the biggest one that made the developers themselves go WTF? Let’s do this. C’mon!
-
-In the 90’s, 3D gaming was fancy, new, barely charted territory. Sexy stuff. (Josh, do I really have to say “sexy”? I don’t want to say “sexy”.) Now beefcakes and bullets and bees and bubbles were moving in the X, Y and Z direction. In game programming, that meant wrapping your mind around a vector with 3 components.
+In the 90’s, 3D gaming was fancy, new, barely charted territory. Sexy stuff. Now beefcakes and bullets and bees and bubbles were moving in the X, Y and Z direction. In game programming, that meant wrapping your mind around a vector with 3 components.
 
 But you know what else was moving around these 3D worlds? Light. Light with its rays doing the vector thing, too.
 
@@ -31,7 +34,7 @@ So you’ve got a beam of light heading straight towards the shiny metal barrel 
 
 Look at this code. This is how they did it. You don’t get it? Nobody does! We’ll walk through it. Just a bit.
 
-Back to the floating point number. That’s stored as a number times two to some power. And manipulating floating point numbers can be expensive. Do YOU want to normalize the exponent and mantissa after each calculation? I didn't think so. Well, talking the inverse square root is the same as dividing the power the number is raised to by negative two. But how do you do that without floating point numbers?
+Back to the floating point number. That’s stored as a number times two to some power. And manipulating floating point numbers can be expensive. Do YOU want to normalize the exponent and mantissa after each calculation? I didn't think so. Well, taking the inverse square root is the same as dividing the power the number is raised to by negative two. But how do you do that without floating point numbers?
 
 Remember that the number’s stored funny. And it’s that funny way of storing the number that gave up the solution. Obviously this is a computer, and, whenever you start looking low enough, you’ll see that computers store stuff in bits. And these bits represent that number in two chunks - its mantissa and its exponent. If you take those bits and you shift them one spot to the right, that’s actually the exact same thing as dividing both of those chunks by two. This isn’t wholesome everyday code, and look! They knew it! Evil bit-level hacking indeed. But this bit of evil helped vanquish that costly foe - division - speeding the whole thing up. Wait, but we need to divide by NEGATIVE two! So, what? Multiply this by negative one? WRONG! I just told you - multiplication is expensive! See, Josh! I told you this Quake math stuff would never work. I’m losing them!
 
