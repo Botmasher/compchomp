@@ -3,7 +3,8 @@ DeepBlue - chess (2/10/1996 - first computer win against top human, 11/1/2005 - 
 Watson - jeopardy (other applications like medical diagnostics)
 
 3/30 - All Your Games are Belong to Us Pt 2
-AlphaGo - go (was considered the toughest to win - https://www.explainxkcd.com/wiki/index.php/1002:_Game_AIs)
+AlphaGo - go (was considered the toughest to win - https://www.explainxkcd.com/wi
+ki/index.php/1002:_Game_AIs)
   - as recently as 1 year ago, computer experts thoguht we were still 10 year away from building a computer that could defeat GO champions
   - best algos could easily be beaten by moderately good players
 Why so tough to beat?
@@ -51,6 +52,7 @@ Now, most cell phones around the world are GSM phones - if your phone has a sim 
 So, why did all those Queenslanders suddenly decide to start observing Daylight Savings time and head into work an hour early that day?  Was it a great time zone protest?  Umm...no.  They trusted their cell phones...and their cell phones were wrong.  It turns out that a glitch on a local network had the towers sending out time codes for New South Wales - a state that observed Daylight Savings Time.  Those unsuspecting Queenslanders were leapt forward without so much as a "how do you do".  All was not lost though....affected customers were given a free cup of coffee as an apology.  Make it a free hot chocolate and we've got a deal!
 
 Chomp!
+
 
 
 
