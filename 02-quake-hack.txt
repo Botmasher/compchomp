@@ -44,4 +44,18 @@ Look what we did. We replaced an expensive division and multiplication with a bi
 
 You wouldn’t want to launch a satellite into space with this, but it was accurate enough to light a whole game arena without lagging your clunky 90’s PC behemoth.
 
-So if you’re a gamer, maybe step back to appreciate the hard work coders do to deceive you and keep your game world running awesome. If you’re a coder, maybe keep some dirty tricks up your sleeve for the next time you need to pull off the impossible. Just don’t tell on me for telling you. And whoever you are, get out there and code! Chomp!
+So if you’re a gamer, maybe step back to appreciate the hard work coders do to deceive you and keep your game world running awesome. If you’re a coder, maybe keep some dirty tricks up your sleeve for the next time you need to pull off the impossible. Just don’t tell on me for telling you. And whoever you are, get out there and code!
+
+Chomp!
+
+
+
+
+
+
+
+
+
+
+
+
