@@ -30,26 +30,27 @@ Optus Mobile incorrectly set clocks in QLD
   - Offered free coffee to all those affected
 
 ASSETS
-anim: people wake up vs sleep at night Australia outline
+X   anim: people wake up vs sleep at night Australia outline
 X   ?art: coffee cup 
 X   art: police guy
-?text: police tweet (@everyone !?!)
+X   ?text: police tweet (@everyone !?!)
 X   art: brain leech
 X   art: alarms guy - when I was a kid
 X   img: VHS icon - we had a VCR
 X   art: mobile phone
-text: Objective C methods for reading but not writing the time
+X   text: Objective C methods for reading but not writing the time
 X   art: USA outline - here in the US CDMA
-text: CDMA
-anim: USA map with tower bingkst
-anim: color-coded text calls chopped across spectrum
-anim: short code->tower, sync chan (at tone), agree time, long code
+X   text: CDMA
+X   anim: tower bingkst on that USA map
+X   anim: colored arrow phone to tower, same color within call soup
+X   anim: short code->tower, sync chan with time, long code on tower
 X   art: bad guy - harder for bad guys to piece together
-text: GSM
-anim: color lines, tower takes pieces of colors, your color phone
+X   text: GSM
+X   img: sim card icon - I'm talking to you!
+X   anim: color lines, tower takes pieces of colors, your color phone
 X   art: market down the street
-(reshow anim: people wake up vs people sleep at night Australia)
-?anim: tower malfunctioning NSW zapping Queensland
+X   (reshow anim: people wake up vs people sleep at night Australia)
+X   ?anim: tower bolt for malfunctioning NSW zapping Queensland
 X   img: un bon café -> un bon chocolat
 
 On January 13, 2015 thousands of Queenslanders were spotted roaming the streets at odd hours.  People arrived at work only to discover the doors were locked and the lights were out.  Local baristas said customers were groggy and less chipper than usual.  The Queensland police reported unusual amounts of early morning traffic, stating in one tweet that it's like everyone decided to get up an hour early.  Was it a brain leech?  Was it something in the water?  No....it was code.....and cell towers.
