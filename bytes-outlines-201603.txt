@@ -41,9 +41,9 @@ X   art: mobile phone
 X   text: Objective C methods for reading but not writing the time
 X   art: USA outline - here in the US CDMA
 X   text: CDMA
-X   anim: tower bingkst on that USA map
+X   anim: tower bingkst
 X   anim: colored arrow phone to tower, same color within call soup
-X   anim: short code->tower, sync chan with time, long code on tower
+X   anim: USA short code->tower, sync chan with time, long code on tower
 X   art: bad guy - harder for bad guys to piece together
 X   text: GSM
 X   img: sim card icon - I'm talking to you!
