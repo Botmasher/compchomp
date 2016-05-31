@@ -1,0 +1,3 @@
+3/23 - All Your Games are Belong to Us Pt 1
+DeepBlue - chess (2/10/1996 - first computer win against top human, 11/1/2005 - last top human win against computer)
+Watson - jeopardy (other applications like medical diagnostics)
