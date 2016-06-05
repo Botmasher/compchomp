@@ -1,0 +1,24 @@
+3/23 - All Your Games are Belong to Us Pt 1
+DeepBlue - chess (2/10/1996 - first computer win against top human, 11/1/2005 - last top human win against computer)
+Watson - jeopardy (other applications like medical diagnostics)
+
+Do you have that friend?  You know the one?  The friend that's great at every game they try to play....whether it's Donkey Kong or chess or poker...they're almost guaranteed to be victorious.  For most of humanity, computers are fast becoming that obnoxious friend.
+
+[INTRO]
+
+Welcome to CompChomp, the only show on the internets where algorithms trump instincts.
+
+There was a time, not long ago, in fact, so not long ago that most of our grandparents may have been around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - like calculating missle trajectories and cracking war time codes.
+
+However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games.  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the 1939 World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  Interestingly, the Nimatron had a built in delay between calculating it's next move and when it could actually move so the people playing wouldn't feel too embarrassed when they lost.  That makes it one of the earliest examples of thought out computer-human interaction too.
+
+Talk about chess:
+  Chess is an ancient game.  Most historians believe it originated in India around the 6th century A.D.  
+  Why was this considered a good test of computer intelligence?
+
+DeepBlue wins against Gary Kasparov 2/10/1996
+
+11/1/2005 is the last time a top human player beat a computer
+
+Possibly talk about Watson - jeopardy (other applications like medical diagnostics)
+

@@ -1,7 +1,3 @@
-3/23 - All Your Games are Belong to Us Pt 1
-DeepBlue - chess (2/10/1996 - first computer win against top human, 11/1/2005 - last top human win against computer)
-Watson - jeopardy (other applications like medical diagnostics)
- 
 3/30 - All Your Games are Belong to Us Pt 2
 AlphaGo - go (was considered the toughest to win - https://www.explainxkcd.com/wiki/index.php/1002:_Game_AIs)
   - as recently as 1 year ago, computer experts thoguht we were still 10 year away from building a computer that could defeat GO champions
