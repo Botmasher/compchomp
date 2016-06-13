@@ -1,3 +1,57 @@
+"You've been hacked." - a phrase so terrifying that it can only be trumped by "It's cancer" and "I want you to meet my parents".  Each year the email addresses, passwords, credit cards and other personal information of millions of people end up in the hands of hackers.  The most common cause - SQL Injection.
+
+[INTRO]
+
+/ Welcome to CompChomp...the only show on the internet where doing more than one thing at a time is bad....very bad.
+
+/ Welcome to CompChomp...the only show on the internet where a fear of needles and bad code intersect.
+
+Structured Query Language (SQL to its friends) is a language used to talk to databases. 
+
+Think of a database as a bank vault that can be filled with information. Any kind of information.  From the mundane, 'sexycoder5' has logged in 47 times, to the embarrassing, the fact that my user name is 'sexycoder5' , to the valuable - like my social security number - 093....haha...you didn't think I'd give it away that easy did you?
+
+/ SQL is the bank manager deciding what information enters and leaves that bank vault.
+/ SQL is the bank teller responsible for withdrawing and depositing all of the information in that vault.
+
+[Not sure if either metaphore is correct...there's almost something there though...probably just needs to be tweaked a bit].
+
+And that setup works great...as long as your database will never be touched by an untrusted source....which is not how most web applications work.  We need to get data from our users into our application.  So we put up forms asking for name, email address and password.  There are fields for telling us what you're searching for.  We add check boxes and radio buttons and encourage people to leave a comment below.  And you definitely want strangers to use your app because it's not going to be successful if your mom is the only one using it.  Especially if she gives it a 1-star rating.  "You haven't called in 3 days." is not legitimate feedback, Mom!
+
+So you take that information the strangers put into your forms and you send it to your database. And things are usually fine because most people just want your program to work as expected. But, one day, a shady mcshadester like this signs into your app (which of course is like Uber for Yelp or AirBnB for dinner or whatever) and he searches for the following restaurant:
+
+'); DELETE FROM Restaurants --
+
+Which turns into the following SQL query:
+
+SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE '%'); DELETE FROM Restaurants -- %’)
+
+And, suddenly, your entire restaurant table is gone....not your table at the restaurant...your restaurant table in your database.  Though you should probably cancel those reservations because you're going to be spending the rest of the night restoring your database from backups.
+
+This nasty little trick is known as SQL injection.  It's when someone closes out a legitimate transaction with your database then immediately sneaks more SQL commands in there so they can interact with your database in a way you didn't intend.  And it happens all the time!
+
+June 2011, a major entertainment conglomerate lost the data of over 1,000,000 users, including passwords that were reportedly stored in plain text.  Ouch!
+
+October of 2012, SQL injection is used to steal the personal records of thousands of students from 53 top universities around the world.  Student info is highly sought after because they usually have great credit records and they don't watch their credit scores.  I guess that's one positive side effect of crushing student debt...by the time you graduate, no one wants to steal your identity.
+
+In August 2014, hackers in Russian stole 1.2 billion username and password combinations and 500,000 email addresses from 400,000 sites.  Not just small sites made by your cousin's best friend's uncle's kid who sort of knows how to code.  This hack included sites built by Fortune 500 companies.
+
+More recently in November 2015, an electronic toy company was hacked and the personal data of 5 million parents and 200,000 kids was taken.
+
+So, how do we put an end to this?  
+
+Make sure that user-provided data is never sent directly to your database.  It should always be sanitized first so none of the characters that have special meaning to SQL databases are treated as anything other than a string.
+
+You should also use prepared statements.  This is where you send the SQL query to the database with placeholders where you're going to add user information later.  Then, when the statement comes through with the user's input, anything in place of a placeholder can only be treated as a string.  Captain Hacksalot can stuff it full of all the SQL he wants and your data is still safe.
+
+Small price to pay to keep your app out of the news for all the wrong reasons.
+
+CHOMP!
+
+
+
+
+
+=== OLD SCRIPT ===
 Growing up - the internet was my constant companion.  When I was really young, I would dial directly into my favorite Bulletin Board Systems (BBS) to play games and chat. As I got older, things got easier and I used companies like Prodigy, CompuServe and AOL to get online. As I was finishing up high school, the old slow dial up internet access transitioned into broadband access and the rest was history.  But something else was happening around this time...something that seemed so innocent and yet it would prove to be one of the greatest vulnerabilities the internet had ever seen.  What was it?  Why, the transition to SQL databases.  Duhn...duhn...duhn.....
 
 [INTRO]
