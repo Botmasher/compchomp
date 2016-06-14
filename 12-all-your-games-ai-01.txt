@@ -1,6 +1,4 @@
 3/23 - All Your Games are Belong to Us Pt 1
-DeepBlue - chess (2/10/1996 - first computer win against top human, 11/1/2005 - last top human win against computer)
-Watson - jeopardy (other applications like medical diagnostics)
 
 Do you have that friend?  You know the one?  The friend that's great at every game they try to play....whether it's Donkey Kong or chess or poker...they're almost guaranteed to be victorious.  For most of humanity, computers are fast becoming that obnoxious friend.
 
@@ -8,17 +6,26 @@ Do you have that friend?  You know the one?  The friend that's great at every ga
 
 Welcome to CompChomp, the only show on the internets where algorithms trump instincts.
 
-There was a time, not long ago, in fact, so not long ago that most of our grandparents may have been around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - like calculating missle trajectories and cracking war time codes.
+There was a time, not long ago, in fact, so not long ago that your grandma Mimi was probably around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - Things like calculating missle trajectories and cracking war time codes.
 
-However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games.  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the 1939 World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  Interestingly, the Nimatron had a built in delay between calculating it's next move and when it could actually move so the people playing wouldn't feel too embarrassed when they lost.  That makes it one of the earliest examples of thought out computer-human interaction too.
+However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games.  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the 1939 World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  The Nimatron even had a built in delay between when it calculated its next move and when it could make that move so people wouldn't be too embarrassed when they lost.
 
-Talk about chess:
-  Chess is an ancient game.  Most historians believe it originated in India around the 6th century A.D.  
-  Why was this considered a good test of computer intelligence?
+As WWII came to a close and the cold war kicked off, computer scientists on both sides of the Iron Curtain dreamed of the day a computer-based intelligence would help them defeat their enemy (or at least quickly translate their military documents).  In the push for Artificial Intelligence, the ability to play certain games began to be seen as a measure of progress for computers. And, in the beginning, computers didn't fare so well.
 
-DeepBlue wins against Gary Kasparov 2/10/1996
+It's generally agreed that great human chess players can see about 10 moves ahead (5 turns for each player). Using the eyes of their mind...intuition.  Early computers didn't listen to their guts (they didn't have them).  Instead, they calculated all the possible outcomes of the possible moves in order to choose the best one.
 
-11/1/2005 is the last time a top human player beat a computer
+MATH ALERT!!!!
 
-Possibly talk about Watson - jeopardy (other applications like medical diagnostics)
+There are roughly 30 legal moves per chess position.  To look at all the possible moves for one turn would be 30 * 30...900.  For two sets of turns you'd multiply another 900 moves for 810,000 total possibilities.  By the time you get to 5 sets of turns there are a nearly one quadrillion possibilities.  That's a whole lot of possibilities.  The thing about that many options is that your shiny quad core pentium 10000 wouldn't be able to crunch all those numbers to figure out the best move in the 3 minutes allowed by tournament play.  Those clunky 1950's behemoths?  Forgetaboutit!  Computers didn't stand a chance.
 
+It wasn't until the 1970s that computer chess programs started beating high ranking human players.  The computers were only a tiny bit smarter - updated algorithms helped them prune moves that were unlikely to lead to stronger positions so they had fewer options to evaluate.  However, most of the gains came from increased computing power.  Crunching those numbers!
+
+It wasn't until 1996 when IBM's Deep Blue faced off with reigning world champion Gerry Kasparov that a computer was finally able to beat a chess grand master.  In...one...game.  Kasparov actually won the match.  But Deep Blue got computers on the scoreboard.  A year later a highly upgraded version of Deep Blue defeated Kasparov to become the first computer to beat a reigning world champion under tournament conditions.
+
+That souped up version of Deep Blue was able to evaluate 200,000,000 positions per second and would regularly search 6-8 moves ahead.  Although some improvements had been made to the algorithms, once again it was primarily computing brute force that defeated mankind - not superhuman intelligence.
+
+Deep Blue retired after that....and by retired I mean we tore it apart and shipped it to two different museums (revenge!).  But, there were plenty of other chess computers waiting to take its place.  What once had seemed an impossible feat of computer intelligence had become a common example of the power of brute force computing power.
+
+Fun fact - November of 2005 was the last time a human champion defeated a top-performing computer under tournament rules.  Sigh.  It's fine...we've got other games. Computers aren't that great at dodgeball....
+
+CHOMP!
