@@ -13,3 +13,14 @@ How did we solve it?
     - Seeded with a number of base games (30 million?)
     - Played against a modified version of itself that had been trained to make the most likely human moves
 Monte Carlo Tree Search
+
+=========
+
+Artificial Intelligence - it's been humiliating us by kicking our butt in chess since 1996.  But humanity, crafty devils that we are, has long had an ace up our sleeves.  No, I'm not talking poker - I'm talking Go.
+
+[INTRO]
+
+/ Welcome to CompChomp...the only show on the internets where artificial intelligence and the Tokugawa Shogunate intersect.
+/ Welcome to CompChomp...the only show on the internets where a trip to Monte Carlo is a legitimate business expense.
+
+Go is old. 5,500 years old to be exact. And people have been playing it continuously for that entire time. So we've had a chance to become experts. And, given how complex Go is, we needed all the time we could get.
