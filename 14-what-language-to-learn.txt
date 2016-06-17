@@ -1,0 +1,29 @@
+## What Programming Language Should I Learn ##
+## What is the Best Programming Language to Learn ##
+## What is the Best Programming Language to Learn First ##
+## Which Programming Language Should I Learn ##
+
+Begs question - for what? What are you trying to achieve?
+ * Get a taste of programming
+ * Web apps
+ * Mobile Apps
+ * Video Games
+ * Head start for college course
+ * Data Science
+
+Some languages to mention?
+ - java (good for compsci, but tougher to learn)
+ - c# (video games/enterprise)
+ - javascript / php (get started right away for web)
+ - ruby / python (beginner friendly, need frameworks to do anything web)
+ - objc (iphone apps, but tough to learn)
+ - swift (iphone apps, more friendly, changes a lot)
+ - c (toughest guy in the room, will kill the beginners soul)
+
+Make analogy to natural language
+ - Don't ask what first language to learn
+  - generally learn the one in the household your born into
+  - interesting if you were born into computer programming languages
+    * I'm from a Ruby household but my husband's family are C developers so I've been having to learn a new language to talk to them
+ - Like language, it's a tool for communicating
+  - Most important thing to do is start
