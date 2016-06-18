@@ -1,5 +1,57 @@
 HOW QUAKE TRICKED COMPUTERS INTO FAKING REAL-WORLD LIGHTING
 
+ illusion of fully lit world
+ not gonna give up lighting fx wanted
+ bouncing off every surface and etc
+ shiny metal barrel of sweet rocket launcher
+ 
+ alternatives:
+ shot of turning and blowing self up
+ shot of fighting in a different arena
+
+
+ASSETS
+X 	img: controller
+X 	img: game code
+X 	img: game code gets devious/snarky face
+X 	anim: mist - fog to cover up world
+X 	img: Fuse copies character data for space during cinematics
+X 	img: pointy-eared space-mongoose (look left, right, snarky)
+X 	vid: Quake footage teasing illusion of fully lit world
+X 	(intro)
+X 	img: in the 90s - floppy disk
+X 	img: x -> y -> z*NEW* - were moving in the x, y and z directions
+X 	img: light at center emanating in those 3 directions, too
+X 	anim: nice rendered 3D image like this
+X 	img: 6 frame sequence of light moving step by step and reflecting
+X 	img: the Prince was still Fresh
+X 	img: dj lighting pic for equation
+X 	anim: inverse sqrt -> $ expensive -> no, TIME expensive!
+X 	img: 90s computers that can't even handle light calculation
+X 	img: John Carmack sequence of expressions and talking
+X 	vid: Quake not going to give up lighting fx they wanted
+X 	anim: Newton's Method on paper -> guess -> method -> refine
+X 	vid: Quake light bouncing off every surface and reflecting
+?text: draw light direction arrows show how crazy calculating all this is
+X 	anim: floating point number -> example of one -> in code looks same
+X 	vid: light heading to shiny metal barrel of sweet rocket launcher
+X 	(vid: slow to show frames - gotta do this 30 frames a second)
+X 	anim: floating point number
+X 	img: outline of controller
+X 	img: code - how they did it. don't get it? nobody does!
+X 	anim: back to floating point -> stored as number x 2^some_power -> lots going on here
+X 	anim: (cont'd) -> circle exponent and mantissa - normalize after calc? didn't think so
+X 	anim: -> reshow invsqrt = number x 2ˆ(some_power/-2 <-THIS!) -> pulling hair out!
+X 	anim: -> float funny storage -> 2 chunks mantissa/exponent
+X 	anim: -> chunks shift right -> both sides divided n/2 * 2^(x/2)
+X 	img: code - evil bit level hacking indeed
+X 	anim: -> circle some_power/2 - wait needed to div by NEGATIVE two!
+X 	text: 5*-1 = 0-5 - same darn thing
+X 	text: circle mantissa (n/2) - messing with the mantissa too
+X 	img: code - magic number restores mantissa -> zoom WTF comment
+X 	vid: not launch satellite but good enough to light whole game world -> final outro
+
+
 I play a lot of shooters. So getting screamed at by teenagers no longer makes me go WTF. My biggest videogame WTF's are when I pull open game code and see how it's lying to my face.
 
 Sometimes those lies are artistic. Silent Hill used fog to cover up technical limitations of displaying a full town onscreen at once.
