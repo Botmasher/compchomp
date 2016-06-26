@@ -1,4 +1,4 @@
-This past week I recevieved email from not one but TWO sites I frequently use warning me about "reused password attacks".  It seems millions of passwords had been stolen from OTHER sites and the hackers were now trying those logins out on sites across the web.  Every year millions of your email addresses, passwords, credit cards (you get the idea) get stolen by hackers.  And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
+This past week I recevieved email from not one but TWO sites I frequently use warning me about "reused password attacks".  Millions of passwords had been stolen from OTHER sites and the hackers were now trying those logins on sites across the web.  Every year millions of your email addresses, passwords, credit cards (you get the idea) get stolen by hackers.  And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
 
 [INTRO]
 
@@ -12,44 +12,34 @@ Structured Query Language (SQL to its friends) is a language used to talk to dat
 
 And that setup works great...as long as your database will never be touched by an untrusted source....which is not how most web applications work.  We need to get data from our users into our application.  So we put up forms asking for name, email address and password.  There are fields for telling us what you're searching for.  We add check boxes and radio buttons and encourage people to leave a comment below.  And we definitely want strangers to our apps because Eatz for Dragonloverz will not be successful if your mom is the only one using it.  Especially if she gives it a 1-star rating.  "You haven't called in 3 days." is not legitimate feedback, Mom!
 
-	# Personalize that shady mcshadester a bit more. He's a character now.
-
-So you take that information the strangers put into your forms and you send it to your database. And things are usually fine because most people just want your program to work as expected. But, one day, a shady mcshadester like this signs into your app (which of course is like Uber for Yelp or AirBnB for dinner or whatever) and he searches for the following restaurant:
+So you take what strangers enter into your forms and you send it to your database.  And this works fine because most people want your program to work as expected.  One day, this sly Shady McShadester hears about your app on TechCrunch (Eatz for Dragonloverz is like Uber for Yelp!).  So he signs in and searches for the following restaurant:
 
 '); DELETE FROM Restaurants --
 
+(mmmmm...tasty!)
+
 Which turns into the following SQL query:
 
-SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE '%'); DELETE FROM Restaurants -- %’)
+SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Restaurants -- %’)
 
 And, suddenly, your entire restaurant table is gone....not your table at the restaurant...your restaurant table in your database.  Though you should probably cancel those reservations because you're going to be spending the rest of the night restoring your database from backups.
 
-	# Story 1 is over. Now you're transitioning us from seeing the sequence of events that everyone goes through in building their apps to understanding the real-world consequences. Can you do this in a way that we care about more? "But surely these big businesses with their shiny logos and trusted brands that make me scroll through these thousand page contracts know about this. You'd think so, but..."
+This nasty little trick is known as SQL injection.  Mr. McShadester closes out a legitimate transaction with your database then immediately sneaks more SQL commands in there, allowing them to interact with your adata in a way you didn't intend. 
 
-This nasty little trick is known as SQL injection.  It's when someone closes out a legitimate transaction with your database then immediately sneaks more SQL commands in there so they can interact with your database in a way you didn't intend.  And it happens all the time!
+Thousands of sites are affected every year, but it's got to just be random sites made by 1-2 person teams, right?  Surely these big businesses with their shiny logos and trusted brands that make me scroll through these thousand page contracts know about this. You'd think so, but...
 
-	# Two options here. 1: spend time giving us one solid example we can really feel. 2: keep this one-two-three punch list but tighten it up so it's both humorous and oh so bad that this is going on. Stripping names, brand identity and details totally takes the teeth out of these examples, but I get the reluctance. Can you be bold in other ways that keep our interest or at least bring us back to meet you where we know what you know and care like you care? (Do you care about these hacks? Why???)
+In 2011, Sony was the target of multiple successful SQL injection hacks.  The largest resulted in the loss of data for over 1,000,000 users, including passwords reportedly stored in plain text.  Ouch!
 
-June 2011, a major entertainment conglomerate lost the data of over 1,000,000 users, including passwords that were reportedly stored in plain text.  Ouch!
+Hackers then turned their attention to the Ivy League.  In 2012, the personal records of thousands of students from top universities were SQLed right into the waiting arms of people that wanted to buy a nice, clean credit record.  I guess that's one positive side effect of crushing student debt...by the time you graduate, no one will want to steal your identity any more.
 
-October of 2012, SQL injection is used to steal the personal records of thousands of students from 53 top universities around the world.  Student info is highly sought after because they usually have great credit records and they don't watch their credit scores.  I guess that's one positive side effect of crushing student debt...by the time you graduate, no one wants to steal your identity.
+Not content to steal millions of records at a time, hackers in Russia used a combination of a bot-net and sql injection to steal 1.2 billion username and password combinations from over 400,000 sites. These weren't just small sites made by your cousin's best friend's uncle's kid who sort of knows how to code.  This hack included Fortune 500 websites.
 
-In August 2014, hackers in Russian stole 1.2 billion username and password combinations and 500,000 email addresses from 400,000 sites.  Not just small sites made by your cousin's best friend's uncle's kid who sort of knows how to code.  This hack included sites built by Fortune 500 companies.
+The real tragedy here is how easy this is to avoid.
 
-More recently in November 2015, an electronic toy company was hacked and the personal data of 5 million parents and 200,000 kids was taken.
+You can't keep Shady from using your app.  But, you can make sure that info he enters is never sent directly to your database.  It should always be sanitized first. You do this by taking the user's data and telling the database to ignore any characters that have special meaning in SQL. That user data will be treated as nothing more than a harmless string!
 
-So, how do we put an end to this? 
+You should also use prepared statements.  Before any user data is sent in, you send the SQL query to the database with placeholders where the user stuff goes.  This way, the database knows what type of actions it should take for that query.  Later, when a malicious query comes in, the database won't veer from it's previous plan.  Shady McShadester can stuff your form full of all the SQL he wants and your data will still be safe.
 
-	# We're already thinking this. Especially if you hit us with the real-world lashes, we're left with a sting and wide open for something more frustratedly direct - "What's sad is none of this even needed to happen!" or "The real tragedy here is how easy this is to fix/avoid." Then back to the story. Not user-provided data directly to your database, but when user X signs up make sure you don't store user X's stuff right in the vault. Clean it up first.
-
-Make sure that user-provided data is never sent directly to your database.  It should always be sanitized first so none of the characters that have special meaning to SQL databases are treated as anything other than a string.
-
-You should also use prepared statements.  This is where you send the SQL query to the database with placeholders where you're going to add user information later.  Then, when the statement comes through with the user's input, anything in place of a placeholder can only be treated as a string.  Captain Hacksalot can stuff it full of all the SQL he wants and your data is still safe.
-
-	# Shady McShadester it was, no? Stay with your story! Unless there are two characters after me now. Wait... mebbe... now I'm REALLY scared!!!
-
-Small price to pay to keep your app out of the news for all the wrong reasons.
-
-	# Possibly can stay in character and end this within the story. The last thing we want is for you to see your twitter blow up when Dragonsterauntchamacallit gets hacked and we found out that an anonymous IP address in Russia is threatening to leak your million names, addresses and credit cards. Sanitize that.
+It's a little extra work, but, a very small price to pay to keep your app out of the news for all the wrong reasons.  The last thing we want is for you to see your twitter blow up when Dragonsterauntchamacallit gets hacked and we found out that an anonymous IP address in Russia is threatening to leak your million names, addresses and credit cards. Sanitize that.
 
 CHOMP!
