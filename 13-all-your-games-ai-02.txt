@@ -30,4 +30,20 @@ From the time we started teaching computers to play games, Go was considered the
 
 Go is different though.  It's played by placing a stone on a 19 x 19 grid in order to surround more territory than your opponent.  There are more possible game combinations than there are atoms in the known universe AND every piece has exactly the same value so the chess approach won't work.  Brute force alone would never bring victory to the computers.  As recently as last year, experts in AI were predicting that we were about 10 years away from having a computer that could defeat a top human Go player.
 
-And then, AlphaGo happened. 
+And then, AlphaGo happened.
+
+In October of 2015, AlphaGo, a computer program developed by Google DeepMind faced off against second dan, Fan Hui - the European GO champion.  AlphaGo won all 5 games making this the first time that a computer had defeated a professional human player on the full-sized board without any handicaps.
+
+Five months later, the computer was matched up against Lee Sodol a 9th-dan player (that's 9 dans out of 9), a man widely considered to be one of the top human players.  After five games (played out over 25 loooooong hours), AlphaGo emerged victorious winning 4 of the 5 matches.
+
+What changed between the experts making their predictions and the computers showing us up?  Advancements in machine learning!  
+
+Since GO has so many possible moves during each turn (remember the whole more atoms than the universe thing) GO computers can't search through every  move to determine the best one.  Instead, they use an algorithm called Monte Carlo Tree Search.  The computers take a random sample of the possible moves, check out the likely outcomes for each of those moves, then choose the best option from that sample.  AlphaGo is no different than other not-so-skilled GO playing computers on this front.
+
+Where AlphaGo shines
+  - neural networks help prune options during MCTS
+  - neural networks are improved by playing against each other (seeded with 30 million human games, played countless additional games against each other)
+
+  Is time to fear our robot overlords? Not-so-much. GO is still a fixed domain with a defined goal. Ask AlphaGo to play chess and it will probably do worse than my kid sister.  Maybe not...I haven't got a kid sister.
+
+  CHOMP!
