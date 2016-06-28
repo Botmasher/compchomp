@@ -1,10 +1,18 @@
 ##All Your Games are Belong to Us Pt 1##
 
+// This divergence from the topic risks losing us in your crucial first 3 secs: (a) it's only hazily, secondarily and generically about computers playing games, (b) it's not a personal story but a vague remark about childhood, (c) you don't build on this opening analogy
+
+
 I do not like board games. This stems from childhood trauma.  I have an older sister that is good at every game she plays. From Candyland to Monopoly, I never stood a chance. Computers are fast becoming that unstoppable older sibling for humanity.  And like my big sister, they never throw a game just to make us feel better.
+
+// Maybe computers are going to traumatize all of us? Maybe there's a specific game we're talking about here? Maybe computers are merciless game playing strategists, and that reminds you of a childhood gameplay experience?
 
 [INTRO]
 
+// Nope. Too factual and not funny, clever or playful.
 Welcome to CompChomp, the only show on the internets where algorithms trump instincts.
+
+// Here we go! The story's good from here. Just be Jessica and be playful. We like it. The stuff above this and at the very end seems more tacked-on than usual though.
 
 There was a time, not long ago, in fact, so not long ago that your grandma Mimi was probably around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - Things like calculating missle trajectories and cracking war time codes.
 
@@ -25,6 +33,8 @@ It wasn't until 1996 when IBM's Deep Blue faced off with reigning world champion
 That souped up version of Deep Blue was able to evaluate 200,000,000 positions per second and would regularly search 6-8 moves ahead.  Although some improvements had been made to the algorithms, once again it was primarily computing brute force that defeated mankind - not superhuman intelligence.
 
 Deep Blue retired after that....and by retired I mean we tore it apart and shipped it to two different museums (revenge!).  But, there were plenty of other chess computers waiting to take its place.  What once had seemed an impossible feat of computer intelligence had become a common example of the power of brute force computing power.
+
+// It started to unravel a bit in the last paragraph. And then this random aside seems like you traded a good hook ("We were down but not out... still had GO") for a shruggy-but-funny "fun fact!".
 
 Fun fact - November of 2005 was the last time a human champion defeated a top-performing computer under tournament rules.  Sigh.  It's fine...we've got other games. Computers aren't that great at dodgeball....
 
