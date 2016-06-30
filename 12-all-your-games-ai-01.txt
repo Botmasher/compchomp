@@ -1,24 +1,17 @@
 ##All Your Games are Belong to Us Pt 1##
 
-// This divergence from the topic risks losing us in your crucial first 3 secs: (a) it's only hazily, secondarily and generically about computers playing games, (b) it's not a personal story but a vague remark about childhood, (c) you don't build on this opening analogy
-
-
-I do not like board games. This stems from childhood trauma.  I have an older sister that is good at every game she plays. From Candyland to Monopoly, I never stood a chance. Computers are fast becoming that unstoppable older sibling for humanity.  And like my big sister, they never throw a game just to make us feel better.
-
-// Maybe computers are going to traumatize all of us? Maybe there's a specific game we're talking about here? Maybe computers are merciless game playing strategists, and that reminds you of a childhood gameplay experience?
+Humans have always been #1 at board games. Sure, there's been the occassional tic-tac-toe playing rooster that gave us a run for our money, but, on the whole, we dominate. Probably because we invented all the games. But now, there's a new kid in town that threatens to change all that - and that kid runs on code.
 
 [INTRO]
 
-// Nope. Too factual and not funny, clever or playful.
-Welcome to CompChomp, the only show on the internets where algorithms trump instincts.
-
-// Here we go! The story's good from here. Just be Jessica and be playful. We like it. The stuff above this and at the very end seems more tacked-on than usual though.
+//Welcome to CompChomp, the only show on the internets where algorithms trump instincts.
+//Welcome to CompChomp, the only show on the internets where player 2 has an eidetic memory...so, flipping the table won't save you
 
 There was a time, not long ago, in fact, so not long ago that your grandma Mimi was probably around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - Things like calculating missle trajectories and cracking war time codes.
 
-However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games.  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  The Nimatron even had a built in delay between when it calculated its next move and when it could make that move so people wouldn't be too embarrassed when they lost.
+However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games. (It all started out so innocent!)  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  The Nimatron even had a built in delay between when it calculated its next move and when it could make that move so people wouldn't be too embarrassed when they lost.
 
-As WWII came to a close and the cold war kicked off, computer scientists on both sides of the Iron Curtain dreamed of the day a computer-based intelligence would help them defeat their enemy (or at least quickly translate their top-secret military documents).  In the push for Artificial Intelligence, the ability to play certain games began to be seen as a measure of progress for computers. And, in the beginning, computers didn't fare so well.
+As WWII came to a close and the cold war kicked off, computer scientists on both sides of the Iron Curtain dreamed of the day a computer-based intelligence would help them defeat their enemy (or at least quickly translate the enemy's top-secret military documents).  In the push for Artificial Intelligence, the ability to play games like chess began to be seen as a measure of progress for computers. And, in the beginning, computers didn't fare so well.
 
 Experts estimate great human chess players can see about 10 moves ahead (5 turns for each player). Using the eyes of their mind...intuition.  Early computers didn't listen to their guts (they didn't have them).  Instead, they calculated all the possible outcomes of the possible moves in order to choose the best one.
 
@@ -32,10 +25,6 @@ It wasn't until 1996 when IBM's Deep Blue faced off with reigning world champion
 
 That souped up version of Deep Blue was able to evaluate 200,000,000 positions per second and would regularly search 6-8 moves ahead.  Although some improvements had been made to the algorithms, once again it was primarily computing brute force that defeated mankind - not superhuman intelligence.
 
-Deep Blue retired after that....and by retired I mean we tore it apart and shipped it to two different museums (revenge!).  But, there were plenty of other chess computers waiting to take its place.  What once had seemed an impossible feat of computer intelligence had become a common example of the power of brute force computing power.
-
-// It started to unravel a bit in the last paragraph. And then this random aside seems like you traded a good hook ("We were down but not out... still had GO") for a shruggy-but-funny "fun fact!".
-
-Fun fact - November of 2005 was the last time a human champion defeated a top-performing computer under tournament rules.  Sigh.  It's fine...we've got other games. Computers aren't that great at dodgeball....
+Deep Blue retired after that....and by retired I mean we tore it apart and shipped it to two different museums (revenge!).  But it was too late - there were new chess computers every year and by 2006, humans could no longer win...not even a game.  We were down, but not out...we still had GO.
 
 CHOMP!

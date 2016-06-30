@@ -16,7 +16,8 @@ How did we solve it?
 Monte Carlo Tree Search
 
 =========
-
+Winning at chess. What once had seemed an impossible feat of computer intelligence had become an every day example of the power of brute force computing power.
+  
 Artificial Intelligence - it's been kicking our butt at our favorite board games for decades now.  But humanity, crafty devils that we are, has long had an ace up our sleeves.  No, I'm not talking poker - I'm talking Go.
 
 // Up the stakes. It was chess. They took that from us. Why was this SUCH a huge story, even for the general public? Why did they care? It wasn't just our favorite board games on the line.
