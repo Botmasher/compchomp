@@ -73,3 +73,7 @@
 37. What's an operating system and why does software made for one not work on another? Little Endian/Big Endian
 
 38. Atomic time, UTC (include story about English "UCT" vs French "TCU" committee decide "UTC"). 
+
+39. How does AI work in Shooters?
+
+40. Kills screens in games.  DK kill screen (integer overflow) caused time calculation to be wrong and gave only 7 seconds for a level. http://errors.wikia.com/wiki/DK_kill_screen

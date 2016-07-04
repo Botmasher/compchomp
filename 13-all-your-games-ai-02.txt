@@ -16,36 +16,40 @@ How did we solve it?
 Monte Carlo Tree Search
 
 =========
-Winning at chess. What once had seemed an impossible feat of computer intelligence had become an every day example of the power of brute force computing power.
-  
-Artificial Intelligence - it's been kicking our butt at our favorite board games for decades now.  But humanity, crafty devils that we are, has long had an ace up our sleeves.  No, I'm not talking poker - I'm talking Go.
-
-// Up the stakes. It was chess. They took that from us. Why was this SUCH a huge story, even for the general public? Why did they care? It wasn't just our favorite board games on the line.
+Computers winning at chess...What once had seemed an impossible feat of artificial intelligence had become an every day example of the power of brute force computing power. By now, humans (like you...and me too) were quite used to losing games to computer opponents.  Just like that time I tried to beat Greece in Diety mode....alright, King mode (I'm not that great).  But humanity, crafty devils that we are, has long had a secret weapon - GO.  And it was just a matter of time before computers came for that too.
 
 [INTRO]
 
 // These lines have been funny when they're semi-non-sequiturs that actually relate in some odd way. These aren't doing that for me right now.
 
+/ Welcome to CompChomp...the only show on the internets where you can talk about atari without having to mention video game crashes.
+/ Welcome to CompChomp...the only show on the internets where Atari won't put any of your pieces in jeopardy.
 / Welcome to CompChomp...the only show on the internets where artificial intelligence and the Tokugawa Shogunate intersect.
 / Welcome to CompChomp...the only show on the internets where a trip to Monte Carlo is a legitimate business expense.
 
-// lead me back to Go first? Since this is part 2 of our story, don't we want the review, the mood, the setup?
 
-Go is old. 5,500 years old to be exact. And people have been playing it continuously for that entire time. So we've had a chance to become experts. And, given the complexity of the game, we needed all the time we could get.
+From the beginning of AI work, GO was considered the impossible dream.  There were games like tic-tac-toe (naughts and crosses for my British friends) that had a small, finite number of possibilities.  Those games could be entirely solved with math - and, if you can solve it with math you don't stand a chance against a computer.  
 
-// And now, in the context of a wider story from part 1 to part 2, the comparison between Go and chess makes sense and doesn't come out of the blue in this technical paragraph
+Chess was tougher as there were too many possible games for it to have a complete mathematical solution.  However, certain pieces, like their majesties the king and queen, are more valuable than others.  This allowed the AI to choose a few moves that favored those pieces, play out the possible results from making those moves and select the single best move. As commputing power improved (allowing the computer to test out more possible moves), this method eventually made computers unstoppable at chess.
 
-From the time we started teaching computers to play games, Go was considered the impossible dream.  There are games like tic-tac-toe (naughts and crosses for my British friends) that have a small, finite number of possibilities.  Games like these have mathematical solutions and if you can solve it with math you don't stand a chance against a computer.  Chess was tougher because there were too many possible games for it to have a mathematical solution.  However, some pieces, like their majesties the king and queen, are more valuable than others.  This gave us the ability to choose a few moves that favored those pieces - the computer could then play out the possible games for those moves and select the single best move overall.  It took a while, but with improved computing power, this method eventually made computers unstoppable in chess.
+Go is different though. You play it by placing a stone on a 19 x 19 grid with a goal of surrounding more territory than your opponent.  There are more possible game combinations than there are atoms in the known universe AND every piece has exactly the same value so the chess approach won't work. As recently as 2015, experts in AI were predicting that we were about 10 years away from having a computer that could defeat a top human Go player.
 
-Go is different though.  It's played by placing a stone on a 19 x 19 grid in order to surround more territory than your opponent.  There are more possible game combinations than there are atoms in the known universe AND every piece has exactly the same value so the chess approach won't work.  Brute force alone would never bring victory to the computers.  As recently as last year, experts in AI were predicting that we were about 10 years away from having a computer that could defeat a top human Go player.
+Then, in January of 2016, a paper was published in the journal Nature detailing the algorithms that had been used by an AI to beat the current European Go champion Fan Hui. And, oh yeah, they'd be matching their computer - AlphaGo - up against Lee Sodol, one of the world's top players in March. Mic drop.
 
-And then, AlphaGo happened.
+#####
+- game 2 off to normal start, trading movies, battling for territory
+  - move 37, piece is plunked down, far side of the board, everyone gasps
+    - not a move a skilled player would make, ctrl rm readout 1:10,000
+    - not one of 30,000,000 seed moves, was it a mistake?
+    - Lee Sodol leaves, takes 20 minutes to move, he's shaken, loses soon after
+- Game 4, Lee Sodol makes an uncommon move, splitting AlphaGo's terrirtory in half
+  - computer is thrown off, loses, score 1 for humanity
+- ends 4 to 1
+  - Lee & Fan are both better players after playing AlphaGo
+- May seem frivolous to wrory about games
+  - applications for this tech in science, comps crunch data, intuit new patterns for humans to check into
+#####
 
-// This is more like reporting... no suspense buildup? No telling us this story like it was the first time we've heard it? What gives? Not feeling this tale, or just want to give it more like an overview?
-
-In October of 2015, AlphaGo, a computer program developed by Google DeepMind faced off against second dan, Fan Hui - the European GO champion.  AlphaGo won all 5 games making this the first time that a computer had defeated a professional human player on the full-sized board without any handicaps.
-
-Five months later, the computer was matched up against Lee Sodol a 9th-dan player (that's 9 dans out of 9), a man widely considered to be one of the top human players.  After five games (played out over 25 loooooong hours), AlphaGo emerged victorious winning 4 of the 5 matches.
 
 // This is getting fun, but doesn't feel as tight as the last story did. What's the difference between the two?
 
