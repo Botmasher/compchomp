@@ -16,11 +16,9 @@ How did we solve it?
 Monte Carlo Tree Search
 
 =========
-Computers winning at chess...What once had seemed an impossible feat of artificial intelligence had become an every day example of the power of brute force computing power. By now, humans (like you...and me too) were quite used to losing games to computer opponents.  Just like that time I tried to beat Greece in Diety mode....alright, King mode (I'm not that great).  But humanity, crafty devils that we are, has long had a secret weapon - GO.  And it was just a matter of time before computers came for that too.
+Computers winning at chess...What once had seemed an impossible feat of artificial intelligence had become an every day example of brute force computing power. By now, humans were quite used to losing games to computer opponents.  Just like that time I tried to beat Greece in Diety mode....alright, King mode (I'm not that great).  But humanity, crafty devils that we are, has long had a secret weapon - GO.  And it was just a matter of time before computers came for that too.
 
 [INTRO]
-
-// These lines have been funny when they're semi-non-sequiturs that actually relate in some odd way. These aren't doing that for me right now.
 
 / Welcome to CompChomp...the only show on the internets where you can talk about atari without having to mention video game crashes.
 / Welcome to CompChomp...the only show on the internets where Atari won't put any of your pieces in jeopardy.
@@ -35,6 +33,14 @@ Chess was tougher as there were too many possible games for it to have a complet
 Go is different though. You play it by placing a stone on a 19 x 19 grid with a goal of surrounding more territory than your opponent.  There are more possible game combinations than there are atoms in the known universe AND every piece has exactly the same value so the chess approach won't work. As recently as 2015, experts in AI were predicting that we were about 10 years away from having a computer that could defeat a top human Go player.
 
 Then, in January of 2016, a paper was published in the journal Nature detailing the algorithms that had been used by an AI to beat the current European Go champion Fan Hui. And, oh yeah, they'd be matching their computer - AlphaGo - up against Lee Sodol, one of the world's top players in March. Mic drop.
+
+\\ Maybe this is where the talk about Monte Carlo Tree Search and Deep Neural Networks should go.  That way we can end with the suspense of the story.....
+
+In game 1, AlphaGo and Lee traded moves for over three hours. They mostly played it safe, testing each other - getting a sense for how the other one played.  Lee lead for most of the game, but in the end, pulled ahead.  Computers 1 - Humans 0.
+
+The second game got off to a similar start - the players traded moves, battling for territory.  Then, on move 37, AlphaGo's black stone was plunked down on the far side of the board.  The people that were watching gasped.  The control room readout calculated the odds of a skilled human making the same move at 1 in 10,000.  This wasn't one of the computer's 30,000,000 training moves. Did the computer make a mistake?  Lee Sodol stood up and walked out.  He returned 20 minutes later and made his move, but the computer had thrown him off.  The game ended soon after.  Computers 2 - Humans 0.
+
+
 
 #####
 - game 2 off to normal start, trading movies, battling for territory
