@@ -2,7 +2,7 @@ This past week I recevieved email from not one but TWO sites I frequently use wa
 
 [INTRO]
 
-Welcome to CompChomp...the only show on the internet wWere digital trypanophobia is a thing! Look it up. Cuz we did.
+Welcome to CompChomp...the only show on the internets wWere digital trypanophobia is a thing! Look it up. Cuz we did.
 
 You and your BFFs get together to crank out your next multi-million dollar app idea - a restaurant finder for dragon lovers.  You build a snazzy login page full of dragony delights.  Then you realize, when someone logs in, you need to store that information somewhere.  You do that in a database.
 
@@ -10,9 +10,9 @@ Think of a database as a bank vault that can be filled with information. Any kin
 
 Structured Query Language (SQL to its friends) is a language used to talk to databases. If we want to torture that bank metaphor a bit more, SQL is like a very simplistic bank teller - as long as you fill out the bank slip correctly, info flows in and out of the vault - no questions asked.
 
-And that setup works great...as long as your database will never be touched by an untrusted source....which is not how most web applications work.  We need to get data from our users into our application.  So we put up forms asking for name, email address and password.  There are fields for telling us what you're searching for.  We add check boxes and radio buttons and encourage people to leave a comment below.  And we definitely want strangers to our apps because Eatz for Dragonloverz will not be successful if your mom is the only one using it.  Especially if she gives it a 1-star rating.  "You haven't called in 3 days." is not legitimate feedback, Mom!
+And that setup works great...as long as your database will never be touched by an untrusted source....which is not how most web applications work.  We need to get data from our users into our application.  So we put up forms asking for name, email address and password.  There are fields for telling us what you're searching for.  We add check boxes and radio buttons and encourage people to leave a comment below.  And we definitely want strangers to use our apps because Eatz for Dragonloverz will not be successful if your mom is the only one using it.  Especially if she gives it a 1-star rating.  "You haven't called in 3 days." is not legitimate feedback, Mom!
 
-So you take what strangers enter into your forms and you send it to your database.  And this works fine because most people want your program to work as expected.  One day, this sly Shady McShadester hears about your app on TechCrunch (Eatz for Dragonloverz is like Uber for Yelp!).  So he signs in and searches for the following restaurant:
+So you take what strangers enter into your forms and you send it to your database.  And this works fine because most people want your program to work as expected.  Until one day when this sly Shady McShadester hears about your app on TechCrunch (Eatz for Dragonloverz is like Uber for Yelp!).  So he signs in and searches for the following restaurant:
 
 '); DELETE FROM Restaurants --
 
@@ -24,7 +24,7 @@ SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Resta
 
 And, suddenly, your entire restaurant table is gone....not your table at the restaurant...your restaurant table in your database.  Though you should probably cancel those reservations because you're going to be spending the rest of the night restoring your database from backups.
 
-This nasty little trick is known as SQL injection.  Mr. McShadester closes out a legitimate transaction with your database then immediately sneaks more SQL commands in there, allowing them to interact with your adata in a way you didn't intend. 
+This nasty little trick is known as SQL injection.  Mr. McShadester closes out a legitimate transaction with your database then immediately sneaks more SQL commands in there, allowing them to interact with your data in a way you didn't intend. 
 
 Thousands of sites are affected every year, but it's got to just be random sites made by 1-2 person teams, right?  Surely these big businesses with their shiny logos and trusted brands that make me scroll through these thousand page contracts know about this. You'd think so, but...
 
