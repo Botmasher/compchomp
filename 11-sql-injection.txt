@@ -1,8 +1,59 @@
-This past week I recevieved email from not one but TWO sites I frequently use warning me about "reused password attacks".  Millions of passwords had been stolen from OTHER sites and the hackers were now trying those logins on sites across the web.  Every year millions of your email addresses, passwords, credit cards (you get the idea) get stolen by hackers.  And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
+img, art, mesh, anim, text, re
+
+ASSETS
+img:	incoming mssg or email icon (Wikimedia?)
+text:	"Reused Password Attack"
+anim:	paper unfurls with text
+art: 	hacker pops maybe from corner
+(intro)
+img: 	crowd silhouette - "You and your BFFs"
+img: 	cell phone bg img
+art: 	restaurant app for dragon lovers mockup (w header) on cellphone
+art: 	cartoon database
+img: 	bank vault door with spinny wheel
+img:	anonymous person icon
+text: 	sexycoder5 -> log_in_count:47 -> 093...
+anim:	page next to Jessica head comes in -> person icon -> text above types
+?img: 	bank teller
+img: 	bank slip that is legal to show
+text:	bank slip APPROVED stamp (Wikimedia)
+re:		cell phone vertical big next to head
+re: 	header/hero banner for eatz for dragons
+img: 	app form input boxes name -> address -> pwd
+img: 	check box el or checkbox icon
+img: 	radio button el or icon
+img: 	comment section img
+anim:	all these pop up below / beside the phone SO MUCH STUFF!
+art:	Sally's mom for mom leaving review
+re: 	the database art
+art: 	Shady
+text: 	typing "'); DELETE FROM Restaurants --"
+text:	typing the full query
+		SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Restaurants -- %’)
+img: 	Italian checkered cloth table
+art:	orange guy eating at table looking down -> look cam -> blink
+anim:	eating at table -> table disappears -> looking cam -> blinking
+art: 	database with needle sticking in him
+re:		shady pops up again
+re:		query text show again
+anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
+art:	cd for Sony (use Quake cd?)
+img:	Harvard hall cutout (should already exist)
+art: 	Russian guy no commie star (russian-badguy from MT-Russia)
+re:		Shady pops up "cant keep shady from using app"
+img:	database with shield up
+text:   clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
+text: 	typing "Prepared Statements"
+text:	Restaurant.where('name LIKE ?', user_input)
+re:		Show shady one more time (can't get into the database)
+re:		subscribe and end card
+img:	previous thumbnail to recommend (Quake Hacks)
+
+This past week two of my favorite websites told me 'hey, change your password!'. There's a scary thing called "reused password attacks".  It's where hackers steal millions of passwords from around the internet and try to login to all your accounts. This happens every year. And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
 
 [INTRO]
 
-Welcome to CompChomp...the only show on the internets wWere digital trypanophobia is a thing! Look it up. Cuz we did.
+Welcome to CompChomp...the only show on the internets where digital trypanophobia is a thing! Look it up. Cuz we did.
 
 You and your BFFs get together to crank out your next multi-million dollar app idea - a restaurant finder for dragon lovers.  You build a snazzy login page full of dragony delights.  Then you realize, when someone logs in, you need to store that information somewhere.  You do that in a database.
 
