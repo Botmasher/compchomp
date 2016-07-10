@@ -1,53 +1,58 @@
-img, art, mesh, anim, text, re
-
 ASSETS
-img:	incoming mssg or email icon (Wikimedia?)
-text:	"Reused Password Attack"
+https://commons.wikimedia.org/wiki/File:1765_BostoniansReadingStampAct.png
+https://commons.wikimedia.org/wiki/File:Emojione_1F354.svg
+https://commons.wikimedia.org/wiki/File:Emojione_1F371.svg
+https://commons.wikimedia.org/wiki/File:Emojione_1F369.svg
+https://commons.wikimedia.org/wiki/File:INTERIOR,_BASEMENT,_SAFE_DEPOSIT_VAULT_DOOR_-_Anglo_and_London_Paris_National_Bank,_One_Sansome_Street,_San_Francisco,_San_Francisco_County,_CA_HABS_CAL,38-SANFRA,144-18.tif
+https://commons.wikimedia.org/wiki/File:Bank_deposit_slip.png
+https://commons.wikimedia.org/wiki/File:CD_icon_test.svg
+
+X 	art:	email icons  (images/props/) -> important ! flashing
+X 	text:	"Reused Password Attack"
 anim:	paper unfurls with text
-art: 	hacker pops maybe from corner
-(intro)
-img: 	crowd silhouette - "You and your BFFs"
-img: 	cell phone bg img
-art: 	restaurant app for dragon lovers mockup (w header) on cellphone
-art: 	cartoon database
-img: 	bank vault door with spinny wheel
-img:	anonymous person icon
-text: 	sexycoder5 -> log_in_count:47 -> 093...
-anim:	page next to Jessica head comes in -> person icon -> text above types
-?img: 	bank teller
-img: 	bank slip that is legal to show
-text:	bank slip APPROVED stamp (Wikimedia)
-re:		cell phone vertical big next to head
-re: 	header/hero banner for eatz for dragons
+X 	art: 	hacker pops up maybe from corner
+X 	(intro)
+X 	img: 	crowd Stamp Act - "You and your BFFs"
+X 	img: 	cell phone bg img
+X 	art: 	restaurant app for dragon lovers mockup (w header) on cellphone
+X	art: 	cartoon database (basic one in images/props/ ?)
+X 	img: 	bank vault door
+X 	img:	net user avatar
+X 	text: 	avatar -> sexycoder5 -> log_in_count:47 -> 093...
+anim:	page next to Jessica head comes in -> person icon -> text above
+X 	img: 	bank icon (originally wanted a bank teller)
+X 	img: 	bank deposit slip
+X 	text:	bank slip APPROVED stamp (images/props/stamp-approved.png)
+X 	re:		cell phone vertical big next to head
+X 	re: 	header/hero banner for eatz for dragons
 img: 	app form input boxes name -> address -> pwd
 img: 	check box el or checkbox icon
 img: 	radio button el or icon
 img: 	comment section img
 anim:	all these pop up below / beside the phone SO MUCH STUFF!
-art:	Sally's mom for mom leaving review
-re: 	the database art
-art: 	Shady
+X 	art:	Sally's mom for mom leaving review (videos/010-progra~/assets/)
+X 	re: 	the database art
+X 	art: 	Shady
 text: 	typing "'); DELETE FROM Restaurants --"
 text:	typing the full query
 		SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Restaurants -- %’)
-img: 	Italian checkered cloth table
-art:	orange guy eating at table looking down -> look cam -> blink
-anim:	eating at table -> table disappears -> looking cam -> blinking
+X 	img: 	Italian checkered cloth table
+X 	art:	orange guy eating look down -> table vanish -> look cam -> blink
 art: 	database with needle sticking in him
-re:		shady pops up again
+X 	re:		shady pops up again
 re:		query text show again
 anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
-art:	cd for Sony (use Quake cd?)
-img:	Harvard hall cutout (should already exist)
-art: 	Russian guy no commie star (russian-badguy from MT-Russia)
-re:		Shady pops up "cant keep shady from using app"
+X 	img:	cd icon for Sony (images/props/)
+X 	img:	Harvard hall cutout (images/stock/harvard.png & harvard-blur.png)
+X 	art: 	Russian guy no commie star (russian-badguy from MT-Russia)
+X 	re:		Shady pops up "cant keep shady from using app"
 img:	database with shield up
-text:   clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
+X 	text:   clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
 text: 	typing "Prepared Statements"
 text:	Restaurant.where('name LIKE ?', user_input)
-re:		Show shady one more time (can't get into the database)
-re:		subscribe and end card
-img:	previous thumbnail to recommend (Quake Hacks)
+X 	re:		Show shady one more time (can't get into the database)
+X 	re:		subscribe and end card
+X 	img:	previous thumbnail to recommend (Quake Hacks)
 
 This past week two of my favorite websites told me 'hey, change your password!'. There's a scary thing called "reused password attacks".  It's where hackers steal millions of passwords from around the internet and try to login to all your accounts. This happens every year. And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
 
