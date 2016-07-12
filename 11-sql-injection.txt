@@ -8,14 +8,14 @@ https://commons.wikimedia.org/wiki/File:Bank_deposit_slip.png
 https://commons.wikimedia.org/wiki/File:CD_icon_test.svg
 
 X X 	art:	email icons  (images/props/) -> important ! flashing
-X 	text:	"Reused Password Attack"
-anim:	paper unfurls with text
+X X 	text:	"Reused Password Attack"
+X X   anim:	paper unfurls with text
 X X 	art: 	hacker pops up maybe from corner
 X X 	(intro)
 X X 	img: 	crowd Stamp Act - "You and your BFFs"
 X X 	img: 	cell phone bg img
 X X 	art: 	restaurant app for dragon lovers mockup (w header) on cellphone
-X X	art: 	cartoon database (basic one in images/props/ ?)
+X X	  art: 	cartoon database (basic one in images/props/ ?)
 X X 	img: 	bank vault door
 X X 	img:	net user avatar
 X X 	text: 	avatar -> sexycoder5 -> log_in_count:47 -> 093...
@@ -23,35 +23,32 @@ X X   anim:	page next to Jessica head comes in -> person icon -> text above
 X X 	img: 	bank icon (originally wanted a bank teller)
 X X 	img: 	bank deposit slip
 X X 	text:	bank slip APPROVED stamp (images/props/stamp-approved.png)
-X 	re:		cell phone vertical big next to head
-X 	re: 	header/hero banner for eatz for dragons
-img: 	app form input boxes name -> address -> pwd
-img: 	check box el or checkbox icon
-img: 	comment section img
-anim:	all these pop up below / beside the phone SO MUCH STUFF!
+X X 	re:		cell phone vertical big next to head
+X X 	re: 	header/hero banner for eatz for dragons
+X X   img: 	app form input boxes name -> address -> pwd
 X X 	art:	Sally's mom for mom leaving review (videos/010-progra~/assets/)
 X X 	re: 	the database art
 X X 	art: 	Shady
-text: 	typing "'); DELETE FROM Restaurants --"
-text:	typing the full query
+X X   text: 	typing "'); DELETE FROM Restaurants --"
+X X   text:	typing the full query
 		SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Restaurants -- %’)
 X X 	img: 	Italian checkered cloth table
 X X 	art:	orange guy eating look down -> table vanish -> look cam -> blink
-X   art: 	database with needle sticking in him
-X 	re:		shady pops up again
-re:		query text show again
-anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
-X 	img:	cd icon for Sony (images/props/)
-X 	img:	Harvard hall cutout (images/stock/harvard.png & harvard-blur.png)
-X 	art: 	Russian guy no commie star (russian-badguy from MT-Russia)
-X 	re:		Shady pops up "cant keep shady from using app"
-X   img:	database with shield up
-X 	text:   clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
-text: 	typing "Prepared Statements"
-text:	Restaurant.where('name LIKE ?', user_input)
-X 	re:		Show shady one more time (can't get into the database)
-X 	re:		subscribe and end card
-X 	img:	previous thumbnail to recommend (Quake Hacks)
+X X   art: 	database with needle sticking in him
+X X 	re:		shady pops up again
+X X   re:		query text show again
+X X   anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
+X X 	img:	cd icon for Sony (images/props/)
+X X 	img:	Harvard hall cutout (images/stock/harvard.png & harvard-blur.png)
+X X 	art: 	Russian guy no commie star (russian-badguy from MT-Russia)
+X X 	re:		Shady pops up "cant keep shady from using app"
+X X   img:	database with shield up
+X X 	text:   clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
+X X   text: 	typing "Prepared Statements"
+X X   text:	Restaurant.where('name LIKE ?', user_input)
+X X 	re:		Show shady one more time (can't get into the database)
+X X	  re:		subscribe and end card
+X X 	img:	previous thumbnail to recommend (Quake Hacks)
 
 This past week two of my favorite websites told me 'hey, change your password!'. There's a scary thing called "reused password attacks".  It's where hackers steal millions of passwords from around the internet and try to login to all your accounts. This happens every year. And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
 
