@@ -43,11 +43,11 @@ img:	thumb
 anim:	sub and ada and border around thumb
 
 
-Humans have always been #1 at board games. Sure, there's been the occassional tic-tac-toe playing rooster that gave us a run for our money, but, on the whole, we dominate. Probably because we invented all the games. But now, there's a new kid in town that threatens to change all that - and that kid runs on code.
+Humans have always been #1 at board games. Sure, there's been the occassional tic-tac-toe playing rooster that gave us a run for our money, but, on the whole, we dominate. Probably because we invented all the games. But there's a new kid in town that threatens to change all that - and that kid runs on code.
 
 [INTRO]
 
-//Welcome to CompChomp, the only show on the internets where player 2 has an eidetic memory...so, flipping the table won't save you
+Welcome to CompChomp, the only show on the internets where player 2 has an eidetic memory...so, flipping the table won't save you
 
 There was a time, not long ago, in fact, so not long ago that your grandma Mimi was probably around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - Things like calculating missle trajectories and cracking war time codes.
 
