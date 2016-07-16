@@ -1,15 +1,57 @@
 ##All Your Games are Belong to Us Pt 1##
 
+art:	Kasparov
+	- default look
+	- blink
+	- thinking 10 moves ahead
+	- face off (against deep blue)
+	- winning
+	- defeated (emotion "Why me?!?!" - good enough for re at end)
+
+art:	Deep Blue
+	- face off (against kasparov)
+	- losing
+	- winning
+
+ASSETS
+img:	tic-tac-toe rooster
+art:	robot arm chess move - game-playing computer
+(intro)
+?art:	grandma
+img:	wwii era computer
+img:	game of nim
+img:	nimatron
+img: 	world's fair
+art:	professor with bow tie "scientists on both sides" (or 2 w natl colors)
+img:	document for translation
+img:	chess
+art:	chess player on table (kasparov) -> thought bubble with leaps
+art:	pawn with king
+img:	old computer -> old computer hole in middle showing no guts
+img:	possibilities chart/table "all the possible outcomes"
+img:	math alert
+img:	hunch the coding dragon
+?text: 	9 quadrillion (with zeroes going on and on)
+img:	nasa mainframe "1950s behemoths" (images/stock)
+art: 	kasparov
+art:	deep blue looking guy (or possible img?)
+art:	brute "computing brute force"
+img:	computer towers (small and stick out visually for bottom of screen)
+anim:	pop up one tower after another
+?re:	kasparaov losing
+img:	thumb
+anim:	sub and ada and border around thumb
+
+
 Humans have always been #1 at board games. Sure, there's been the occassional tic-tac-toe playing rooster that gave us a run for our money, but, on the whole, we dominate. Probably because we invented all the games. But now, there's a new kid in town that threatens to change all that - and that kid runs on code.
 
 [INTRO]
 
-//Welcome to CompChomp, the only show on the internets where algorithms trump instincts.
 //Welcome to CompChomp, the only show on the internets where player 2 has an eidetic memory...so, flipping the table won't save you
 
 There was a time, not long ago, in fact, so not long ago that your grandma Mimi was probably around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - Things like calculating missle trajectories and cracking war time codes.
 
-However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games. (It all started out so innocent!)  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  The Nimatron even had a built in delay between when it calculated its next move and when it could make that move so people wouldn't be too embarrassed when they lost.
+However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games. (It all started out so innocent!)  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  The Nimatron even had a built in delay between calculating it's next move and actually making that move so people wouldn't be too embarrassed when they lost.
 
 As WWII came to a close and the cold war kicked off, computer scientists on both sides of the Iron Curtain dreamed of the day a computer-based intelligence would help them defeat their enemy (or at least quickly translate the enemy's top-secret military documents).  In the push for Artificial Intelligence, the ability to play games like chess began to be seen as a measure of progress for computers. And, in the beginning, computers didn't fare so well.
 
