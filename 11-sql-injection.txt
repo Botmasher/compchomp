@@ -1,15 +1,8 @@
 ASSETS
-https://commons.wikimedia.org/wiki/File:1765_BostoniansReadingStampAct.png
-https://commons.wikimedia.org/wiki/File:Emojione_1F354.svg
-https://commons.wikimedia.org/wiki/File:Emojione_1F371.svg
-https://commons.wikimedia.org/wiki/File:Emojione_1F369.svg
-https://commons.wikimedia.org/wiki/File:INTERIOR,_BASEMENT,_SAFE_DEPOSIT_VAULT_DOOR_-_Anglo_and_London_Paris_National_Bank,_One_Sansome_Street,_San_Francisco,_San_Francisco_County,_CA_HABS_CAL,38-SANFRA,144-18.tif
-https://commons.wikimedia.org/wiki/File:Bank_deposit_slip.png
-https://commons.wikimedia.org/wiki/File:CD_icon_test.svg
 
-X 	art:	email icons  (images/props/) -> important ! flashing
+X X 	art:	email icons  (images/props/) -> important ! flashing
 X 	text:	"Reused Password Attack"
-anim:	paper unfurls with text
+X 	anim:	paper unfurls with text
 X 	art: 	hacker pops up maybe from corner
 X 	(intro)
 X 	img: 	crowd Stamp Act - "You and your BFFs"
@@ -19,37 +12,37 @@ X	art: 	cartoon database (basic one in images/props/ ?)
 X 	img: 	bank vault door
 X 	img:	net user avatar
 X 	text: 	avatar -> sexycoder5 -> log_in_count:47 -> 093...
-anim:	page next to Jessica head comes in -> person icon -> text above
+X 	anim:	page next to Jessica head comes in -> person icon -> text above
 X 	img: 	bank icon (originally wanted a bank teller)
 X 	img: 	bank deposit slip
 X 	text:	bank slip APPROVED stamp (images/props/stamp-approved.png)
 X 	re:		cell phone vertical big next to head
 X 	re: 	header/hero banner for eatz for dragons
-img: 	app form input boxes name -> address -> pwd
+X 	img: 	app form input boxes name -> address -> pwd
 img: 	check box el or checkbox icon
-img: 	radio button el or icon
 img: 	comment section img
 anim:	all these pop up below / beside the phone SO MUCH STUFF!
 X 	art:	Sally's mom for mom leaving review (videos/010-progra~/assets/)
 X 	re: 	the database art
 X 	art: 	Shady
-text: 	typing "'); DELETE FROM Restaurants --"
-text:	typing the full query
-		SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Restaurants -- %’)
+X 	text: 	typing "'); DELETE FROM Restaurants --"
+X 	text:	typing the full query
+X		SELECT Restaurants.* FROM Restaurants WHERE (name LIKE '');
+X 		DELETE FROM Restaurants --%');
 X 	img: 	Italian checkered cloth table
 X 	art:	orange guy eating look down -> table vanish -> look cam -> blink
-art: 	database with needle sticking in him
+X 	art: 	database with needle sticking in him
 X 	re:		shady pops up again
-re:		query text show again
-anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
+X 	text:	query text show again
+X 	anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
 X 	img:	cd icon for Sony (images/props/)
 X 	img:	Harvard hall cutout (images/stock/harvard.png & harvard-blur.png)
 X 	art: 	Russian guy no commie star (russian-badguy from MT-Russia)
 X 	re:		Shady pops up "cant keep shady from using app"
-img:	database with shield up
+X 	img:	database with shield up
 X 	text:   clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
-text: 	typing "Prepared Statements"
-text:	Restaurant.where('name LIKE ?', user_input)
+X 	text: 	typing "Prepared Statements"
+X 	text:	Restaurant.where('name LIKE ?', user_input)
 X 	re:		Show shady one more time (can't get into the database)
 X 	re:		subscribe and end card
 X 	img:	previous thumbnail to recommend (Quake Hacks)
