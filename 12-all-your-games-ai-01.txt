@@ -1,6 +1,14 @@
 ##All Your Games are Belong to Us Pt 1##
 
-art:	Kasparov
+Asset Notes:
+- Nim photo by Mloyola (www.jogosquebracuca.com.br) CC-BY-SA
+- Worlds Fair, RCA Exhibit Building public domain courtesy of Chemical Heritage Foundation (https://en.wikipedia.org/wiki/Chemical_Heritage_Foundation)
+- Worlds Fair, Trylon and Perisphere, public domain courtesy of Joe Haupt (https://www.flickr.com/photos/51764518@N02/14610850613/in/photostream/)
+- Chess Set Long by Jeff Dahl (https://commons.wikimedia.org/wiki/User:Jeff_Dahl  ) CC-BY-SA
+- Chess Set Square by Alan Long (https://en.wikipedia.org/wiki/User:Alight) CC-BY-SA
+- individual chess pieces by Wapcaplet (https://en.wikipedia.org/wiki/User:Wapcaplet) CC-BY-SA
+
+X art:	Kasparov
 	- default look
 	- blink
 	- thinking 10 moves ahead
@@ -14,31 +22,30 @@ art:	Deep Blue
 	- winning
 
 ASSETS
-img:	tic-tac-toe rooster
-art:	robot arm chess move - game-playing computer
 (intro)
-?art:	grandma
-img:	wwii era computer
-img:	game of nim
+X art:	grandma
+X img:	wwii era computer (use computer character)
+X img:	game of nim
 img:	nimatron
-img: 	world's fair
+X img: 	world's fair
 art:	professor with bow tie "scientists on both sides" (or 2 w natl colors)
 img:	document for translation
-img:	chess
+X img:	chess
 art:	chess player on table (kasparov) -> thought bubble with leaps
 art:	pawn with king
+img:  Need to modify mainframe char so he has a hole in da middles
 img:	old computer -> old computer hole in middle showing no guts
-img:	possibilities chart/table "all the possible outcomes"
+?img:	possibilities chart/table "all the possible outcomes"
 img:	math alert
-img:	hunch the coding dragon
+X img:	hunch the coding dragon (images/chars)
 ?text: 	9 quadrillion (with zeroes going on and on)
-img:	nasa mainframe "1950s behemoths" (images/stock)
-art: 	kasparov
+X img:	nasa mainframe "1950s behemoths" (images/stock)
+X art: 	kasparov
 art:	deep blue looking guy (or possible img?)
-art:	brute "computing brute force"
+X art:	brute "computing brute force" (images/chars/brutebot)
 img:	computer towers (small and stick out visually for bottom of screen)
 anim:	pop up one tower after another
-?re:	kasparaov losing
+X re:	kasparaov losing
 img:	thumb
 anim:	sub and ada and border around thumb
 
