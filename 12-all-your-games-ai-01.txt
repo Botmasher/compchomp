@@ -7,6 +7,17 @@ Asset Notes:
 - Chess Set Long by Jeff Dahl (https://commons.wikimedia.org/wiki/User:Jeff_Dahl  ) CC-BY-SA
 - Chess Set Square by Alan Long (https://en.wikipedia.org/wiki/User:Alight) CC-BY-SA
 - individual chess pieces by Wapcaplet (https://en.wikipedia.org/wiki/User:Wapcaplet) CC-BY-SA
+- nimatron from U.S. patents #2215544
+- rus-transfer-of-crimea.jpg is public domain from Wikimedia
+- rus-signed-by-stalin.jpg is public domain from Wikimedia
+- rus-telegram-stalin.jpg is public domain from Wikimedia
+- tower-deep-blue photo by James the photographer (http://flickr.com/photos/jamesthephotographer/) CC-BY
+- tower-blue-gene.jpg by Argonne National Laboratory's Flickr page (http://www.flickr.com/people/35734278@N05) CC-BY-SA
+- tower-solaris.jpg by ChrisDag (http://flickr.com/photos/8558461@N08/866585232) CC-BY-2.0
+- tower-bioinformatics-super-comp.jpg by CSIRO (https://en.wikipedia.org/wiki/Commonwealth_Scientific_and_Industrial_Research_Organisation) CC BY 3.0
+- tower-row-of-servers.jpg by CSIRO (https://en.wikipedia.org/wiki/Commonwealth_Scientific_and_Industrial_Research_Organisation) CC BY 3.0
+- tower-hydra.jpg by Hydra Chess (http://hydrachess.com) CC-BY-SA
+- minimax by Nomen4Omen (https://commons.wikimedia.org/wiki/File:MiniMax_on_game_1or2.svg#/media/File:MiniMax_on_game_1or2.svg) CC-BY-SA 3.0 de
 
 X art:	Kasparov
 	- default look
@@ -16,7 +27,7 @@ X art:	Kasparov
 	- winning
 	- defeated (emotion "Why me?!?!" - good enough for re at end)
 
-art:	Deep Blue
+X art:	Deep Blue
 	- face off (against kasparov)
 	- losing
 	- winning
@@ -26,27 +37,27 @@ ASSETS
 X art:	grandma
 X img:	wwii era computer (use computer character)
 X img:	game of nim
-img:	nimatron
+X img:	nimatron
 X img: 	world's fair
-art:	professor with bow tie "scientists on both sides" (or 2 w natl colors)
-img:	document for translation
+X art:	professor with bow tie "scientists on both sides" (or 2 w natl colors)
+X img:	document for translation
 X img:	chess
-art:	chess player on table (kasparov) -> thought bubble with leaps
-art:	pawn with king
-img:  Need to modify mainframe char so he has a hole in da middles
-img:	old computer -> old computer hole in middle showing no guts
-?img:	possibilities chart/table "all the possible outcomes"
-img:	math alert
+X art:	chess player on table (kasparov) -> thought bubble with leaps
+X art:	pawn with king
+X img:  Need to modify mainframe char so he has a hole in da middles
+anim:	old computer -> old computer hole in middle showing no guts
+X img:	possibilities chart/table "all the possible outcomes"
+X img:	math alert
 X img:	hunch the coding dragon (images/chars)
 ?text: 	9 quadrillion (with zeroes going on and on)
 X img:	nasa mainframe "1950s behemoths" (images/stock)
 X art: 	kasparov
-art:	deep blue looking guy (or possible img?)
+X art:	deep blue looking guy (or possible img?)
 X art:	brute "computing brute force" (images/chars/brutebot)
-img:	computer towers (small and stick out visually for bottom of screen)
+X img:	computer towers (small and stick out visually for bottom of screen)
 anim:	pop up one tower after another
 X re:	kasparaov losing
-img:	thumb
+X img:	thumb
 anim:	sub and ada and border around thumb
 
 
