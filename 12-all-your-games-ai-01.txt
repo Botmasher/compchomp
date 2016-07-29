@@ -18,8 +18,12 @@ Asset Notes:
 - tower-row-of-servers.jpg by CSIRO (https://en.wikipedia.org/wiki/Commonwealth_Scientific_and_Industrial_Research_Organisation) CC BY 3.0
 - tower-hydra.jpg by Hydra Chess (http://hydrachess.com) CC-BY-SA
 - minimax by Nomen4Omen (https://commons.wikimedia.org/wiki/File:MiniMax_on_game_1or2.svg#/media/File:MiniMax_on_game_1or2.svg) CC-BY-SA 3.0 de
+- disco by eeyrsja (http://openclipart.org/media/people/eeyrsja) CC0
+- sad-smiley & happy-smiley A colored Emoji from Noto project, released under Apache license
 
-X art:	Kasparov
+
+
+X X art:	Kasparov
 	- default look
 	- blink
 	- thinking 10 moves ahead
@@ -27,38 +31,46 @@ X art:	Kasparov
 	- winning
 	- defeated (emotion "Why me?!?!" - good enough for re at end)
 
-X art:	Deep Blue
+X X art:	Deep Blue
 	- face off (against kasparov)
 	- losing
 	- winning
 
 ASSETS
 (intro)
-X art:	grandma
-X img:	wwii era computer (use computer character)
-X img:	game of nim
-X img:	nimatron
-X img: 	world's fair
-X art:	professor with bow tie "scientists on both sides" (or 2 w natl colors)
-X img:	document for translation
-X img:	chess
-X art:	chess player on table (kasparov) -> thought bubble with leaps
-X art:	pawn with king
-X img:  Need to modify mainframe char so he has a hole in da middles
-anim:	old computer -> old computer hole in middle showing no guts
-X img:	possibilities chart/table "all the possible outcomes"
-X img:	math alert
-X img:	hunch the coding dragon (images/chars)
-?text: 	9 quadrillion (with zeroes going on and on)
-X img:	nasa mainframe "1950s behemoths" (images/stock)
+X X art:	grandma
+X X img:	wwii era computer (use computer character)
+X X img:	game of nim
+X X img:	nimatron
+X X img: 	world's fair
+X X art:	professor with bow tie "scientists on both sides" (or 2 w natl colors)
+X X img:	document for translation
+X X img:	chess
+X X art:	chess player on table (kasparov) -> thought bubble with leaps
+X X img:  Need to modify mainframe char so he has a hole in da middles
+X X anim:	old computer -> old computer hole in middle showing no guts
+X X img:	possibilities chart/table "all the possible outcomes"
+X X img:	math alert
+X X img:	hunch the coding dragon (images/chars)
+X X text: 	9 quadrillion (with zeroes going on and on)
+X X img:	nasa mainframe "1950s behemoths" (images/stock)
 X art: 	kasparov
 X art:	deep blue looking guy (or possible img?)
-X art:	brute "computing brute force" (images/chars/brutebot)
-X img:	computer towers (small and stick out visually for bottom of screen)
-anim:	pop up one tower after another
-X re:	kasparaov losing
-X img:	thumb
-anim:	sub and ada and border around thumb
+X X art:	brute "computing brute force" (images/chars/brutebot)
+X X img:	computer towers (small and stick out visually for bottom of screen)
+X X anim:	pop up one tower after another
+X X re:	kasparaov losing
+X X img:	thumb
+X X anim:	sub and ada and border around thumb
+
+
+X X engineers built in a delay so people didn't feel so bad when they lost
+X X humans continued to dominate all the way until the 1970s
+first moment when computer players were able to beat high ranking chess players
+X X slightly tweaking the algorithm
+RE: looking at every single possiblity for every possible move
+200 million positions per second and see 6-8 moves ahead
+ripped it in two and sent it to two different museums
 
 
 Humans have always been #1 at board games. Sure, there's been the occassional tic-tac-toe playing rooster that gave us a run for our money, but, on the whole, we dominate. Probably because we invented all the games. But there's a new kid in town that threatens to change all that - and that kid runs on code.

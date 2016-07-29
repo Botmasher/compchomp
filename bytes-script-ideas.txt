@@ -77,3 +77,9 @@
 39. How does AI work in Shooters?
 
 40. Kills screens in games.  DK kill screen (integer overflow) caused time calculation to be wrong and gave only 7 seconds for a level. http://errors.wikia.com/wiki/DK_kill_screen
+
+41. Use previous frame and shift rows in memory register instead of copying and redrawing pixels on screen 'dirty rect' (udacity video, John Carmack, Dangerous Dave in Copywrite Infringement, birth of Id Software) why was it used, is it still a problem (e.g. desktops not being able to render graphics the same way consoles could)
+
+42. The good bad bug (bugs that become features in games)
+
+43. Pixar development - 2 years working on ability to technical animation a realistic looking Shocktopus
