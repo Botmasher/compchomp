@@ -8,64 +8,64 @@ https://commons.wikimedia.org/wiki/File:INTERIOR,_BASEMENT,_SAFE_DEPOSIT_VAULT_D
 https://commons.wikimedia.org/wiki/File:Bank_deposit_slip.png
 https://commons.wikimedia.org/wiki/File:CD_icon_test.svg
 
-X X 	art:	email icons  (images/props/) -> important ! flashing
+X X 	art:	email icons (images/props/) -> important ! flashing
 X X 	text:	"Reused Password Attack"
-X X   anim:	paper unfurls with text
+X X  anim:	paper unfurls with text
 X X 	art: 	hacker pops up maybe from corner
 X X 	(intro)
 X X 	img: 	crowd Stamp Act - "You and your BFFs"
 X X 	img: 	cell phone bg img
 X X 	art: 	restaurant app for dragon lovers mockup (w header) on cellphone
-X X	  art: 	cartoon database (basic one in images/props/ ?)
+X X	 art: 	cartoon database (basic one in images/props/ ?)
 X X 	img: 	bank vault door
 X X 	img:	net user avatar
 X X 	text: 	avatar -> sexycoder5 -> log_in_count:47 -> 093...
-X X   anim:	page next to Jessica head comes in -> person icon -> text above
+X X  anim:	page next to Jessica head comes in -> person icon -> text above
 X X 	img: 	bank icon (originally wanted a bank teller)
 X X 	img: 	bank deposit slip
 X X 	text:	bank slip APPROVED stamp (images/props/stamp-approved.png)
 X X 	re:		cell phone vertical big next to head
 X X 	re: 	header/hero banner for eatz for dragons
-X X   img: 	app form input boxes name -> address -> pwd
+X X  img: 	app form input boxes name -> address -> pwd
 X X 	art:	Sally's mom for mom leaving review (videos/010-progra~/assets/)
 X X 	re: 	the database art
 X X 	art: 	Shady
-X X   text: 	typing "'); DELETE FROM Restaurants --"
-X X   text:	typing the full query
+X X  text: 	typing "'); DELETE FROM Restaurants --"
+X X  text:	typing the full query
 		SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Restaurants -- %’)
 X X 	img: 	Italian checkered cloth table
 X X 	art:	orange guy eating look down -> table vanish -> look cam -> blink
-X X   art: 	database with needle sticking in him
+X X  art: 	database with needle sticking in him
 X X 	re:		shady pops up again
-X X   re:		query text show again
-X X   anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
+X X  re:		query text show again
+X X  anim:	arrow/highlight legitimate query -> arrow/hightlight snuck in extra
 X X 	img:	cd icon for Sony (images/props/)
 X X 	img:	Harvard hall cutout (images/stock/harvard.png & harvard-blur.png)
 X X 	art: 	Russian guy no commie star (russian-badguy from MT-Russia)
 X X 	re:		Shady pops up "cant keep shady from using app"
-X X   img:	database with shield up
-X X 	text:   clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
-X X   text: 	typing "Prepared Statements"
-X X   text:	Restaurant.where('name LIKE ?', user_input)
+X X  img:	database with shield up
+X X 	text:  clean and unclean arrow to "100% Shady's!" "100\% Shady\'s!"
+X X  text: 	typing "Prepared Statements"
+X X  text:	Restaurant.where('name LIKE ?', user_input)
 X X 	re:		Show shady one more time (can't get into the database)
-X X	  re:		subscribe and end card
+X X	 re:		subscribe and end card
 X X 	img:	previous thumbnail to recommend (Quake Hacks)
 
-This past week two of my favorite websites told me 'hey, change your password!'. There's a scary thing called "reused password attacks".  It's where hackers steal millions of passwords from around the internet and try to login to all your accounts. This happens every year. And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
+This past week two of my favorite websites told me 'hey, change your password!'. There's a scary thing called "reused password attacks". It's where hackers steal millions of passwords from around the internet and try to login to all your accounts. This happens every year. And 62.75% of the time (that's not a real percent, but, honestly, most of the time) what screws you over is the most devious, simplest little hack around, oldest trick in the book.
 
 [INTRO]
 
 Welcome to CompChomp...the only show on the internets where digital trypanophobia is a thing! Look it up. Cuz we did.
 
-You and your BFFs get together to crank out your next multi-million dollar app idea - a restaurant finder for dragon lovers.  You build a snazzy login page full of dragony delights.  Then you realize, when someone logs in, you need to store that information somewhere.  You do that in a database.
+You and your BFFs get together to crank out your next multi-million dollar app idea - a restaurant finder for dragon lovers. You build a snazzy login page full of dragony delights. Then you realize, when someone logs in, you need to store that information somewhere. You do that in a database.
 
-Think of a database as a bank vault that can be filled with information. Any kind of information.  From the mundane, 'sexycoder5' has logged in 47 times, to the embarrassing, the fact that my user name is 'sexycoder5' , to the valuable - like my social security number - 093....haha...you didn't think I'd give it away that easy did you?
+Think of a database as a bank vault that can be filled with information. Any kind of information. From the mundane, 'sexycoder5' has logged in 47 times, to the embarrassing, the fact that my user name is 'sexycoder5' , to the valuable - like my social security number - 093....haha...you didn't think I'd give it away that easy did you?
 
 Structured Query Language (SQL to its friends) is a language used to talk to databases. If we want to torture that bank metaphor a bit more, SQL is like a very simplistic bank teller - as long as you fill out the bank slip correctly, info flows in and out of the vault - no questions asked.
 
-And that setup works great...as long as your database will never be touched by an untrusted source....which is not how most web applications work.  We need to get data from our users into our application.  So we put up forms asking for name, email address and password.  There are fields for telling us what you're searching for.  We add check boxes and radio buttons and encourage people to leave a comment below.  And we definitely want strangers to use our apps because Eatz for Dragonloverz will not be successful if your mom is the only one using it.  Especially if she gives it a 1-star rating.  "You haven't called in 3 days." is not legitimate feedback, Mom!
+And that setup works great...as long as your database will never be touched by an untrusted source....which is not how most web applications work. We need to get data from our users into our application. So we put up forms asking for name, email address and password. There are fields for telling us what you're searching for. We add check boxes and radio buttons and encourage people to leave a comment below. And we definitely want strangers to use our apps because Eatz for Dragonloverz will not be successful if your mom is the only one using it. Especially if she gives it a 1-star rating. "You haven't called in 3 days." is not legitimate feedback, Mom!
 
-So you take what strangers enter into your forms and you send it to your database.  And this works fine because most people want your program to work as expected.  Until one day when this sly Shady McShadester hears about your app on TechCrunch (Eatz for Dragonloverz is like Uber for Yelp!).  So he signs in and searches for the following restaurant:
+So you take what strangers enter into your forms and you send it to your database. And this works fine because most people want your program to work as expected. Until one day when this sly Shady McShadester hears about your app on TechCrunch (Eatz for Dragonloverz is like Uber for Yelp!). So he signs in and searches for the following restaurant:
 
 '); DELETE FROM Restaurants --
 
@@ -75,24 +75,24 @@ Which turns into the following SQL query:
 
 SELECT "restaurant".* FROM "restaurants" WHERE (name LIKE ''); DELETE FROM Restaurants -- %’)
 
-And, suddenly, your entire restaurant table is gone....not your table at the restaurant...your restaurant table in your database.  Though you should probably cancel those reservations because you're going to be spending the rest of the night restoring your database from backups.
+And, suddenly, your entire restaurant table is gone....not your table at the restaurant...your restaurant table in your database. Though you should probably cancel those reservations because you're going to be spending the rest of the night restoring your database from backups.
 
-This nasty little trick is known as SQL injection.  Mr. McShadester closes out a legitimate transaction with your database then immediately sneaks more SQL commands in there, allowing them to interact with your data in a way you didn't intend. 
+This nasty little trick is known as SQL injection. Mr. McShadester closes out a legitimate transaction with your database then immediately sneaks more SQL commands in there, allowing them to interact with your data in a way you didn't intend. 
 
-Thousands of sites are affected every year, but it's got to just be random sites made by 1-2 person teams, right?  Surely these big businesses with their shiny logos and trusted brands that make me scroll through these thousand page contracts know about this. You'd think so, but...
+Thousands of sites are affected every year, but it's got to just be random sites made by 1-2 person teams, right? Surely these big businesses with their shiny logos and trusted brands that make me scroll through these thousand page contracts know about this. You'd think so, but...
 
-In 2011, Sony was the target of multiple successful SQL injection hacks.  The largest resulted in the loss of data for over 1,000,000 users, including passwords reportedly stored in plain text.  Ouch!
+In 2011, Sony was the target of multiple successful SQL injection hacks. The largest resulted in the loss of data for over 1,000,000 users, including passwords reportedly stored in plain text. Ouch!
 
-Hackers then turned their attention to the Ivy League.  In 2012, the personal records of thousands of students from top universities were SQLed right into the waiting arms of people that wanted to buy a nice, clean credit record.  I guess that's one positive side effect of crushing student debt...by the time you graduate, no one will want to steal your identity any more.
+Hackers then turned their attention to the Ivy League. In 2012, the personal records of thousands of students from top universities were SQLed right into the waiting arms of people that wanted to buy a nice, clean credit record. I guess that's one positive side effect of crushing student debt...by the time you graduate, no one will want to steal your identity any more.
 
-Not content to steal millions of records at a time, hackers in Russia used a combination of a bot-net and sql injection to steal 1.2 billion username and password combinations from over 400,000 sites. These weren't just small sites made by your cousin's best friend's uncle's kid who sort of knows how to code.  This hack included Fortune 500 websites.
+Not content to steal millions of records at a time, hackers in Russia used a combination of a bot-net and sql injection to steal 1.2 billion username and password combinations from over 400,000 sites. These weren't just small sites made by your cousin's best friend's uncle's kid who sort of knows how to code. This hack included Fortune 500 websites.
 
 The real tragedy here is how easy this is to avoid.
 
-You can't keep Shady from using your app.  But, you can make sure that info he enters is never sent directly to your database.  It should always be sanitized first. You do this by taking the user's data and telling the database to ignore any characters that have special meaning in SQL. That user data will be treated as nothing more than a harmless string!
+You can't keep Shady from using your app. But, you can make sure that info he enters is never sent directly to your database. It should always be sanitized first. You do this by taking the user's data and telling the database to ignore any characters that have special meaning in SQL. That user data will be treated as nothing more than a harmless string!
 
-You should also use prepared statements.  Before any user data is sent in, you send the SQL query to the database with placeholders where the user stuff goes.  This way, the database knows what type of actions it should take for that query.  Later, when a malicious query comes in, the database won't veer from it's previous plan.  Shady McShadester can stuff your form full of all the SQL he wants and your data will still be safe.
+You should also use prepared statements. Before any user data is sent in, you send the SQL query to the database with placeholders where the user stuff goes. This way, the database knows what type of actions it should take for that query. Later, when a malicious query comes in, the database won't veer from it's previous plan. Shady McShadester can stuff your form full of all the SQL he wants and your data will still be safe.
 
-It's a little extra work, but, a very small price to pay to keep your app out of the news for all the wrong reasons.  The last thing we want is for you to see your twitter blow up when Dragonsterauntchamacallit gets hacked and we found out that an anonymous IP address in Russia is threatening to leak your million names, addresses and credit cards. Sanitize that.
+It's a little extra work, but, a very small price to pay to keep your app out of the news for all the wrong reasons. The last thing we want is for you to see your twitter blow up when Dragonsterauntchamacallit gets hacked and we found out that an anonymous IP address in Russia is threatening to leak your million names, addresses and credit cards. Sanitize that.
 
 CHOMP!

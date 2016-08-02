@@ -22,8 +22,8 @@ Some languages to mention?
 
 Make analogy to natural language
  - Don't ask what first language to learn
-  - generally learn the one in the household your born into
-  - interesting if you were born into computer programming languages
-    * I'm from a Ruby household but my husband's family are C developers so I've been having to learn a new language to talk to them
+ - generally learn the one in the household your born into
+ - interesting if you were born into computer programming languages
+  * I'm from a Ruby household but my husband's family are C developers so I've been having to learn a new language to talk to them
  - Like language, it's a tool for communicating
-  - Most important thing to do is start
+ - Most important thing to do is start

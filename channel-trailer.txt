@@ -37,7 +37,7 @@ Hi, NativLang! I’m Jessica, the code girl over at CompChomp. Josh is offering 
 - And how did computers learn to translate anyway?
 - Why doesn’t the name of your favorite dessert make a good password? 
 
-I’m really excited to talk language and code! Stick around NativLang to make that happen.  Oh, and join me over on CompChomp - let’s explore how so much of your world is actually made up of code!
+I’m really excited to talk language and code! Stick around NativLang to make that happen. Oh, and join me over on CompChomp - let’s explore how so much of your world is actually made up of code!
 
 
 

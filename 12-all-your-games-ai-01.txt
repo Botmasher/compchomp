@@ -4,7 +4,7 @@ Asset Notes:
 - Nim photo by Mloyola (www.jogosquebracuca.com.br) CC-BY-SA
 - Worlds Fair, RCA Exhibit Building public domain courtesy of Chemical Heritage Foundation (https://en.wikipedia.org/wiki/Chemical_Heritage_Foundation)
 - Worlds Fair, Trylon and Perisphere, public domain courtesy of Joe Haupt (https://www.flickr.com/photos/51764518@N02/14610850613/in/photostream/)
-- Chess Set Long by Jeff Dahl (https://commons.wikimedia.org/wiki/User:Jeff_Dahl  ) CC-BY-SA
+- Chess Set Long by Jeff Dahl (https://commons.wikimedia.org/wiki/User:Jeff_Dahl ) CC-BY-SA
 - Chess Set Square by Alan Long (https://en.wikipedia.org/wiki/User:Alight) CC-BY-SA
 - individual chess pieces by Wapcaplet (https://en.wikipedia.org/wiki/User:Wapcaplet) CC-BY-SA
 - nimatron from U.S. patents #2215544
@@ -47,7 +47,7 @@ X X art:	professor with bow tie "scientists on both sides" (or 2 w natl colors)
 X X img:	document for translation
 X X img:	chess
 X X art:	chess player on table (kasparov) -> thought bubble with leaps
-X X img:  Need to modify mainframe char so he has a hole in da middles
+X X img: Need to modify mainframe char so he has a hole in da middles
 X X anim:	old computer -> old computer hole in middle showing no guts
 X X img:	possibilities chart/table "all the possible outcomes"
 X X img:	math alert
@@ -79,24 +79,24 @@ Humans have always been #1 at board games. Sure, there's been the occassional ti
 
 Welcome to CompChomp, the only show on the internets where player 2 has an eidetic memory...so, flipping the table won't save you
 
-There was a time, not long ago, in fact, so not long ago that your grandma Mimi was probably around for it, when computers did not play games.  These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - Things like calculating missle trajectories and cracking war time codes.
+There was a time, not long ago, in fact, so not long ago that your grandma Mimi was probably around for it, when computers did not play games. These were serious machines that served serious purposes (purposi? porpoises? like a dolphin?) - Things like calculating missle trajectories and cracking war time codes.
 
-However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games. (It all started out so innocent!)  One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the World's Fair.  Over 50,000 people challenged the computer during the fair, but very few won.  The Nimatron even had a built in delay between calculating it's next move and actually making that move so people wouldn't be too embarrassed when they lost.
+However, even amidst the chaos of WWII, engineers stole moments here and there to teach computers to play games. (It all started out so innocent!) One of the first known examples was the Nimatron which played a math-based game called Nim. It was built by Westinghouse Electric to liven up their booth at the World's Fair. Over 50,000 people challenged the computer during the fair, but very few won. The Nimatron even had a built in delay between calculating it's next move and actually making that move so people wouldn't be too embarrassed when they lost.
 
-As WWII came to a close and the cold war kicked off, computer scientists on both sides of the Iron Curtain dreamed of the day a computer-based intelligence would help them defeat their enemy (or at least quickly translate the enemy's top-secret military documents).  In the push for Artificial Intelligence, the ability to play games like chess began to be seen as a measure of progress for computers. And, in the beginning, computers didn't fare so well.
+As WWII came to a close and the cold war kicked off, computer scientists on both sides of the Iron Curtain dreamed of the day a computer-based intelligence would help them defeat their enemy (or at least quickly translate the enemy's top-secret military documents). In the push for Artificial Intelligence, the ability to play games like chess began to be seen as a measure of progress for computers. And, in the beginning, computers didn't fare so well.
 
-Experts estimate great human chess players can see about 10 moves ahead (5 turns for each player). Using the eyes of their mind...intuition.  Early computers didn't listen to their guts (they didn't have them).  Instead, they calculated all the possible outcomes of the possible moves in order to choose the best one.
+Experts estimate great human chess players can see about 10 moves ahead (5 turns for each player). Using the eyes of their mind...intuition. Early computers didn't listen to their guts (they didn't have them). Instead, they calculated all the possible outcomes of the possible moves in order to choose the best one.
 
 MATH ALERT!!!!
 
-There are roughly 30 legal moves per chess position.  To look at all the possible moves for one turn would be 30 * 30...900.  For two sets of turns you'd multiply another 900 moves for 810,000 total possibilities.  By the time you get to 5 sets of turns there are a nearly one quadrillion possibilities.  That's a whole lot of possibilities.  The thing about that many options is that your shiny quad core pentium 10000 wouldn't be able to crunch all those numbers to figure out the best move in the 3 minutes allowed by tournament play.  Those clunky 1950's behemoths?  Forgetaboutit!  Computers didn't stand a chance.
+There are roughly 30 legal moves per chess position. To look at all the possible moves for one turn would be 30 * 30...900. For two sets of turns you'd multiply another 900 moves for 810,000 total possibilities. By the time you get to 5 sets of turns there are a nearly one quadrillion possibilities. That's a whole lot of possibilities. The thing about that many options is that your shiny quad core pentium 10000 wouldn't be able to crunch all those numbers to figure out the best move in the 3 minutes allowed by tournament play. Those clunky 1950's behemoths? Forgetaboutit! Computers didn't stand a chance.
 
-We had to wait until the 1970s for computer chess programs to start beating high ranking human players.  The computers were only a tiny bit smarter - updated algorithms helped them prune moves that didn't lead to strong positions leaving fewer options to evaluate.  However, most of the gains came from increased computing power.  Crunching those numbers!
+We had to wait until the 1970s for computer chess programs to start beating high ranking human players. The computers were only a tiny bit smarter - updated algorithms helped them prune moves that didn't lead to strong positions leaving fewer options to evaluate. However, most of the gains came from increased computing power. Crunching those numbers!
 
-And it took all the way to 1996 when IBM's Deep Blue faced off with reigning world champion Gerry Kasparov for a computer to finally beat a chess grand master.  In...one...game.  Kasparov actually won the match.  But Deep Blue got computers on the scoreboard.  A year later a highly upgraded version of Deep Blue defeated Kasparov and became the first computer to beat a reigning world champion under tournament conditions.
+And it took all the way to 1996 when IBM's Deep Blue faced off with reigning world champion Gerry Kasparov for a computer to finally beat a chess grand master. In...one...game. Kasparov actually won the match. But Deep Blue got computers on the scoreboard. A year later a highly upgraded version of Deep Blue defeated Kasparov and became the first computer to beat a reigning world champion under tournament conditions.
 
-That souped up version of Deep Blue was able to evaluate 200,000,000 positions per second and would regularly search 6-8 moves ahead.  Although some improvements had been made to the algorithms, once again it was primarily computing brute force that defeated mankind - not superhuman intelligence.
+That souped up version of Deep Blue was able to evaluate 200,000,000 positions per second and would regularly search 6-8 moves ahead. Although some improvements had been made to the algorithms, once again it was primarily computing brute force that defeated mankind - not superhuman intelligence.
 
-Deep Blue retired after that....and by retired I mean we tore it apart and shipped it to two different museums (revenge!).  But it was too late - there were new chess computers every year and by 2006, humans could no longer win...not even one game.  We were down, but not out...we still had GO.
+Deep Blue retired after that....and by retired I mean we tore it apart and shipped it to two different museums (revenge!). But it was too late - there were new chess computers every year and by 2006, humans could no longer win...not even one game. We were down, but not out...we still had GO.
 
 CHOMP!

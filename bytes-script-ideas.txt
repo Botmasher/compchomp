@@ -1,12 +1,12 @@
-1. "Whiteboard Wednesdays" - Fun take on common comp sci problems.  Go over something like 'Fizz Buzz' in a language agnostic way.  Talk about how you tackle the problem.  Give people an idea of what employers are actually checking for when they have you solve these problems.
+1. "Whiteboard Wednesdays" - Fun take on common comp sci problems. Go over something like 'Fizz Buzz' in a language agnostic way. Talk about how you tackle the problem. Give people an idea of what employers are actually checking for when they have you solve these problems.
 
-2. Setting up a development environment - talk about barrier to entry on new tasks, tell story about how I've been helping a lot of beginners troubleshoot and most of them will drop out without even trying because 'not knowing' is embarrassing.  People get frustrated and don't ask for help.  It ends up being a barrier to learning.
+2. Setting up a development environment - talk about barrier to entry on new tasks, tell story about how I've been helping a lot of beginners troubleshoot and most of them will drop out without even trying because 'not knowing' is embarrassing. People get frustrated and don't ask for help. It ends up being a barrier to learning.
 
-3. Ada Lovelace - People think you have to do x, y, and z in order to be a good programmer.  In many instances, they think you need to do those things before you even start learning (e.g. master command line, get better at git, etc).  Ada's story is really cool because she learned to program before the first computer (difference engine) was ever built.
+3. Ada Lovelace - People think you have to do x, y, and z in order to be a good programmer. In many instances, they think you need to do those things before you even start learning (e.g. master command line, get better at git, etc). Ada's story is really cool because she learned to program before the first computer (difference engine) was ever built.
 
-4. George Washington N+1 problem...make it language agnostic though.  Talk about why N+1 is so dangerous in programming.  How to keep an eye out for it.  How to solve it.
+4. George Washington N+1 problem...make it language agnostic though. Talk about why N+1 is so dangerous in programming. How to keep an eye out for it. How to solve it.
 
-5. Nerdy ("nervy") song about programming.  Tons of programming terms, concepts, etc.  Could make a really fun/simple/catchy song.
+5. Nerdy ("nervy") song about programming. Tons of programming terms, concepts, etc. Could make a really fun/simple/catchy song.
 
 6. My attempt to sim the Monty Hall problem. Watched YT video, didn’t quite believe it, had to code it for myself. Story and pseudocode.
 
@@ -76,7 +76,7 @@
 
 39. How does AI work in Shooters?
 
-40. Kills screens in games.  DK kill screen (integer overflow) caused time calculation to be wrong and gave only 7 seconds for a level. http://errors.wikia.com/wiki/DK_kill_screen
+40. Kills screens in games. DK kill screen (integer overflow) caused time calculation to be wrong and gave only 7 seconds for a level. http://errors.wikia.com/wiki/DK_kill_screen
 
 41. Use previous frame and shift rows in memory register instead of copying and redrawing pixels on screen 'dirty rect' (udacity video, John Carmack, Dangerous Dave in Copywrite Infringement, birth of Id Software) why was it used, is it still a problem (e.g. desktops not being able to render graphics the same way consoles could)
 
