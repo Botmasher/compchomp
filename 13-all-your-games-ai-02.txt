@@ -1,6 +1,43 @@
 ##All Your Games are Belong to Us Pt 2##
 
-Computers winning at chess...What once had seemed an impossible feat of artificial intelligence had become an every day example of brute force computing power. By now, humans were quite used to losing games to computer opponents. Just like that time I tried to beat Greece in Diety mode....alright, King mode (I'm not that great). But humanity, crafty devils that we are, has long had a secret weapon - GO. And it was just a matter of time before computers came for that too.
+ASSETS (art, img, anim, text):
+re: deep blue hand sad
+re: deep blue hand victory
+img: Greece icon/flag
+img: something religious - halo maybe
+img: crown
+anim: greece > halo > crown
+img: Go board
+img: tic tac toe
+img: chess pieces
+img: thumb from chess video or still img "didn't I just talk about that?"
+img: go board
+img: white go stone
+img: black go stone
+anim: board with stones being placed one by one (will be done by Jess with the art images)
+img: sky full of stars (stock/space-1)
+text: stylized text on ripped paper look article title
+anim: alphago plug hand +/- green alian emoji raising hand in victory "beat European champion"
+anim: alphago hand bring it on gesture "facing off against lee sodol"
+re: sky full of stars
+img: tree search
+img: monte carlo tree search illustration
+img: brain "inspired by the brains of mammals"
+anim: circle "processors"
+anim: connected circles "connected neurons"
+anim: antenna beeping on and off "senses"
+anim: circle scaling to give sense of pulsing "send messages"
+anim: alphago guessing moves "guess the human moves 57% of the time"
+anim: alphago vs alphago "played evil version of itself"
+anim: alphago vs lee, lee intense thinking, alphago touch board, lee sad, alphago victory hand "computers 1, humans 0"
+art: go board set up for move 37 (Jess does this w/previous assets)
+anim: lee thinking, lee scrutiny, lee stands up and walks out
+anim: lee resigns, alphago victory hands "computers 2, humans 0"
+anim: old computer -> old computer tipped over
+img: emoji of movie reels or vhs cassette (already in folder)
+
+
+Computers winning at chess. In the beginning, it was a nearly unattainable feat of artificial intelligence, but it quickly became an every day example of brute force computing power. Humans had grown very used to losing to  computer opponents. Like that time I tried to beat Greece in Diety mode....alright, King mode (I'm not that great). But humanity, crafty devils that we are, has long had a secret weapon - Go. And it was just a matter of time before computers came for that too.
 
 [INTRO]
 
@@ -10,24 +47,24 @@ From the beginning of AI work, GO was considered the impossible dream. Some game
 
 Go is different though. You play it by placing a stone on a 19 x 19 grid - the goal: surround more territory than your opponent. There are more possible game combinations than there are atoms in the known universe AND every piece has exactly the same value so the chess approach won't work. As recently as 2015, experts in AI were predicting that we were 10 years away from having a computer that could win against a top human player.
 
-Then, the January 2016 issue of the journal Nature dropped with an interesting little story about the algorithms that had been used by a Google-backed AI to beat the current European Go champion, Fan Hui. And, BTW's, their AI, AlphaGo would be facing off against one of the world's top players, Lee Sodol, in March. Mic drop.
+Then, the January 2016 issue of the journal Nature came out with an interesting little story about the algorithms a Google-backed AI used to beat the current European Go champion. And, BTW's, that same AI, AlphaGo would be facing off against one of the world's top players, Lee Sodol, in March. Mic drop.
 
 What had changed between those expert predictions and the rise of the machines? Advancements in machine learning! 
 
-Since GO has so many possible moves during each turn (that whole more atoms than the universe thing) an AI can't search through every move to determine the best one. Instead, they use an algorithm called Monte Carlo Tree Search. The computer takes a random sample of the possible moves, checks out the likely outcomes for each of those moves, then chooses the best option from that sample. AlphaGo is no different than other not-so-skilled GO playing computers on this front.
+Since GO has so many possible moves during each turn (that whole more atoms than the universe thing) an AI can't search through every move to determine the best one. Instead, computers use an algorithm called Monte Carlo Tree Search. The computer takes a random sample of the possible moves, calculates the likely outcome for each of those moves, then chooses the best option from that sample. AlphaGo is no different than other not-so-skilled Go playing computers on this front.
 
 What sets AlphaGo apart is its use of deep learning to help prune less desirable options during the Monte Carlo Tree Search. What's deep learning? Why I'm ever so glad you asked!
 
-Deep learning is a type of artificial neural network inspired by the fancy little brains of mammals. Brains have neurons. ANNs have simple processors. Neurons are connected to each other....so are the processors. A brain can get input from various senses (like vision). A neural network has sensors that take in information about the world too. And, similar to how a brain passes messages from neuron to neuron in order to make decisions, with Deep Learning, inputs travel through layers of connected processors getting transformed along the way based on parameters the system has 'learned' through training.
+Deep learning is a type of artificial neural network inspired by the fancy little brains of mammals. Brains have neurons. Artificial Neural Networks have simple processors. Neurons are connected to each other....so are the processors. A brain can get input from various senses (like vision, hearing, touch). A neural network has sensors that take in information about the world too. And, similar to how a brain passes messages from neuron to neuron in order to make decisions, with Deep Learning, inputs travel through layers of connected processors getting transformed along the way based on parameters the system has 'learned' through training.
 
-AlphaGo's training started with an initial data set of 30 million moves made by human experts. It worked with this data until it could correctly predict the human move 57% of the time. Then, it was matched up against a slightly modified version of itself to actually play Go. The results of each game were fed back into AlphaGo's network helping it to make even better decisions on which options to prune during the Monte Carlo Tree Search. After playing thousands of games against it's evil twin and hundreds against the European Champion, AlphaGo was ready.
+AlphaGo's training started with an initial data set of 30 million moves made by human experts. It worked with this data until it could correctly predict a human player's move 57% of the time. Then, it was matched up against a slightly modified version of itself to actually play Go. The results of each game were fed back into AlphaGo's network helping it to make even better decisions on which options to prune during the Monte Carlo Tree Search. After playing thousands of games against it's evil twin and hundreds against the European Champion, AlphaGo was ready.
 
 Game one saw AlphaGo and Lee trade moves for over three hours. Both sides seemed to be playing it safe. They tested each other, trying to get a sense for how their opponent played the game. Lee was in the lead for most of the game, but, in the end, AlphaGo pulled ahead. Computers 1 - Humans 0.
 
-The second game got off to a siilar start - human and computer trading moves, battling for territory. Then, on the 37th move, AlphaGo's black stone was plunked down on the far side of the board. The watching experts were shocked. Lee stared at the board, then stood up and walked out.  AlphaGo's control room readout calculated the odds of a skilled human making the same move at 1 in 10,000. This move was so unexpected that it wasn't even one of the 30,000,000 training moves. Had AlphaGo made a mistake? Lee returned after a long 15-minute break and made his move, but it seemed the computer had thrown him off. He fought on, but, he was unable to regain the advantage.  4 hours later, he resigns. Computers 2 - Humans 0.
+The second game got off to a similar start - human and computer trading moves, battling for territory. Then, on the 37th move, AlphaGo's black stone was plunked down on the far side of the board. The watching experts were shocked. Lee stared at the board, then stood up and walked out.  AlphaGo's control room readout calculated the odds of a skilled human making the same move at 1 in 10,000. This move was so unexpected that it wasn't even one of the 30,000,000 training moves. Had AlphaGo made a mistake? Lee returned after a long 15-minute break and made his move, but it seemed the computer had thrown him off. He fought on, but, he was unable to regain the advantage.  4 hours later, he resigned. Computers 2 - Humans 0.
 
 But this...this is the moment that humanity rallies. We fight back and defeat the evil computers.  Victory!!!!!  Errrrrrrhn!  This isn't one of your summer action flicks.  This is real life.  AlphaGo won 4 out of the 5 games and took the tournament.  It wasn't a complete route, but, Go is no longer a human-only domain.
 
-So, with this loss, is time to fear our robot overlords? Not-so-much. GO is still a fixed domain with a defined goal. Ask AlphaGo to play chess and it will probably do worse than my kid sister. Maybe not...I haven't got a kid sister.
+So, with this loss, is time to fear our robot overlords? Not-so-much. Ask AlphaGo to play chess and it will probably do worse than my kid sister. Maybe not...I haven't got a kid sister.
 
 CHOMP!
