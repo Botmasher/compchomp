@@ -12,7 +12,7 @@
 
 7. Ambiguity! Logic, “stolen painting found by tree” ;) and why computers need consistency (but high-level languages fight over whether or not to have overloaded operators like +)
 
-8. Example.com domain - who owns it, dos anyone see all the email sent to @example.com, could you do any interesting data analysis of which test email Addie's get used (jessica@ vs dkwon@), is it in other languages (ejemplo.com por ejemplo)
+8. Example.com domain - who owns it, does anyone see all the email sent to @example.com, could you do any interesting data analysis of which test email Addie's get used (jessica@ vs dkwon@), is it in other languages (ejemplo.com por ejemplo)
 
 9. Ada Lovelace - talk about her poet father and how her mom wanted her to be a scientist, corresponded with Babbage about his analytics engine,wrote algorithm before it was built (chicken egg situation but programming came first)
 
