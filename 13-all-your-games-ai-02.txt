@@ -54,7 +54,7 @@ X img:  thumb
 anim: sub and ada and border around thumb
 
 
-Computers winning at chess. In the beginning, it was a nearly unattainable feat of artificial intelligence, but it quickly became an every day example of brute force computing power. Humans had grown very used to losing to  computer opponents. Like that time I tried to beat Greece in Diety mode....alright, King mode (I'm not that great). But humanity, crafty devils that we are, has long had a secret weapon - Go. And it was just a matter of time before computers came for that too.
+Computers winning at chess. In the beginning, it was a nearly unattainable feat of artificial intelligence, but it quickly became an every day example of brute force computing power. Humans had grown very used to losing to  computer opponents. Like that time I tried to beat Greece in Deity mode....alright, King mode (I'm not that great). But humanity, crafty devils that we are, has long had a secret weapon - Go. And it was just a matter of time before computers came for that too.
 
 [INTRO]
 
