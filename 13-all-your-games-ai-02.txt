@@ -1,55 +1,56 @@
 ##All Your Games are Belong to Us Pt 2##
 
 Asset Origins:
-greek-flag.png from -xfi- (https://en.wikipedia.org/wiki/User:-xfi-) under Public Domain (https://commons.wikimedia.org/wiki/File:Blank_Go_board.png)
+greek-flag.png from -xfi- (https://en.wikipedia.org/wiki/User:-xfi-) under Public Domain (https://en.wikipedia.org/wiki/en:public_domain)
 halo.svg from Nae'blis (https://en.wikipedia.org/wiki/User:Nae%27blis) under GNU Free Documentation License (https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License)
 crown.png from Baronale (https://commons.wikimedia.org/w/index.php?title=User:Baronale&action=edit&redlink=1) under CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)
-go-board-blank.png from Dbenbenn (https://commons.wikimedia.org/wiki/User:Dbenbenn) under Public Domain (https://commons.wikimedia.org/wiki/File:Blank_Go_board.png)
+go-board-blank.png from Dbenbenn (https://commons.wikimedia.org/wiki/User:Dbenbenn) under Public Domain (https://en.wikipedia.org/wiki/en:public_domain)
 go-board-playing.jpg by Fcb981 (https://en.wikipedia.org/wiki/User:Fcb981) under GNU Free Documentation License (https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License)
 tic-tac-toe.jpg by San Jose (https://commons.wikimedia.org/wiki/User:San_Jose) under CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)
 chess-set-square.jpb by Alan Long (https://en.wikipedia.org/wiki/User:Alight) under CC-BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)
 monte-carlo-tree-search.png by Mciura (https://commons.wikimedia.org/w/index.php?title=User:Mciura&action=edit&redlink=1) under CC-BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)
 human-brain.png by Shannan Muskopf (https://commons.wikimedia.org/w/index.php?title=User:Shannan_Muskopf&action=edit&redlink=1) under CC-BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)
+smiley-green-alien.svg by LadyofHats(https://commons.wikimedia.org/wiki/User:LadyofHats) under Public Domain (https://en.wikipedia.org/wiki/en:public_domain)
+pruning-shears.jpg by BlickPixel (https://pixabay.com/en/pruning-shears-autumn-garden-535350/) under CC0 Public Domain
 
 ASSETS (art, img, anim, text):
-X re: deep blue hand sad
-X re: deep blue hand victory
-X img: Greece icon/flag
-X img: something religious - halo maybe
-X img: crown
-anim: greece > halo > crown
-X img: Go board with action (go-board-playing)
-X img: tic tac toe
-X img: chess pieces (ai-chess/chess-set-square)
-X img: thumb from chess video or still img "didn't I just talk about that?" (thumb.png)
-X img: go board blank
-X img: white go stone
-X img: black go stone
-anim: board with stones being placed one by one (will be done by Jess with the art images)
-X re: sky full of stars (stock/space-1)
-text: stylized text on ripped paper look article title (
+X X re: deep blue hand victory
+X X img: Greece icon/flag
+X X img: something religious - halo maybe
+X X img: crown
+X X anim: greece > halo > crown
+X X img: Go board with action (go-board-playing)
+X X img: tic tac toe
+X X img: chess pieces (ai-chess/chess-set-square)
+X X img: thumb from chess video or still img "didn't I just talk about that?" (thumb.png)
+X X img: go board blank
+X X img: white go stone
+X X img: black go stone
+X X anim: board with stones being placed one by one (will be done by Jess with the art images)
+X X re: sky full of stars (stock/space-1)
+X X text: stylized text on ripped paper look article title (
 Mastering the game of Go with deep neural networks and tree search
 D. Silver, A. Huang, et. al.
 Nature 529 (7587) 484-489
 )
-anim: alphago plug hand +/- green alian emoji raising hand in victory "beat European champion"
-anim: alphago hand bring it on gesture "facing off against lee sodol"
-X re: sky full of stars
+X X anim: alphago plug hand +/- green alian emoji raising hand in victory "beat European champion"
+X X anim: alphago hand bring it on gesture "facing off against lee sodol"
+X X re: sky full of stars
 X re: tree search (ai-chess/assets/minimax.png)
-X img: monte carlo tree search illustration
-X img: brain "inspired by the brains of mammals"
-anim: circle "processors"
-anim: connected circles "connected neurons"
-anim: antenna beeping on and off "senses" (antenna from cell phone time video)
-anim: circle scaling to give sense of pulsing "send messages"
-anim: alphago guessing moves "guess the human moves 57% of the time"
-anim: alphago vs alphago "played evil version of itself"
+X X img: monte carlo tree search illustration
+X X img: brain "inspired by the brains of mammals"
+X X anim: circle "processors"
+X X anim: connected circles "connected neurons"
+X X anim: antenna beeping on and off "senses" (antenna from cell phone time video)
+X X anim: circle scaling to give sense of pulsing "send messages"
+X X anim: alphago guessing moves "guess the human moves 57% of the time"
+X X anim: alphago vs alphago "played evil version of itself"
 anim: alphago vs lee, lee intense thinking, alphago touch board, lee sad, alphago victory hand "computers 1, humans 0"
-X art: go board set up for move 37 (Jess does this w/previous assets)
+X X art: go board set up for move 37 (Jess does this w/previous assets)
 anim: lee thinking, lee scrutiny, lee stands up and walks out
 anim: lee resigns, alphago victory hands "computers 2, humans 0"
-anim: old computer -> old computer tipped over (chars/mainframe char)
-X img: emoji of movie reels or vhs cassette (props/vhs_attr_emojione.png)
+X X anim: old computer -> old computer tipped over (chars/mainframe char)
+X X img: emoji of movie reels or vhs cassette (props/vhs_attr_emojione.png)
 X img:  thumb
 anim: sub and ada and border around thumb
 
