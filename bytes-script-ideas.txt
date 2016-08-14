@@ -84,6 +84,10 @@
 
 43. Pixar development - 2 years working on ability to technical animation a realistic looking Shocktopus
 
-44. Voting Machines and how they work.
+44. Voting Machines and how they work - can they be hacked?
 
 45. How do game coders deal with / work around lagbots? History and dev. (see also #39)
+
+46. Procedurally generated levels and No Man's Sky
+
+47. Talking about general artificial intelligence and how it can analogize from one task to another (mentioned at end of Go - AlphaGo good at Go, but can't even play chess)
