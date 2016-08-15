@@ -1,7 +1,0 @@
-1. Airplane autopilot OR terrain monitor - possible collab with the airplane guy
-2. What's so cool about quantum computing?
-3. How does AI decide who lives and who dies in a car crash?
-4. How does AI work in Shooters?
-5. Kills screens in games. DK kill screen (integer overflow) caused time calculation to be wrong and gave only 7 seconds for a level. http://errors.wikia.com/wiki/DK_kill_screen
-
-Comparisons (choose a good performer and bad performer:

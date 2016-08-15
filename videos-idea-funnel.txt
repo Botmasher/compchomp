@@ -7,11 +7,11 @@ Describe topic in one sentence. Choose relevant kws (new vid) or use title terms
 +1 if close to already popular topic / current successful topic 
  
 2. INTERNETABLE TOPIC? 
-+2 for at least one vid kw that's high vol, low compet, high relevance 
-+1 for at least one series kw that's high vol, low compet, high relevance 
++2 for multiple kws with high vol, low compet, high relevance 
++1 for at least one kw that's decent vol, low compet, high relevance 
  
 3. EVERGREEN? 
-+1 if kw has more vol than current top 5 
++1 if kw has more vol than current top 3
  
 4. TENTPOLE? 
 +1 if YT/Google Trends or holiday 
@@ -20,13 +20,14 @@ Describe topic in one sentence. Choose relevant kws (new vid) or use title terms
 +1 if high vol media/pop culture sourceable 
  
 6. RETT & LINK? 
-+1 if the 10 words people will use to desc vid to friends match kws 
++1 if the 10 words people will use to desc vid to friends match kws and people are excited to share it.
  
 7. TIME COST? 
 +1 if can block shoot/anim or lower time cost over previous vids 
  
 8. FAN PULSE? 
 +2 if fans truly care on G+, Tw, friends and fam 
++1 if it seems like fans would watch and enjoy it
  
 9. SUCCESS? 
 +1 if likes/subs/views and watch time will best a similar vid in top 5 
@@ -37,7 +38,7 @@ Describe topic in one sentence. Choose relevant kws (new vid) or use title terms
 11. YT COMPETITION? 
 -1 for each of top 3 results that already have good views and thumbs 
  
-12. SHARABLE MOMENTS? 
+12. SHAREABLE MOMENTS? 
 +1 for each moment tied to relevant, high-vol, low comp kw that can be reduced to a simple table, list or diagram. Go back up and add +1 to time cost if >0 sharable moments can be used as a stand-alone video as well 
  
 C. TADAAAAH! 

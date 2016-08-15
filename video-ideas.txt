@@ -1,0 +1,195 @@
+1. Voting Machines and how they work - can they be hacked?
+
+Can electronic voting machines be hacked?
+
+Similar? +1
+Internetable? +0 at best, 320 searches, low competition/low volume
+Evergreen? +0 (ran against Stallman, Quake and Elevators)
+Tentpole? +1 presidential election
+Piggyback? +1 if I can tie it into things people care about this election season
+Rett & Link? +1 if find a way to make it interesting
+Time Cost? +1
+Fan Pulse? +0
+Success? +.5 if it attracts similar attention to Elevator
+Dry? -0
+YT Competition? -1 for Tom Scott/Computerphile
+Shareable Moments? +1 (silhouette of how it works)
+Total is 5.5 points can do it
+
+KW: electronic voting machines, electronic voting, evoting machines, electronic voting machine, voting machine rigged, voting machine hacked
+
+
+2. Procedurally generated levels and No Man's Sky
+
+How procedurally generated levels give you infinite worlds to explore in No Man's Sky.
+
+Similar? +1 procedural generation no man's sky 31k+ views
+Internetable? +1 seems to be interest in the game and procedural generation, not clear that there's interest in those two together
+Evergreen? +0 unless game is super pop forever
+Tentpole? +0
+Piggyback? +1 video game is popular today
+Rett & Link? +1 gamer topic that gamers would share
+Time Cost? +1 if I can get footage of the game and can digest procedural generation in NMS
+Fan Pulse? +1 people on my channel seem to like video games and this one's a popular one right now
+Success? +0 can't tell
+Dry? +1
+YT Competition? -1 Gamespot
+Shareable Moments? +1 diagram of procedural generation, +1 if can explain that during game play
+Total is: 7-8 but iffy to pull off
+
+KW: no mans sky, no mans sky procedural generation, how no mans sky works, no mans sky level generation
+
+
+3. How does AI decide who lives and who dies in a car crash?
+
+How does a self-driving car decide who lives and who dies in a car crash?
+
+Similar? +1 sci show, google, etc
+Internetable? +1 self driving car, self driving car accidents, how self driving cars work
+Evergreen? +1 more than elevators, less than Quake
+Tentpole? +0
+Piggyback? +0
+Rett & Link? +1 trolly problem, ethics of car algos
+Time Cost? +0 research cost is high, also some diagrams/silhouette anims will have to be there
+Fan Pulse? +2 saw good traction on sci show fans liking the topic, similar fan types
+Success? +1 good indication it could be #2 video (behind Quake)
+Dry? -0
+YT Competition? -2 SciShow and Seeker Network (SN vid is about the death algo)
+Shareable Moments? +0
+Total is 5 but can def be done
+
+KW
+self driving cars, self driving car, self driving car crashes, self driving car crash, self driving car accidents, self driving car accident, how self driving cars work, autonomous car crash, autonomous car accidents, how self driving cars decide, how self driving cars make decisions, how autonomous vehicles make decisions
+
+
+4. How does AI work in Shooters?
+
+How does enemy AI work in a first person shooter?
+
+Similar? +1 quake hacks shows there's an interest in FPS code
+Internetable? +0 low search volume on video game ai, no volume showing for other terms
+Evergreen? +1 def interest in video game ai and shooter code
+Tentpole? +0
+Piggyback?  +.5 shooters are always popular in video game searches
+Rett & Link? +1 do this well and gamers will share it
+Time Cost? +1 potentially if we can get any sort of game play footage
+Fan Pulse? +2 Quake is my fans favorite video so far
+Success? +1 expect it to do around as well as Quake
+Dry? -0
+YT Competition? -0 no simliar videos for FPS ai
+Sharable Moments? +1 ai glitches, quirky video game moment, Oh - that's how that works!, etc
+Total is 8.5
+
+KW: fps ai,first person shooter ai,enemy logic fps,how does enemy ai work in fps,enemy ai fps,artificial intelligence fps,artificial intelligence shooters,video game ai,shooter ai
+
+5. Airplane autopilot
+
+How computers are flying planes across country.
+
+Similar? +0
+Internetable? +1 autopilot
+Evergreen? +1
+Tentpole? +0
+Piggyback? +0
+Rett & Link? +0 (but how-it-works peeps could like it, not sure it'll be shared much)
+Time Cost? +1
+Fan Pulse? +1 (for the how-tos)
+Success? +0
+Dry? -0
+YT Competition? -0
+Sharable Moments? +1 illustrating this is how it works, +1 storytelling Athens disastro/catastrophe
+Total is 5-6 doable
+
+KW:
+airplane auto pilot, airplane autopilot, airplane ai, aviation ai
+
+6. Which programming language should I learn?
+
+Here's which programming language I should learn.
+
+Similar? +0
+Internetable? +2
+Evergreen? +1
+Tentpole? +0
+Piggyback? +0
+Rett & Link? +0
+Time Cost? +1
+Fan Pulse? +1 (but also controversy)
+Success? +0
+Dry? -0
+YT Competition? -2-3
+Sharable Moments? +1 personal story of getting into programming
+Total is 3-4
+
+KW: which programming language should I learn, best programming language, best programming languages, programming language to learn, programming languages to learn
+
+
+V1. Quake Hacks
+
+How Quake fooled gamers into thinking there was a fully lit world
+
+Similar? +0
+Internetable? +1 good volume on Carmack and fast inverse square root
+Evergreen? +1
+Tentpole? +0
+Piggyback? +0
+Rett & Link +1 cool video game/math/code topic about a classic game
+Time Cost? +1 able to use open source game footage
+Fan Pulse? +1 people care about video games and this is a classic
+Success? +1 good volume, relevant topic
+Dry? -0
+YT Competition? -0
+Shareable Moments? +1 actual code (WTF), +1 cartoon Carmack shows up and talks through game play footage
+Total score is 7-8
+
+KW:
+quake hacks,fast inverse square root,fast inverse sqrt,john carmack,carmack quake,quake fooled gamers
+
+
+V2. Stallman & Passwords
+
+Why a guy named Richard Stallman fought against the birth of passwords
+
+Similar? +1 other password video is doing well (at the time)
+Internetable? +1 decent search for Stallman
+Evergreen? +1 Stallman's name super popular
+Tentpole? +0 ya kiddin' me?
+Piggyback? +0
+Rett & Link? +1 story aspect
+Time Cost? +0
+Fan Pulse? +1 care about pws
+Success? +1 if they like the story
+Dry? -1 having used passwords
+YT Competition? -0
+Sharable Moments? +1 storytelling + climax
+Total score is 6-7
+
+KW: richard stallman, stallman passwords, stallman password, stallman pw, time sharing system, stallman
+
+V3. How Elevators Work
+
+How do elevator algorithms decide which floor to go to?
+
+Similar? +0
+Internetable? +1 (alright vol for how elevators work)
+Evergreen? +1
+Tentpole? +0
+Piggyback? +0
+Rett & Link? +0
+Time Cost? +1
+Fan Pulse? +0
+Success? +1
+Dry? -0
+YT Competition? -0
+Shareable Moments? +1 explaining elevator in NY, +1 explaining elevator in Dubai
+Total score is 5-6
+
+KW: elevator algorithms, elevator computers, elevator code, elevator ai, how do elevators work, how do elevators think
+
+
+## To Do Later ##
+6. Kills screens in games. DK kill screen (integer overflow) caused time calculation to be wrong and gave only 7 seconds for a level. http://errors.wikia.com/wiki/DK_kill_screen
+
+
+7. How do game coders deal with / work around lagbots? History and dev. (see also #39)
+
