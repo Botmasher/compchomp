@@ -1,0 +1,53 @@
+## Sources ##
+- good research and examples http://www.cs.unm.edu/~pdevineni/papers/Yeruva.pdf
+
+## Notes ##
+
+Very simple, initially
+  - move toward the player
+  - shoot
+    * stop when you die or player dies
+Use rules based systems or finite state machines (as of 2003)
+Computer controlled enemies stay at a particular skill level and generally stick to a fixed series of rules throughout the game
+  - human players are constantly learning from fighting previous battles & their characters are usually leveling up
+Playing with actual AI in an FPS
+  - machine learning to teach a bot how to play a shooter
+  - reinforcement learning so a bot learns which moves are better under given circumstances
+AI used to be entirely offensive or defensive if a player entered a given area
+Now 
+  - AI 'hunts'
+    * reacts to signs of the player's existence (e.g. sound of footsteps or a footprint in the dirt)
+  - AI has 'survival instinct'
+    * hides if he's out of bullets and needs to reload
+    * looks for cover in area before attacking player
+"Monster Infighting"
+  - popularized with Doom
+  - monsters reacted to being attacked
+  - if you get a monster to 'friendly fire' another monster when trying to attack you, the two sets of monsters will start fighting
+The AI in most modern games addresses three basic needs: 
+  - the ability to move characters
+  - the ability to make decisions about where to move
+  - the ability to think tactically or strategically
+"Behavior Tree" technology (popularized Halo 2) very popular in FPS industry
+F.E.A.R. First Encounter Assault Recon
+  - AI uses a planner to generate context-sensitive behaviors, the first time in a mainstream game
+  - This technology used as a reference for many studios still today.
+Pong is an early example of computer AI
+  - can't pre-script the pattern the computer opponent follows
+  - has to react to game situation as it unfolds
+  - simple calculation, but still had to be done 'on the fly'
+Half-Life
+  - praised for quality of it's ai
+  - Finite State Machines (FSM)
+  - Decision Trees
+  - Fuzzy Logic
+Quake
+  - reaper bot would follow path of human player and shoot with deadly accuracy
+  - standing still would confuse it
+
+TODAY
+  - percentage of CPU cycles left to process game AI is still limited
+
+Doom (1993)
+  - ai either runs toward player and attacks or walks around
+
