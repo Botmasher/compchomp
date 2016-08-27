@@ -1,0 +1,53 @@
+## Notes ##
+
+Very simple, initially
+  - move toward the player
+  - shoot
+    * stop when you die or player dies
+Use rules based systems or finite state machines (as of 2003)
+Computer controlled enemies stay at a particular skill level and generally stick to a fixed series of rules throughout the game
+  - human players are constantly learning from fighting previous battles & their characters are usually leveling up
+Playing with actual AI in an FPS
+  - machine learning to teach a bot how to play a shooter
+  - reinforcement learning so a bot learns which moves are better under given circumstances
+AI used to be entirely offensive or defensive if a player entered a given area
+Now 
+  - AI 'hunts'
+    * reacts to signs of the player's existence (e.g. sound of footsteps or a footprint in the dirt)
+  - AI has 'survival instinct'
+    * hides if he's out of bullets and needs to reload
+    * looks for cover in area before attacking player
+"Behavior Tree" technology (popularized Halo 2) very popular in FPS industry
+F.E.A.R. First Encounter Assault Recon
+  - AI uses a planner to generate context-sensitive behaviors, the first time in a mainstream game
+  - This technology used as a reference for many studios still today.
+Pathfinding
+  - can add pathfinding nodes that give weights to certain paths (e.g. you can hop up here but it's difficult, there's no cover here)
+  - allows computers to be more creative with how bots get from pt 1 to pt 2
+  - bots working together as a group (no longer oblivious to each other)
+TODAY
+  - percentage of CPU cycles left to process game AI is still limited
+Halo
+  - simulated world, characters and their code are isolated from the world
+  - ai has simulated senses (vision and hearing) to discover the player
+  - The Covenant will be here on top of the building. If the player kills three of them, then the Covenant goes to a set of points that are inside the building. What's really happening is the Covenant is following quite simple rules that the player perceives ... as the flow of battle. It seems like the Covenant thinks they have been weakened, so they retreat to a more defensive position. In fact, they are actually just following quite specific rules that have been laid out for them in that space.
+  - simple if/then statements ("Elite I was with was killed, I'll run away") can seem like emotional responses ("fear")
+    * The character uses its AI "senses" to perceive the world -- to detect what's going on around it.
+    * The AI takes the raw information that it gets based on its perception and interprets the data.
+    * The AI turns that interpreted data into more processed information
+    * The AI makes decisions about what its actions should be based on that information.
+    * Then the AI figures out how it can best perform those actions to achieve the desired result based on the physical state of the world around it.
+  - four states of the combat cycle
+    * Idle
+    * Guard/Patrol
+    * Attack/Defend
+    * Retreat
+  - Not necessarily looking for unpredictability. Sneaking up behind a certain character type to make them run should work consistently in a game.
+  - Pathfinding, objects are tagged, ai knows it can run through small objects but must go around larger ones / larger players know they can go through larger items
+  - cover tag is attached to an object, not to a space so if object is destroyed, ai won't try to take cover there any more
+Call of Duty: Ghosts
+ - set them to Veteran level and they take more shots to kill 
+
+### Script ###
+
+Even with upgraded versions of these technologies inlcuding Behavior Trees and advanced pathfinding, the AI in modern FPS's isn't much better at these games than an 8-year-old with a noob tube.  Instead developers rely on cheater moves like increasing bullet damage for NPCs and allowing bots to see through walls in order to increase the difficulty levels (I'm looking at you Call of Duty).

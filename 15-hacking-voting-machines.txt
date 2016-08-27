@@ -1,0 +1,30 @@
+## Sources ##
+- https://en.wikipedia.org/wiki/Hacking_Democracy documentary about issues with electronic voting machines, specificly Diebold ones
+- https://www.supportthevoter.gov/files/2013/09/VSTAAB-Security-Analysis-of-Diebold-AccuBasic-Interpreter-2006.pdf Findings from UC Berkely after CA sec of state requested review of vulnerabilities
+
+## Notes ##
+- Diebold machines use AccuBasic, a limited, well-formed proprietary language whose purpose is to read and count votes
+  * the limited nature of the language is a plus as it limits the ways a hacker could muck things up
+- UC Berkeley review Confirmed the Hursti Hack was possible
+  - Able to change vote counts with access to nothing more than a memory card (needing no cryptographic keys, passwords or access to the rest of the system)
+    - gave one candidate positive votes and the other the same number of negative votes so starting count would still register as 0
+    - falsified the voting machine results tapes and the GEMS central tabulator report (election officials said since those matched they would have certified the election)
+  - identified other issues in the interpreter (buffer overruns, array bounds violations, double-free errors, format string vulnerabilities, and
+several others)
+    - wouldn't affect how the system runs but could be used by a hacker to change how the program performs
+    - would only be detectable through a manual recount of the paper ballots
+  - Unlike the AV-OS (optical scan) the AV-TSx required the memory cards be signed with a cryptographic key (preventing this type of attack from working on those machines)
+    * There were issues with how the key was implemented.  Unless voting officials made use of the option to create their own key, all of the systems fell back to a default key which was hard coded in the source code
+    * Key was published in well known research paper and can be found on Google so is easily available to anyone who wants the key
+  - No use of 'high assurance' development methods, appeared to be programmed using standard commercial development methods
+- Systems that allow the voter to prove how they voted are never used in U.S. public elections, and are outlawed by most state constitutions. The primary concerns with this solution are voter intimidation and vote selling.
+- "attacks on physical voting don't scale well" - computerphile
+- sometimes just a photo is the problem
+  - Jan 2007 a photo of the key used to open Diebold voting machines was posted on it's website.  It was confirmed that a copy of the key could be made from the photo alone.
+  - the key opens a panel that contains a removable memory card leaving the systems vulnerable to tampering.
+-  five states (Georgia, Delaware, Louisiana, South Carolina and New Jersey) use electronic voting machines that leave no way to audit results after the fact
+- Putting electronic voting machines into the category of critical infrastructure, which also includes power grids, airports, and hospitals, would allow DHS to set security standards for voting machines across the country, Wysopal said.
+- Digital Millennium Copyright Act of 1998 (DMCA) prevents researchers from inspecting voting machines due to copyright issues
+  - this was updated October 2015 but does not give enough time for voting machines to be examined prior to 2016 presidential election
+
+## Script ##
