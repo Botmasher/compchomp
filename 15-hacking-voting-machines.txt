@@ -1,6 +1,7 @@
 ## Sources ##
 - https://en.wikipedia.org/wiki/Hacking_Democracy documentary about issues with electronic voting machines, specificly Diebold ones
 - https://www.supportthevoter.gov/files/2013/09/VSTAAB-Security-Analysis-of-Diebold-AccuBasic-Interpreter-2006.pdf Findings from UC Berkely after CA sec of state requested review of vulnerabilities
+- https://thinkprogress.org/why-voting-machines-are-about-to-wreak-havoc-on-another-election-607f3be29389#.9thakldhv
 
 ## Notes ##
 - Diebold machines use AccuBasic, a limited, well-formed proprietary language whose purpose is to read and count votes
@@ -26,5 +27,6 @@ several others)
 - Putting electronic voting machines into the category of critical infrastructure, which also includes power grids, airports, and hospitals, would allow DHS to set security standards for voting machines across the country, Wysopal said.
 - Digital Millennium Copyright Act of 1998 (DMCA) prevents researchers from inspecting voting machines due to copyright issues
   - this was updated October 2015 but does not give enough time for voting machines to be examined prior to 2016 presidential election
+- post Help America Vote Act States then “went on a spending spree” with millions of federal dollars, buying state-of-the-art touch screen voting machines, also known as DREs (direct-recording electronic voting machines), Burden said. States also bought optical scan machines, where voters mark their paper ballot choices by filling out a bubble or connecting arrows. The results are read by a machine, similar to how SAT tests are processed.
 
 ## Script ##
