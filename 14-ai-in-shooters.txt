@@ -1,3 +1,115 @@
+## Asset Info ##
+
+Asset Origins:
+treasure-chest.png - via <a href="https://www.goodfreephotos.com/">Good Free Photos</a>
+
+Sauce Making:
+silhouette guy(s)
+  - smack into wall
+  - hump wall
+  - lift gun up
+  - point gun down
+gordon freeman-esque
+headcrab (totes adorbs version)
+winding road (bezier curve)
+
+
+ASSETS (art, img, anim, text):
+art:  3 different 'enemies' (images/chars/botfighter-handa)
+anim: knock each one down as if shot "pew pew pew"
+x img:  treasure
+x art:  brute bot (images/chars/brutebot)
+?img: glasses
+?anim: throw glasses on brute bot "that code got smarter"
+(Intro)
+art:  pseudo code of FPS AI (see script for example)
+art:  npc
+img:  wall
+anim: npc running face first into wall
+re:   2 of 'enemies' from intro
+anim: one chases other off the screen
+img:  lightbulb
+re:   1 'enemy'
+anim: light bulb shows up over enemies head "strategically figure out what to do"
+img:  map (w/x marks the spot)
+img:  monster hits wall with no symbol over it "smacking into walls"
+?art: gordon freeman-esque char
+re:   anim of npc running into wall
+art:  ripped paper with writing "Available States"
+anim: states are 'written' on paper as I say them "patrol for enemy", "run at enemy", etc
+?art: 'zombie' version of a character
+?img: zombie
+art:  head crab (can this be adorable?)
+re:   gordon freeman-esque char
+anim: gordon walks past the head crab
+anim: decision tree (I'll build this from the freeman/headcrab assets)
+img:  some sort of adorable, fuzzy animal 
+art:  combine soldier gun up/gun down
+anim: T/F, 0/1, soldier pointing gun/soldier w gun down
+img:  fuzzy logic truth values
+?img:  defuzzification math
+img:  trophy "greatest game of all time"
+img/anim:  non-diverging pathway OR anim bezier curve (sauce!)
+img:  thumb
+X X anim: sub and ada and border around thumb
+
+## Script ##
+
+Back in the day, enemies in Wolfenstein 3D didn't stand a chance against me.  I'd burst into the room (like a boss) and guards would come running at me. Pew! Pew! Pew! They're done.  And I was free to wander around Castle Wolfenstein, pressing spacebar against every wall, looking for treasure.
+
+Nowadays though?  My FPS skills are no match for those bot masters.  Did I get worse in my old age?  No!  That code got smarter.
+
+[INTRO]
+
+Welcome to CompChomp...the only show on the internets where we always set our bots to aggressive.
+
+In the beginning was the FPS NPC...and his code was simple.
+
+      ##### SHOW SOMETHING LIKE THIS ON THE SCREEN ####
+      if(player.detected()) {
+        until (self.dies() || player.dies()) {
+          player.run_directly_at();
+          player.fire_directly_at();
+        }
+      }
+      #### END ####
+
+If you detect the player...run directly at her while firing in her direction until she's dead or you are!
+
+That was pretty much it.
+
+The code was so simple, in fact, that many a poor NPC ended up running face-first into the wall, not realizing that "straight at the enemy" wasn't _quite_ going to work.
+
+In those early days, you could even get the NPCs to fight each other. Doom was famous for the 'monster infighting'.  Stand in juuuuuust the right spot between two groups of monsters, get one of them to accidently hit another monster while firing at you, then stand back and watch the primitive ai attack itself.
+
+We've got high expectations of our modern day shooters though.  The NPCs have to strategically decide what to do, they need to figure out where to go on the map to do it, AND, we definitely don't want to see them smacking into walls on their way there.
+
+In the late 90's Valve gifted us with Half-Life a game that brought FPS AI into the modern era. We played through the harrowing tale of Dr. Gordon Freeman as he defended the human race against an experiment gone horribly wrong.  Compared to the early wall-humping monsters, the NPCs in Half-Life seemed like Ph.D. candidates.
+
+Valve achieved this using a combination of Finite State Machines, Decision Trees and fuzzy logic.
+
+With Finite State Machines, each NPC has a fixed number of states they can be in.  For instance, a basic NPC might have the following:
+
+Patrol for enemies
+Attack enemies
+Look for health
+Die
+
+Each state comes along with a set of behaviors the NPC does while in that state.  And, an NPC can only be in a single state at a time.  No dying AND patrolling for players....this isn't Left for Dead.
+
+Decision trees are how an AI figures out which state it should be in.  Let's say I'm a sweet, little headcrab just going about my day when Dr. Freeman strolls by.  Did I detect him?  No - then I stay in my current state and continue minding my own business.  But if the answer is yes, I need to know if that nasty doctor is nearby.  No - then I crawl quickly in his direction.  Yes - I leap forward and feast on his delicious brains!
+
+The final piece, the one that ties everything together, is logic. And game devs like our logic the same way we like our animals....fuzzy.  With traditional, boolean logic, your options are true or false....a 0 or a 1.  Either you're close enough for the combine soldier to shoot at you or you're not.  With this kind of system, you end up with some very unnatural behavior.
+
+You see me!  You don't.  You see me!  You don't.
+
+In a fuzzy logic system, you get to have ranges.  No more near or far.  You can have multiple truth values! And, you can be a member of more than one category at the same time.  Let's say your current position in comparison to the combine soldier puts you at .2 near, .8 medium and 0 far.  Apply some magic defuzzification math and boom it turns out you're close enough for the soldier to continue shooting at you...even when you back off a tiny bit.  The gradual changes enabled by fuzzy logic allows for a much more human-like AI.
+
+Aaaaaaaaad, that's how Valve created the greatest game of all time.  In fact, many FPS-lovers think the AI in more recent shooters is much worse than Half-Life's.  That's because Valve had one more secret.  Since Half-Life was a more linear, story-based game, they could carefully guide the player down certain paths which limited the decisions an NPC had to make.  When you limit how a player can interact with an NPC, it's a lot easier to make that interaction seem intelligent.
+
+The advanced players at the time, those guys realized there was a limitation....they wanted more...what could it be?!?!?  A new video perhaps?  
+
+
 ## Sources ##
 
 - good research and examples http://www.cs.unm.edu/~pdevineni/papers/Yeruva.pdf
@@ -77,60 +189,3 @@ Halo
   - cover tag is attached to an object, not to a space so if object is destroyed, ai won't try to take cover there any more
 Call of Duty: Ghosts
  - set them to Veteran level and they take more shots to kill 
-
-
-## Script ##
-
-Back in the day, enemies in Wolfenstein 3D didn't stand a chance against me.  I'd burst into the room (like a boss) and guards would come running at me. Pew! Pew! Pew! They're done.  And I was free to wander around Castle Wolfenstein, pressing spacebar against every wall, looking for treasure.
-
-Nowadays though?  My FPS skills are no match for those bot masters.  Did I get worse in my old age?  No!  That code got smarter.
-
-[INTRO]
-
-Welcome to CompChomp...the only show on the internets where we always set our bots to aggressive.
-
-In the beginning was the FPS NPC...and his code was simple.
-
-      ##### SHOW SOMETHING LIKE THIS ON THE SCREEN ####
-      if(player.detected()) {
-        until (self.dies() || player.dies()) {
-          player.run_directly_at();
-          player.fire_directly_at();
-        }
-      }
-      #### END ####
-
-If you detect the player...run directly at her while firing in her direction until she's dead or you are!
-
-That was pretty much it.
-
-The code was so simple, in fact, that many a poor NPC ended up running face-first into the wall, not realizing that "straight at the enemy" wasn't _quite_ going to work.
-
-In those early days, you could even get the NPCs to fight each other. Doom was famous for the 'monster infighting'.  Stand in juuuuuust the right spot between two groups of monsters, get one of them to accidently hit another monster while firing at you, then stand back and watch the primitive ai attack itself.
-
-We've got high expectations of our modern day shooters though.  The NPCs have to strategically decide what to do, they need to figure out where to go on the map to do it, AND, we definitely don't want to see them smacking into walls on their way there.
-
-In the late 90's Valve gifted us with Half-Life a game that brought FPS AI into the modern era. We played through the harrowing tale of Dr. Gordon Freeman as he defended the human race against an experiment gone horribly wrong.  Compared to the early wall-humping monsters, the NPCs in Half-Life seemed like Ph.D. candidates.
-
-Valve achieved this using a combination of Finite State Machines, Decision Trees and fuzzy logic.
-
-With Finite State Machines, each NPC has a fixed number of states they can be in.  For instance, a basic NPC might have the following:
-
-Patrol for enemies
-Attack enemies
-Look for health
-Die
-
-Each state comes along with a set of behaviors the NPC does while in that state.  And, an NPC can only be in a single state at a time.  No dying AND patrolling for players....this isn't Left for Dead.
-
-Decision trees are how an AI figures out which state it should be in.  Let's say I'm a sweet, little headcrab just going about my day when Dr. Freeman strolls by.  Did I detect him?  No - then I stay in my current state and continue minding my own business.  But if the answer is yes, I need to know if that nasty doctor is nearby.  No - then I crawl quickly in his direction.  Yes - I leap forward and feast on his delicious brains!
-
-The final piece, the one that ties everything together, is logic. And game devs like our logic the same way we like our animals....fuzzy.  With traditional, boolean logic, your options are true or false....a 0 or a 1.  Either you're close enough for the combine soldier to shoot at you or you're not.  With this kind of system, you end up with some very unnatural behavior.
-
-You see me!  You don't.  You see me!  You don't.
-
-In a fuzzy logic system, you get to have ranges.  No more near or far.  You can have multiple truth values! And, you can be a member of more than one category at the same time.  Let's say your current position in comparison to the combine soldier puts you at .2 near, .8 medium and 0 far.  Apply some magic defuzzification math and boom it turns out you're close enough for the soldier to continue shooting at you...even when you back off a tiny bit.  The gradual changes enabled by fuzzy logic allows for a much more human-like AI.
-
-Aaaaaaaaad, that's how Valve created the greatest game of all time.  In fact, many FPS-lovers think the AI in more recent shooters is much worse than Half-Life's.  That's because Valve had one more secret.  Since Half-Life was a more linear, story-based game, they could carefully guide the player down certain paths which limited the decisions an NPC had to make.  When you limit how a player can interact with an NPC, it's a lot easier to make that interaction seem intelligent.
-
-The advanced players at the time, those guys realized there was a limitation....they wanted more...what could it be?!?!?  A new video perhaps?  
