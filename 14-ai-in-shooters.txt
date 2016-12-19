@@ -19,42 +19,42 @@ winding road (bezier curve)
 
 
 ASSETS (art, img, anim, text):
-X art:  3 different 'enemies' (images/chars/botfighter-handa), (char/mongoose-shooter) (char/aswang)
-anim: knock each one down as if shot "pew pew pew"
-X img:  treasure
-X art:  brute bot (images/chars/brutebot)
-X img: glasses
-anim: throw glasses on brute bot "that code got smarter"
+X X art:  3 different 'enemies' (images/chars/botfighter-handa), (char/mongoose-shooter) (char/aswang)
+X X anim: knock each one down as if shot "pew pew pew"
+X X img:  treasure
+X X art:  brute bot (images/chars/brutebot)
+X X img: glasses
+X X anim: throw glasses on brute bot "that code got smarter"
 (Intro)
-X art:  pseudo code of FPS AI (see script for example)
-- art:  npc
-- img:  wall
-- anim: npc running face first into wall
-X re:   2 of 'enemies' from intro
-anim: one chases other off the screen
-X img:  lightbulb
-X re:   1 'enemy'
-anim: light bulb shows up over enemies head "strategically figure out what to do"
-X img:  map (w/X marks the spot)
+X X art:  pseudo code of FPS AI (see script for example)
+X X art:  npc
+X X img:  wall
+X X anim: npc running face first into wall
+X X re:   2 of 'enemies' from intro
+X X anim: one chases other off the screen
+X X img:  lightbulb
+X X re:   1 'enemy'
+X X anim: light bulb shows up over enemies head "strategically figure out what to do"
+X X img:  map (w/X marks the spot)
 X img:  no symbol (images/props/no-symbol)
-- re: enemy smacking into wall
-anim: no symbol over monster smacking into wall
+X X re: enemy smacking into wall
+X X anim: no symbol over monster smacking into wall
 - art: gordon freeman-esque char
 - re:   anim of npc running into wall
-X art:  ripped paper with writing "Available States"
-anim: states are 'written' on paper as I say them "patrol for enemy", "run at enemy", etc
-X art: 'zombie' version of a character
+X X art:  ripped paper with writing "Available States"
+X X anim: states are 'written' on paper as I say them "patrol for enemy", "run at enemy", etc
+X X art: 'zombie' version of a character
 - art:  head crab (can this be adorable?)
 - re:   gordon freeman-esque char
 anim: gordon walks past the head crab
 anim: decision tree (I'll build this from the freeman/headcrab assets)
-X img:  some sort of adorable, fuzzy animal 
+X X img:  some sort of adorable, fuzzy animal 
 - art:  silhouette soldier gun up/gun down
 anim: T/F, 0/1, soldier pointing gun/soldier w gun down
-X img:  fuzzy logic truth values
-X img:  trophy "greatest game of all time"
-- img/anim:  non-diverging pathway OR anim bezier curve (sauce!)
-X img:  thumb
+X X img:  fuzzy logic truth values
+X X img:  trophy "greatest game of all time"
+X X img/anim:  non-diverging pathway OR anim bezier curve (sauce!)
+X X img:  thumb
 X X anim: sub and ada and border around thumb
 
 ## Script ##
