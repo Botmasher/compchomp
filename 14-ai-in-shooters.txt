@@ -6,6 +6,7 @@ newfoundland-smoky.jpg - via DanDee Shots https://en.wikipedia.org/wiki/Newfound
 trophy.png - via Charlesvonrosenberg https://en.wikipedia.org/wiki/File:Williamsburg_International_FC_Doylie_Derby_Trophy.png
 lightbulb.png - via https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwia5LmVwrrPAhWCTT4KHeyCA1wQjhwIBQ&url=https%3A%2F%2Fpixabay.com%2Fen%2Flight-bulb-lighting-electric-341059%2F&bvm=bv.134495766,d.dmo&psig=AFQjCNGVMR9uikrOXMhNiZPubg7B_FcOkg&ust=1475442474422903
 truth-values.png - via https://en.wikipedia.org/wiki/Fuzzy_control_system#/media/File:Fuzzy_control_-_centroid_defuzzification_using_max-min_inferencing.png
+hairless-dog.jpg - via Wiki.awal https://commons.wikimedia.org/wiki/File:Chinese_crested_dog_picture.jpg
 
 Sauce Making:
 silhouette guy(s)
@@ -36,21 +37,20 @@ X X img:  lightbulb
 X X re:   1 'enemy'
 X X anim: light bulb shows up over enemies head "strategically figure out what to do"
 X X img:  map (w/X marks the spot)
-X img:  no symbol (images/props/no-symbol)
+X X img:  no symbol (images/props/no-symbol)
 X X re: enemy smacking into wall
 X X anim: no symbol over monster smacking into wall
-- art: gordon freeman-esque char
-- re:   anim of npc running into wall
+X X art: gordon freeman-esque char
 X X art:  ripped paper with writing "Available States"
 X X anim: states are 'written' on paper as I say them "patrol for enemy", "run at enemy", etc
 X X art: 'zombie' version of a character
-- art:  head crab (can this be adorable?)
-- re:   gordon freeman-esque char
-anim: gordon walks past the head crab
-anim: decision tree (I'll build this from the freeman/headcrab assets)
+X X art:  head crab (can this be adorable?)
+X X re:   gordon freeman-esque char
+X X anim: gordon walks past the head crab
+X X anim: decision tree (I'll build this from the freeman/headcrab assets)
 X X img:  some sort of adorable, fuzzy animal 
-- art:  silhouette soldier gun up/gun down
-anim: T/F, 0/1, soldier pointing gun/soldier w gun down
+X X art:  silhouette soldier gun up/gun down
+X X anim: pointing gun/soldier w gun down
 X X img:  fuzzy logic truth values
 X X img:  trophy "greatest game of all time"
 X X img/anim:  non-diverging pathway OR anim bezier curve (sauce!)
