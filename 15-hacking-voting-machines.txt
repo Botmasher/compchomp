@@ -43,7 +43,7 @@ In 2004, conspiracies circulated about Diebold voting machines being rigged to d
 
 So, when I set out to research e-voting, my expectation was that I'd be able to show how secure it truly is. Sadly, that's not the case.
 
-The first thing you should know is that until October of 2015, voting machine code was considered intellectual property and the Digital Millennium Copyright Act prevented researchers from accessing the code unless the company gave them access to it.  Most declined.
+The first thing you should know is that until October of 2015, voting machine code was considered intellectual property and the Digital Millennium Copyright Act prevented researchers from accessing the code unless the company gave them access to it.  As you can imagine, most companies declined.
 
 One exception was in 2006 when California's Secretary of State requested that experts at U.C. Berkely review the security of the voting machines being used in the state.  They discovered a number of alarming issues.
 
@@ -53,7 +53,11 @@ High assurance software engineering is utilized for critical infrastructure (lik
 
 Although the voting machine code was high quality, there were a number of issues in the interpreter like buffer overruns and double-free errors that could be used by hackers to change how the program performed.
 
-The most alarming vulnerablitiy they found though is what's known as the "Hursti Hack".  The Hursti Hack, named after Harri Hursti, the Finnish programmer that first identified it, is a high tech form of 'stuffing the ballot box'.  He noticed that the voting machine was checking for a zero-vote count before starting - to ensure no one was pre-gaming that ballot box.  But, he realized there are many ways to make something equal zero...So, he altered the code on the memory card to have one candidate start with a positive vote total and another candidate start with the same amount of negative votes.  -150 votes for you + 150 votes for me equals 0 total votes so, this was not detected as an anomoly. And, since he was able to alter both the voting machine result tapes and the central tabulator, the manipulation would not have been caught by the central machine either.  If the totals match....the vote is...a pumpkin patch?  Uh...I'm not so good with the rhymes.
+The most alarming vulnerability they found though is what's known as the "Hursti Hack".  The Hursti Hack, named after Harri Hursti, the Finnish programmer that first identified it, is a high tech form of 'stuffing the ballot box'.  
+
+When the voting machines first boot up, they check for a zero-vote count before starting.  That way, they can be sure that no one has been pre-gaming the ballot box.  However, Hursti realized there are many ways to make something equal zero.  He altered the code on the memory card to have one candidate start with a positive vote total and another candidate start with the same amount of negative votes.  -150 votes for you + 150 votes for me equals 0 total votes.  Since the voting machines were ONLY looking for a zero-count, this was not detected as an anomoly. And, since Hursti was able to alter both the voting machine result tapes and the central tabulator, the manipulation would not have been caught by the central machine either.  
+
+If those vote totals match, the vote is a....pumpkin patch?  Uh...I'm not so good with the rhymes.
 
 Now, maybe you're thinking this is all well and good in an academic setting, but, no one is just going to sit there and let someone mess with a voting machine in real life.  Except, being left alone, in private, in the voting booth is one of the fundamental aspects of modern anonymous voting.  You can't have anyone watching what I do in the booth or there's a chance my vote could be coerced.  So, just a few minutes alone and blammo - I've got altered code on that machine...and, since it's common for official voting business to involve usb sticks going from one machine to the next, there's a chance I've infected a LOT of machines.
 

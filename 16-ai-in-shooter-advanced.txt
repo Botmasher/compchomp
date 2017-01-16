@@ -48,6 +48,47 @@ Halo
 Call of Duty: Ghosts
  - set them to Veteran level and they take more shots to kill 
 
+Finite State Machine vs Behavior Tree
+- finite state machine has only one state at a time (only one process can be run)
+- behavior tree allows for parallel processes
+- allows ai to adapt to current game states more easily than FSM
+  - would take lots of states/transitions for FSM to achieve same behavior
+- behavior trees are easy to change
+  - simply move node for different behavior, no need to worry about transitions
+- BTs strength is creating complex tasks composed of simple tasks (w/o worrying about implementation of simple tasks)
+- root, control flow nodes, execution nodes (tasks)
+  - for connected nodes, outgoing is parent, incoming is child
+  - control flow have at least 1 parent and 1 child
+  - execution have at least 1 parent and 0 child nodes
+  * running of BT starts from root and sends a 'tick' w/certain frequency to children
+    - tick is enabling signal that allows execution of a child
+    - if execution of node is allowed, it returns one of 3 messages to the parent node
+      - running: execution has not finished
+      - success: goal was achieved
+      - failure: all other instances
+  - control flow node controls the subtasks that compose it (runs each subtask in turn and decides what to do when success/failure is returned)
+    - sequence node: find and execute the first child that has not succeeded
+    - selector (fallback) node: find and execute the first child node that doesn't fail
+- Types of behaviors
+  - Conditions & Actions
+    - conditions check the status of something in the world (e.g. is enemy nearby?)
+    - actions do something that alters the world in some way (e.g. pick up pickaxe)
+  - Decorator
+    - adds flexibility to control an action without changing it's code (e.g. loop or timer)
+  - Sequences
+    - set of behaviors which must all complete for the sequence to succeed (e.g. approach enemy = locate enemy, plan path to enemy, follow path to enemy)
+  - Selectors
+    - set of behaviors where 1 must complete in order for the selector to succeed (e.g. attack enemy = gun attack OR knife attack OR magic attack)
+  - Parallels
+    - set of behaviors that all run simultaneously (e.g. attack enemy = approach enemy, gun attack, taunt enemy)
+      - a policy defines success or failure in a parallel
+      - if parallel succeeds/fails, all child processes must be terminated
+
+
+Behavior tree is 'brain' of AI
+
 ### Script ###
+
+Previously on CompChomp we tale
 
 Even with upgraded versions of these technologies inlcuding Behavior Trees and advanced pathfinding, the AI in modern FPS's isn't much better at these games than an 8-year-old with a noob tube.  Instead developers rely on cheater moves like increasing bullet damage for NPCs and allowing bots to see through walls in order to increase the difficulty levels (I'm looking at you Call of Duty).
