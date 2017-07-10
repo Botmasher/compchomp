@@ -1,3 +1,54 @@
+## Asset Info ##
+
+Asset Origins:
+bush-speaking.png - https://commons.wikimedia.org/wiki/File:Bush-April14-1.jpg - Public Domain (used as reference)
+hillary.png - https://www.washingtonpost.com/news/post-politics-live/wp-content/uploads/sites/53/2016/02/DEM_2016_Debate-01fd0.jpg (used as reference)
+cal-bear.png - https://www.flickr.com/photos/8070463@N03/3956233624 - CC-BY-SA
+harri-hursti.jpeg - https://alchetron.com/Harri-Hursti-629980-W - CC-BY-SA
+scratch.jpg - https://www.flickr.com/photos/usgeologicalsurvey/21894743631/ - public domain
+pumpkin-patch.jpg https://commons.wikimedia.org/wiki/File:Pumpkin_Patch.jpg - CC-BY-2.0 (cropped photo)
+voting-booth.jpg - https://commons.wikimedia.org/wiki/File:University_at_Buffalo_voting_booth.jpg - public domain
+
+
+Sauce Making:
+N/A
+
+
+ASSETS (art, img, anim, text):
+X X art: hacker 
+X X art: robot
+X X art: car
+X X anim: robot driving in car
+img: danger sign "electronic voting is dangerous!"
+X X art: george w. bush
+X X art: hilary clinton
+img: safety "electronic voting is absolutely safe (1:18)"
+X X text: DMCA
+img: private property sign "thanks but this is our private property (1:43)"
+X X img: bear (representing Cal Berkely)
+art: paper (write quality code, hand of to QA, tests?)
+X X art: hacker again (2:52)
+X art: nerd character to represent mathematics (chars/perfectionist)
+art: another nerd "hand them off to a 3rd party (3:14)"
+img: buffer overruns, double free errors
+X X img: Harry Hursti
+art: robot (as voting machine)
+anim: robot opens eyes, question mark over head, turns to 0
+anim: paper -150 + 150 = 0 (4:15)
+X X img: scratched tree
+X X img: pumpkin patch
+X X re: Harry Hursti
+X X img: voting booth
+img: security camera in voting booth (5:35)
+img: usb card (5:48)
+X X re: hacker
+X X text: dollar sign
+
+
+
+
+
+
 ## Sources ##
 - https://en.wikipedia.org/wiki/Hacking_Democracy documentary about issues with electronic voting machines, specificly Diebold ones
 - https://www.supportthevoter.gov/files/2013/09/VSTAAB-Security-Analysis-of-Diebold-AccuBasic-Interpreter-2006.pdf Findings from UC Berkely after CA sec of state requested review of vulnerabilities
