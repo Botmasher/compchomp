@@ -8,6 +8,11 @@ harri-hursti.jpeg - https://alchetron.com/Harri-Hursti-629980-W - CC-BY-SA
 scratch.jpg - https://www.flickr.com/photos/usgeologicalsurvey/21894743631/ - public domain
 pumpkin-patch.jpg https://commons.wikimedia.org/wiki/File:Pumpkin_Patch.jpg - CC-BY-2.0 (cropped photo)
 voting-booth.jpg - https://commons.wikimedia.org/wiki/File:University_at_Buffalo_voting_booth.jpg - public domain
+danger-sign.png - https://pixabay.com/en/warning-sign-red-triangle-road-303898/ - CC0
+private-property - By Dru Bloomfield from Scottsdale, Arizona, USA - No TrespassingUploaded by Pieter Kuiper, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=10213671
+By Everaldo Coelho and YellowIcon; - All Crystal Clear icons were posted by the author as LGPL on kde-look;, LGPL, https://commons.wikimedia.org/w/index.php?curid=1159660
+buffer-overrun.png - based on example giving in https://en.wikipedia.org/wiki/Buffer_overflow
+
 
 
 Sauce Making:
@@ -19,28 +24,28 @@ X X art: hacker
 X X art: robot
 X X art: car
 X X anim: robot driving in car
-img: danger sign "electronic voting is dangerous!"
+X X img: danger sign "electronic voting is dangerous!"
 X X art: george w. bush
 X X art: hilary clinton
-img: safety "electronic voting is absolutely safe (1:18)"
+X X img: safety "electronic voting is absolutely safe (1:18)"
 X X text: DMCA
-img: private property sign "thanks but this is our private property (1:43)"
+X X img: private property sign "thanks but this is our private property (1:43)"
 X X img: bear (representing Cal Berkely)
-art: paper (write quality code, hand of to QA, tests?)
+X X art: paper (write quality code, hand off to QA, tests?)
 X X art: hacker again (2:52)
-X art: nerd character to represent mathematics (chars/perfectionist)
-art: another nerd "hand them off to a 3rd party (3:14)"
-img: buffer overruns, double free errors
+X X art: nerd character to represent mathematics (chars/perfectionist)
+X X art: another nerd "hand them off to a 3rd party (3:14)"
+X X img: buffer overruns, double free errors
 X X img: Harry Hursti
-art: robot (as voting machine)
-anim: robot opens eyes, question mark over head, turns to 0
-anim: paper -150 + 150 = 0 (4:15)
+X X art: robot (as voting machine)
+X X anim: robot opens eyes, question mark over head, turns to 0
+X X anim: paper -150 + 150 = 0 (4:15)
 X X img: scratched tree
 X X img: pumpkin patch
 X X re: Harry Hursti
 X X img: voting booth
 img: security camera in voting booth (5:35)
-img: usb card (5:48)
+X X img: usb card (5:48)
 X X re: hacker
 X X text: dollar sign
 

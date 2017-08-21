@@ -1,0 +1,69 @@
+## Assets ##
+
+## Script ##
+
+## Sources ##
+https://www.theregister.co.uk/2017/07/29/us_voting_machines_hacking/
+http://gizmodo.com/personal-info-of-650-000-voters-discovered-on-poll-mach-1797438462
+http://fortune.com/2017/07/31/defcon-hackers-us-voting-machines/
+https://www.cnet.com/news/defcon-hackers-find-its-very-easy-to-break-voting-machines/
+http://assets01.aws.connect.clarityelections.com/Assets/Training/RootPreview/Customers/FL_Broward/Library/Manuals/VST_DS200_and_Ivotronic_Manual.pdf
+https://twitter.com/VotingVillageDC
+https://www.wired.com/story/voting-machine-hackers-5-tips/
+
+## Notes ##
+2017 DefCon conference included "Voting Village" 30 voting machines from major creators (Diebold, Sequoia, WinVote) that were availble to be hacked
+	- some took apart physically and noted the vulnerabilites
+	- some were hacked wirelessly
+	- first few vulnerabilites found in first 90 minutes (all were new)
+How'd they get them:
+	- bought on ebay
+	- purchased at government auctions
+What were the issues:
+	- Some ran outdated software (including unpatched OpenSSL, Windows XP, Windows CE)
+		- MS03-026 vulnerability in WinXP, allowing infosec academic Carsten Schurmann to access the machine from his laptop using RDP.  access would enable him to change the vote tally from anywhere
+		- OpenSSL bug CVE-2011-4109
+	- poorly secured wifi connectivity
+	- admin passwords available on Google
+	- unsecured SQL databases with unsanitized SQL inputs coming in
+	- Voting System Technician training manual online includes password and how to log in
+Criticism:
+	- Some of the machines were not fully secured (the way the manufacturers direct them to be by county officials)
+	- Some of the hacks would have been detected and logged
+	- Some of the machines are no longer in use in elections (1 model was decomissioned all others still active)
+Extra:
+	- a ExpressPoll-5000 electronic poll book (used to check voters in) from Tennessee hadn't been wiped before being sold and data from over 650,000 voters was still on the machine
+		- included name, address, birthday, political party, whether they voted absentee, whether they were asked to show id
+		- file was on a removable memory card, data was not incrypted or password protected
+		- If someone had access before election, could alter it to make it appear that people had already voted absentee which would prevent them from voting on election day
+		- Georgia special election 4 were stolen from poll managers truck when he stopped for groceries
+	- got a WinVote to RickRoll people
+Evidence that election systems in 21 states were targeted by cyber attacks
+	- does not appear that any votes were changed
+	- unclear what (if any) data they were able to hack
+Follow Up On:
+	- In one case study, the company found a poll worker in Virginia had hacked the machine so she could play Minesweeper on it.
+Some safeguards:
+	- Govt certifies vendors/equipment
+	- Independent hardware/software evaluation
+	- Voter-verified paper audit trail
+	- Mandatory recounts (automatic audit of some fraction of precinct results)
+	- Parallel testing for proper behavior
+		- some mahcines pulled from service on election day and run in a simulated election
+None of this includes back end attacks:
+	- hacking into voter databases to change/steal information (changes could delay someone's ability to checkin/vote)
+	- targeting specific employees with backend access using spear phishing attack (get them to click on a link in an email so you have access to the network)
+Recommendations:
+	- Retire old/outdated voting machines
+		- known vulnerabilities should be patched
+		- all machines should have a paper trail for auditing
+	- Secure voter registration systems and voter databases against hacking attacks
+		- encrypt databases
+		- use proper passwords and ensure passwords are kept secret
+	- Require risk limiting audits for any precinct that uses electronic voting machines
+		- take random, representative samples of the paper trail and audit them for accuracy
+	- Adjust the rules of procurement and maintenance of election voting systems
+		- require continuous delivery/installation of security patches
+	- Improve training of polling station staff
+		- Election officials need to be able to handle cryptographic keys and to protect them in the face of social engineering and other hacking attacks
+		- Could be largely done by 1-day IT conference
