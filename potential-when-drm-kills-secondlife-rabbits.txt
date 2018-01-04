@@ -1,0 +1,84 @@
+## Sources ##
+https://waypoint.vice.com/en_us/article/d7aj9j/thousands-of-second-life-bunnies-are-going-to-starve-to-death-this-saturday
+https://web.archive.org/web/20170516184219/http://blog.ozimals.com/2017/05/cease-and-desist.html
+https://www.rockpapershotgun.com/2017/05/19/second-life-ozimals-pet-rabbits-dying/
+https://www.gofundme.com/FortheLoveofOz - gofundme to raise money to help Ozimal create start new company (http://www.fablesinsl.com/)
+http://nwn.blogs.com/nwn/2011/01/horsie-triumphs.html
+https://drive.google.com/file/d/0B-_7k-VigxufaTM5b18yVXpvZU0/view
+https://en.wikipedia.org/wiki/Second_Life
+https://en.wikipedia.org/wiki/Digital_rights_management
+
+## Notes ##
+What is DRM
+  - Digital Rights Management
+  -  access control technologies for restricting the use of proprietary hardware and copyrighted works
+  - proponents claim it's a 'digital lock' that protects intellectual property the way a 'physical lock' protects personal property
+  - opponents claim it does nothing to prevent copyright infringment and serves only to annoy real customers (and prevent them from using the asset in a legitimate way)
+    - can't back up a song in case your CD gets damaged, can't lend digital books in a library, etc
+    **** Also don't like that works can become permanently innaccessible if the DRM scheme changes or the service is discontinued
+  - ELectronic Frontier Foundation and Free Software Foundation consider DRM to be an anti-competitive practice
+  - When standards and formats change, it may be difficult to transfer DRM-restricted content to new media
+  - Types:
+    - always on: you have to be online so your system can talk to a server and prove you have teh right to use the material
+    - product key: enter a key that you got when you purchased the product
+    - limited installs: you only get to download and install the program so many times
+    - etc
+
+What is Second Life
+  - online based virtual world launched in 2003
+  - developed by SF based Linden Labs
+  - Linden Scripting Language for creating interactions
+  - basic 3d modeling tools
+  - started out as more of an object driven virtual world but transitioned to user-created, community-driven world
+  - Linden Lab provides official viewers for Windows, macOS, and most distributions of Linux. The viewer renders 3D graphics using OpenGL technology. The viewer source code was released under the GPL in 2007 and moved to the LGPL in 2010.
+
+What's the deal with the rabbits?
+  Image of them - https://video-images.vice.com/articles/591df751d537377df120bccf/lede/1495136282598-second_life_bunnies.jpeg
+  Starve to death May 20th 2017
+  They're a 'breedable'
+    many forms (cats, chickens, shoes, flowers, dragons)
+    buy it blind and hope for a rare one
+    breed them with each other to get other rare ones
+      you can even sell the ones you breed to other users
+  Make sure original creator still gets cash money
+    most need to eat (food is bought from original creator)
+    most need to talk to a server regularly (if not constantly) to ensure they haven't been tampered with
+  Ozimals - well known 'breedable' creator for over a decade (
+Malkavyn Eldritch)
+    - kicked off breedable craze with their bunnies
+    - bunnies initially had to be assembled from sculpted lumps and bean shapes (full mesh models weren't able to be imported yet)
+  Ozimals turned off their servers due to cease and desist
+    pufflings died immediately (perfectly round birdlike creatures with huge eyes)
+    rabbits hibernated after 72 hours (unless they were Everlasting) because they could hold up to 72 hours worth of DRM food in their bellies
+      Everlasting rabbits had owners that purchased "Everlasting Timepiece" which rendered it sterile but made it no longer rely on food and severed it from the servers
+      Cant order a bunch of food and keep them alive longer because the food needed to connect with the server to verify it was legit
+What happened?
+  Cease and Desist order
+  Akimeta Ltd (one party of cease and desist)
+    2009 and 2010 made models and textures for rabbits, accessories, and other bits and pieces they licensed to the company Ozimals LLC
+    Ozimals the company was dissolved in 2016 but person continued running "Ozimals the game" and using their work
+    Claimed that was not covered by the old license
+  Edward Distelhurst
+    programmer who worked on the game
+    legal battle for six years over alleged unpaid royalties
+  What they claim
+    - Akimeta: unauthorized transfer of Ozimal assets when the company ended (to new owner)
+      - A licensing agreement was negotiated and agreed to by both parties which specifically
+allowed Ozimals LLC/Inc. exclusive commercial use with the provision that no transfer was
+permitted to other parties without further negotiation. 
+      - Akimeta Ltd. retained copyright of the assets (approximately 1400 individual files), while Ozimals LLC/Inc. was permitted to continue using the product of this work for the life of the company.
+      - Ozimals dissolved in September 2016 and transferred use of the assets to Cameron Holt
+    - Distelhurst: owed a lot of back pay, copyrighted HIS code
+      - never did a work for hire but was supposed to recieve commissiono on the sales
+      - 10 months in quit because they wouldn't verify how much he should have been paid and disputed his contract
+      - Ozimals filed copyright on his code (without his knowledge)
+
+Timeline
+  Tuesday May 16 - Blogpost about the cease and desist goes up
+  Wednesday May 17 - servers turned off, products and associated games cease to function, pufflings die immediately
+  Saturday May 20 - All non Everlasting bunnies will go in to hibernation, Everlasting bunnies will continue to exist as usual
+Miscellaneous
+  - previous Bunny VS Horse (DMCA takedown) battle "I'm a little baffled how the revenue streams from these virtual animals can profitably support full-scale litigation warfare. Unfortunately, the parties seem to be going down that path." - Law blogger Eric Goldman
+  - "For the Love of Oz" community helped get Everlasting Timepieces to people that did not find out in time to buy their own
+  - "A lack of resources, and the inability of humans to work together to find a solution, can lead to extinction just about anywhere."
+  - Original owners were Cameron Holt and Candace Sargeant, they clamed Ozimals the company was separate from Ozimals the Game and transfered rights to the game to Holt when the company was dissolved, 
