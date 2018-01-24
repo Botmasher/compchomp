@@ -1,13 +1,11 @@
 ## Assets ##
 
 ## Draft 2 ##
-Rabbits.  Dead ones.  As far as the eye can see.  The culprit?  A technology designed to keep you from pirating your favorite DVDs. <<possibly indicate why I care so the audience cares too>>
+Saturday May 20th, 2017. There were rabbits.  Dead ones.  As far as the eye could see.  I love animals...so I made it my mission to find out what kind of monster could do this.  The culprit?  A technology designed to keep you from pirating your favorite DVDs.
 
 [[OPEN]]
 
->> Welcome to CompChomp the only show on the internets where we limit you to one subscription per account.
-
->> Welcome to CompChomp the only show on the internets where the Ultimate Jess Mix will live on forever.
+Welcome to CompChomp the only show on the internets where the Ultimate Jess Mix will live on forever.
 
 In January of 2010, a company called Ozimals launched a new offering in the online virtual world Second Life - adorable, colorful bunnies. The rabbits were a game item known as a breedable.  After purchasing them from Ozimals, owners could 'breed' their rabbits and create rabbits which they could keep or sell.  Ozimals rabbits were the first breedable product that utilized genetic principles in determining what the offspring would look like.  This made the bunnies very popular.
 
@@ -15,12 +13,11 @@ But if the rabbits you've sold breed like....rabbits....how do you keep your bun
 
 This was a powerful hunger...too powerful for regular old digital carrots.  This hunger needed special DRM-laced food that you could only get from Ozimals. Each rabbit had to connect with the Ozimals' server regularly. If they had the DRM-food in their stomach when they connected, they'd get a 72-hour reprieve.  If the bunnies didn't have a belly full of Ozimals brand rabbit food, they'd fall into a coma.  And the only prescription was more Ozimals food.
 
-This is a form of "digital rights management" (DRM to its frenemies).  The goal of most DRM is to keep you from making a million perfect copies of a game or movie so no one buys it from the publisher.  Way back in the day (the 80s....I'm talking about the 80s) data was a bit more physical.  Your Top Gun VHS had a magnetic tape with the audio and sweet sweet video physically encoded.  Every time you watched the tape....you lost some fidelity.  Every time you made a copy of the tape....same deal.  They might not have loved having people make copies but there was no risk of infinite perfect clones.  Digital changed everything.
+Wait a sec....I'm over here throwing around acronyms like nobody's business...what is DRM?  Have you ever bough a brand new game, spent 45 minutes watching it install, finally started it up just to be hit with a text box demanding that you enter a 20 digit code?  If you've experienced that annoying code, the one you'd better enter perfectly or else you have to start again from the first digit, then you know, deep down, what what it is.
 
-<<you know DRM because of this one thing...give me reason to care first....give the examples up front and then tell them what it is>>
-If you've ever had to enter a 2000 digit key to access your game, been told that you had 0 of 1 installs remaining or not been able to stream your favorite shows on your new laptop because you've already connected too many other devices, you've experienced DRM.
+That code is one popular form of "digital rights management" (DRM to its frenemies).  The goal of most DRM is to keep you from making a million perfect copies of a game or movie so no one buys it from the publisher.  Way back in the day (the 80s....I'm talking about the 80s) data was a bit more physical.  Your Top Gun VHS had a magnetic tape with the audio and sweet sweet video physically encoded.  Every time you watched the tape....you lost some fidelity.  Every time you made a copy of the tape....same deal.  They might not have loved having people make copies but there was no risk of infinite perfect clones.  Digital changed everything.
 
-Publishers say it's necessary to stay profitable enough to continue making the software, music and movies that people love.  Critics (like Stallman here) say that it does very little to stop thieves and instead hurts the people that bought legitimate copies. At their worst, some DRM approaches can result in people losing access to digital media they purchased fair and square.
+Publishers see a world full of people looking for free content and say DRM necessary to stay profitable enough to continue making the software, music and movies that people love.  Critics (like Stallman here) say that it does very little to stop thieves and instead hurts the people that bought legitimate copies. At their worst, some DRM approaches can result in people losing access to digital media they purchased fair and square.
 
 And, that's exactly what happened with the bunnies.
 
