@@ -1,3 +1,71 @@
+## Assets ##
+
+## Draft 2 ##
+Rabbits.  Dead ones.  As far as the eye can see.  The culprit?  A technology designed to keep you from pirating your favorite DVDs. <<possibly indicate why I care so the audience cares too>>
+
+[[OPEN]]
+
+>> Welcome to CompChomp the only show on the internets where we limit you to one subscription per account.
+
+>> Welcome to CompChomp the only show on the internets where the Ultimate Jess Mix will live on forever.
+
+In January of 2010, a company called Ozimals launched a new offering in the online virtual world Second Life - adorable, colorful bunnies. The rabbits were a game item known as a breedable.  After purchasing them from Ozimals, owners could 'breed' their rabbits and create rabbits which they could keep or sell.  Ozimals rabbits were the first breedable product that utilized genetic principles in determining what the offspring would look like.  This made the bunnies very popular.
+
+But if the rabbits you've sold breed like....rabbits....how do you keep your bunny selling business from going under? To ensure they'd make money off every rabbit whether it was purchased from Ozimals or not, they programmed the rabbits to be hungry.  
+
+This was a powerful hunger...too powerful for regular old digital carrots.  This hunger needed special DRM-laced food that you could only get from Ozimals. Each rabbit had to connect with the Ozimals' server regularly. If they had the DRM-food in their stomach when they connected, they'd get a 72-hour reprieve.  If the bunnies didn't have a belly full of Ozimals brand rabbit food, they'd fall into a coma.  And the only prescription was more Ozimals food.
+
+This is a form of "digital rights management" (DRM to its frenemies).  The goal of most DRM is to keep you from making a million perfect copies of a game or movie so no one buys it from the publisher.  Way back in the day (the 80s....I'm talking about the 80s) data was a bit more physical.  Your Top Gun VHS had a magnetic tape with the audio and sweet sweet video physically encoded.  Every time you watched the tape....you lost some fidelity.  Every time you made a copy of the tape....same deal.  They might not have loved having people make copies but there was no risk of infinite perfect clones.  Digital changed everything.
+
+<<you know DRM because of this one thing...give me reason to care first....give the examples up front and then tell them what it is>>
+If you've ever had to enter a 2000 digit key to access your game, been told that you had 0 of 1 installs remaining or not been able to stream your favorite shows on your new laptop because you've already connected too many other devices, you've experienced DRM.
+
+Publishers say it's necessary to stay profitable enough to continue making the software, music and movies that people love.  Critics (like Stallman here) say that it does very little to stop thieves and instead hurts the people that bought legitimate copies. At their worst, some DRM approaches can result in people losing access to digital media they purchased fair and square.
+
+And, that's exactly what happened with the bunnies.
+
+Ozimals had been plagued with legal battles almost from the beginning. After years of maneuvering (including claiming that Ozimals the company was completely separate from Ozimals the game), they reached the end of the road.  On Tuesday May 16, 2017 a post titled "Cease and Desist" was posted to the Ozimals blog. They stated that they were legally required to stop everything relating to Ozimals.  This included turning off the servers that the bunnies had to check in with to ensure they'd eaten their DRM-food.  A small number of "Everlasting" rabbits whose owners had traded their ability to breed for a DRM-free existence would continue on.  For the rest of them, all hope was gone.
+
+Wednesday morning, the servers were turned off.
+
+By Saturday, the last of the bunnies finished digesting their 72-hour DRM kibble and fell into a deep sleep they'd never be able to wake up from.
+
+It seems even our digital worlds aren't safe from man-made extinctions.
+
+CHOMP!!!!!
+
+## Draft 1 ##
+NB: Consider starting with a story about making a mix tape and use that to talk about DRM
+
+Digital rights management (DRM to its frenemies) has always been a bit annoying. Find the 300-digit number on the back of the game box and enter it before you can play the game. Messed up a digit? Start over again at digit 1! Frustrating, but doable. What happens though when DRM becomes deadly?
+
+>> Welcome to CompChomp the only show on the internets where we limit you to one subscription per account.
+
+>> Welcome to CompChomp the only show on the internets where the Ultimate Jess Mix will live on forever.
+
+A long time ago, music and movies were stored on analog media like cassette tapes. It was simple to make a copy of a song for your friend - just get the double cassette tape deck and boom! Publishers didn’t like this, but, they weren’t too worried. After all, every copy you made was just a little worse than before. Heck! Every time you played your tape (whether it was a copy or the original, it lost some of it’s magic. They knew you’d eventually be back to buy more.
+
+Then the worst thing in the world happened. Digital.
+
+Now, you could take your sweet Pentium 386 computer with the built in CD burner and burn infinite, high quality copies of your favorite song. Well, not infinite....those read/write CDs weren't cheap! But still, the Jess Mix was going global.
+
+Publishers were in a quandry! They needed a way to ensure that one CD or DVD purchase didn't turn into millions of perfect copies.  DRM to the rescue.
+
+Digital Rights Management encompasses a whole range of tactics publishers have for limiting access to their intellectual property.  If you've ever purchased a computer game and had to enter a 16-digit key in order to gain access to the program, you've done the DRM dance.  Perhaps you've connected your new phone to a music platform and been told that you can only connect 1 other device...or you've burnt a CD of songs only to discover they won't play because they're missing key data. That's all DRM.
+
+One method whose popularity has grown hand in hand with the popularity of the internet is 'Always On'. With 'always on' you have to periodically communicate with a computer server to ensure you have the right to continue using the program.
+
+<<Maybe XBOX One career killer joke here?>>
+
+That's the process that the Ozimal's development team used for the bunnies they created for Second Life (the virtual world created by Linden Labs).  It turns out that virtual people love pets just as much as real people.  Ozimals filled the binary holes in people's digital hearts with digital bunnies. No longer bound by the rules of genetics, the bunnies had an array of wild and crazy fur colors. Pet owners could breed their digital rabbits and create new and interesting fur patterns.  If you loved it, you could keep it, if not, sell it to another second lifer and get some cold hard cash.
+
+Of course, if you allow your digital rabbits to breed like....rabbits....you'd quickly go out of business. To ensure that they'd make money off of rabbits whether they were purchased from Ozimals or not, they programmed the rabbits to be hungry.  
+
+This was a hunger that was too powerful for any regular old digital carrots.  This hunger needed special DRM-laced food that you could only get from Ozimals. The rabbits had to connect with the Ozimals' server every day. If they had the DRM-food in their stomach when they connected, the rabbit would stay awake.  No food equals bunny coma.  At least until their owner shells out some cash for some Ozimals brand DRM bunny chow.
+
+
+
+
 ## Sources ##
 https://waypoint.vice.com/en_us/article/d7aj9j/thousands-of-second-life-bunnies-are-going-to-starve-to-death-this-saturday
 https://web.archive.org/web/20170516184219/http://blog.ozimals.com/2017/05/cease-and-desist.html
