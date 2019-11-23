@@ -97,3 +97,5 @@
 49. Id Software's Doom engine wasn't actually a true 3D engine at all, but a very well conceived two dimensional sector-based engine with 2D sprites representing objects, characters, and anything not tied down to the map. Because of this 2D limitation, rooms could not be stacked on top of one another, but this also allowed for faster rendering on the less powerful hardware of the time. All that was needed to run Doom was a 386 level PC (in low-detail mode) with a standard VGA video card capable of rendering texture-mapped environments.  Id created the illusion of 3D with height differences added separately to the environment...
 
 50. DRM kills, millions of bunnies in 2nd life going 'to sleep' because the company that owns them (they were licensed to purchasers) lost a lawsuit. You have to feed them a purchased food every X period of time to wake them up.  With the company going out of business, the food is no longer available.
+
+51. Nefertiti Berlin museums can VS hacked Kinect scan
