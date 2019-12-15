@@ -98,4 +98,57 @@
 
 50. DRM kills, millions of bunnies in 2nd life going 'to sleep' because the company that owns them (they were licensed to purchasers) lost a lawsuit. You have to feed them a purchased food every X period of time to wake them up.  With the company going out of business, the food is no longer available.
 
-51. Nefertiti Berlin museums can VS hacked Kinect scan
+51. Nefertiti Berlin museums scan VS hacked Kinect scan
+
+#### Below this line from brainstorming session ####
+
+52. How you get targeted for ads/why you see the ads you see online
+53. How can a computer be racist?
+54. How many databases is your name in? How much information is collected on us?
+55. How do computers detect emotion (grocery shopping, Toys R Us, etc)?
+56. What's the smallest computer (smallest thing that could reasonably be called a computer)?
+57. Robot vs Human - who's better at different things (list of ingredients for a meal, shopping, wine tasting challenges, robot sniffer vs dog, etc)?
+58. Coming issue of Linux time (computers tell time based on milliseconds from 1970, when will that break, etc)?
+59. Does any computer stuff work differently/not work in space (do bits get shifted, does something happen, etc)?
+60. What is a line of computer code worth? What's the most valuable line of code?
+61. How much do my smart home devices know about me?
+62. Are computer languages biased (linguistics of it, how they're structured, characters used, etc)
+63. Code secrets, things that are in private ropos, behind virtual gates and you can't know how they work (trade secrets)
+64. The code that decides how long you spend in jail
+65. 10 times that a bit being off changed history? (can we find a number of these examples)?
+66. How long does memory last? How long until bit rot? Bring in stuff from the digital archivists that I know and love! Can a website/video game last forever?
+67. How do restaurants use code? POS machines are obvious, is there smart ordering, code behind why the cashier has trouble putting your order in
+68. Domain specific vs domain general for AI, dishwasher has a lot of little pieces with artificial intelligence (but domain specific - maybe like a Nest thermometer)
+69. What would a smart restaurant look like (one that used all the tech/code that we have available now)? Inventory management, supply chains, etc.
+70. Automations in farming that involve AI and code
+71. Can you splice code into a living thing? Hide code in the DNA of an orange? Has anyone ever smuggled code that way?
+72. When will you be replaced by a robot? A timeline for different professions/people?
+73. Was code used in any interesting major heists? Banks, art, etc?
+74. IBM and the extermination camps...how code can help facist dictators.
+75. Why does a website ask you to mark all the square with cars?
+76. The story of captas and how free porn sites were used to crack them
+77. Why is it so hard for AI to figure out how to walk (look at some of the 2 minute papers videos on this subject)
+78. What does it mean to 'jailbreak' a phone?
+79. How does the 'hornet'/'salamander'/whatever it's called capture your cell phone connection and allow police to spy on your phone data?
+80. Why are waves hard to model? What's the most complicated material/texture to model? What prevents animations from looking 100% like real life? Why is wind hard for computers to model?
+81. Who owns code? The code in your tv? You coffee machine? The websites you visit?
+82. Bugs we've talked about already...missing noh in pokemon, kill screens in donkey kong (buffer overflow), Ghandi going nuclear in Civ, the recent story about Outer World and the companion being dead bug
+83. Video game speed records using glitches...maybe a specific interesting glitch, any of the glitches where you use the game to rewrite the code of the game
+84. Good Bad Bug (bugs that make things better) and Big Bad Bugs (bugs that broke things and ruined them)
+85. A look back at...how have we learned to do better, how have we fixed it (e.g. blue screen of death, Y2K, etc)
+86. Why don't I get my trophies on Overcooked (when I'm playing couch co-op)
+87. Single video game character with the most complicated code or the most code required to write them?
+88. Be my rag doll, why video game physics take so little code these days...
+89. Why aren't all video games systems backwards compatible? Which systems were harder to update games for?
+90. Have games gotten harder to code or easier to code? What does it take to make a game?
+91. Has AI generated any 'good' art/music/etc?
+92. When do we know that AI is fully awake? Talk about Church, Turing, etc.
+93. Magic the Gathering is turing complete (and other places where you can program but don't realize that you can). "This card game is technically a computer"
+94. What would it take to make video game dialogue truly unique/interesting/generative? Dialogue trees that don't have to eventually branch back to the same generic line to continue the story...
+95. Idle state, how we made more interesting idle states when characters aren't being plays (char stands there, bouncing in street fighter, sits down/stands up, finite state machines w/randomness, environmental interaction, etc)
+96. The brains of different code? How don't starve characters have brains? How your favorite video game characters think?
+97. I thought this game had no clipping! Why wall clipping is a thing. The code behind wall clipping.
+98. The code behind being able to pet the dog in various video games. How much extra dev time, code, etc does it cost in the game development?
+99. How big are big games? How many lines of code? What is the code doing?
+100. Other examples of source code sorcery (like the Doom lighting one)
+101. Overly simplifying but also complicating things (like the Polygon guy did with characters in Fire Emblem)...I made a computer language that's really simple, technically all of the code in X can be reduce/combined down/etc (Goedel Escher Bach), Take something you know like a game or Facebook and just keep whittling it down (tongue in cheek)
